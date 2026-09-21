@@ -1,0 +1,1001 @@
+Employee ID,Full Name,Job Title,Department,Business Unit,Gender,Ethnicity,Age,Hire Date,Annual Salary,Bonus %,Country,City,Exit Date,Turnover,End Date,Tenure Years,Age Group,Hire Year,Exit Year,Bonus Amount,Total Compensation,Tenure Group,Workforce Age Group
+E02002,Kai Le,Controls Engineer,Engineering,Manufacturing,Male,Asian,47,2022-02-05,92368,0.0,United States,Columbus,,0,2023-02-12,1.0184804928131417,45-54,2022,,0.0,92368.0,0-2,45-54
+E02003,Robert Patel,Analyst,Sales,Corporate,Male,Asian,58,2013-10-23,45703,0.0,United States,Chicago,,0,2023-02-12,9.305954825462011,55-65,2013,,0.0,45703.0,6-10,55+
+E02004,Cameron Lo,Network Administrator,IT,Research & Development,Male,Asian,34,2019-03-24,83576,0.0,China,Shanghai,,0,2023-02-12,3.890485968514716,25-34,2019,,0.0,83576.0,3-5,Under 35
+E02005,Harper Castillo,IT Systems Architect,IT,Corporate,Female,Latino,39,2018-04-07,98062,0.0,United States,Seattle,,0,2023-02-12,4.851471594798084,35-44,2018,,0.0,98062.0,3-5,35-44
+E02006,Harper Dominguez,Director,Engineering,Corporate,Female,Latino,42,2005-06-18,175391,0.24,United States,Austin,,0,2023-02-12,17.65366187542779,35-44,2005,,42093.84,217484.84,16+,35-44
+E02007,Ezra Vu,Network Administrator,IT,Manufacturing,Male,Asian,62,2004-04-22,66227,0.0,United States,Phoenix,2014-02-14,1,2014-02-14,9.815195071868583,55-65,2004,2014.0,0.0,66227.0,6-10,55+
+E02008,Jade Hu,Sr. Analyst,Accounting,Specialty Products,Female,Asian,58,2009-06-27,89744,0.0,China,Chongqing,,0,2023-02-12,13.6290212183436,55-65,2009,,0.0,89744.0,11-15,55+
+E02009,Miles Chang,Analyst II,Finance,Corporate,Male,Asian,62,1999-02-19,69674,0.0,China,Chengdu,,0,2023-02-12,23.980835044490075,55-65,1999,,0.0,69674.0,16+,55+
+E02010,Gianna Holmes,System Administrator ,IT,Manufacturing,Female,Caucasian,38,2011-09-09,97630,0.0,United States,Seattle,,0,2023-02-12,11.427789185489392,35-44,2011,,0.0,97630.0,11-15,35-44
+E02011,Jameson Thomas,Manager,Finance,Specialty Products,Male,Caucasian,52,2015-02-05,105879,0.1,United States,Miami,,0,2023-02-12,8.019164955509925,45-54,2015,,10587.900000000001,116466.9,6-10,45-54
+E02012,Jameson Pena,Systems Analyst,IT,Manufacturing,Male,Latino,49,2003-10-12,40499,0.0,United States,Miami,,0,2023-02-12,19.33744010951403,45-54,2003,,0.0,40499.0,16+,45-54
+E02013,Bella Wu,Sr. Analyst,Finance,Specialty Products,Female,Asian,63,2014-08-03,71418,0.0,United States,Phoenix,,0,2023-02-12,8.528405201916495,55-65,2014,,0.0,71418.0,6-10,55+
+E02014,Jose Wong,Director,IT,Manufacturing,Male,Asian,45,2017-11-15,150558,0.23,China,Chongqing,,0,2023-02-12,5.242984257357974,45-54,2017,,34628.340000000004,185186.34,6-10,45-54
+E02015,Lucas Richardson,Manager,Marketing,Corporate,Male,Caucasian,36,2018-07-22,118912,0.08,United States,Miami,,0,2023-02-12,4.561259411362081,35-44,2018,,9512.960000000001,128424.96,3-5,35-44
+E02016,Jacob Moore,Sr. Manager,Marketing,Corporate,Male,Black,42,2021-03-24,131422,0.15,United States,Phoenix,,0,2023-02-12,1.88911704312115,35-44,2021,,19713.3,151135.3,0-2,35-44
+E02017,Luna Lu,IT Systems Architect,IT,Corporate,Female,Asian,62,1997-07-26,64208,0.0,United States,Miami,,0,2023-02-12,25.54962354551677,55-65,1997,,0.0,64208.0,16+,55+
+E02018,Bella Tran,Vice President,Engineering,Specialty Products,Female,Asian,45,2010-08-05,254486,0.33,China,Chengdu,,0,2023-02-12,12.522929500342231,45-54,2010,,83980.38,338466.38,11-15,45-54
+E02019,Ivy Chau,Analyst,Sales,Specialty Products,Female,Asian,61,2019-03-03,54811,0.0,China,Chongqing,,0,2023-02-12,3.9479808350444903,55-65,2019,,0.0,54811.0,3-5,55+
+E02020,Jordan Kumar,Service Desk Analyst,IT,Specialty Products,Male,Asian,29,2017-11-11,95729,0.0,United States,Seattle,,0,2023-02-12,5.253935660506502,25-34,2017,,0.0,95729.0,6-10,Under 35
+E02021,Sophia Gutierrez,Manager,Accounting,Specialty Products,Female,Latino,63,2009-02-08,102649,0.06,United States,Austin,,0,2023-02-12,14.009582477754963,55-65,2009,,6158.94,108807.94,11-15,55+
+E02022,Eli Dang,Sr. Manager,Accounting,Specialty Products,Male,Asian,45,2015-11-16,122875,0.12,United States,Chicago,,0,2023-02-12,7.241615331964408,45-54,2015,,14745.0,137620.0,6-10,45-54
+E02023,Lillian Lewis,Technical Architect,IT,Research & Development,Female,Black,43,2013-08-14,83323,0.0,United States,Phoenix,2019-03-31,1,2019-03-31,5.626283367556468,35-44,2013,2019.0,0.0,83323.0,6-10,35-44
+E02024,Serenity Cao,Account Representative,Sales,Manufacturing,Female,Asian,31,2018-10-21,66721,0.0,China,Shanghai,,0,2023-02-12,4.312114989733059,25-34,2018,,0.0,66721.0,3-5,Under 35
+E02025,Parker Lai,Vice President,Accounting,Specialty Products,Male,Asian,48,2006-11-29,246400,0.36,China,Chongqing,,0,2023-02-12,16.205338809034906,45-54,2006,,88704.0,335104.0,16+,45-54
+E02026,Charles Simmons,Manager,Sales,Specialty Products,Male,Caucasian,55,1997-10-27,113525,0.06,United States,Miami,,0,2023-02-12,25.295003422313485,55-65,1997,,6811.5,120336.5,16+,55+
+E02027,Jayden Luu,Director,Accounting,Manufacturing,Male,Asian,64,2004-05-13,184342,0.22,China,Beijing,,0,2023-02-12,18.751540041067763,55-65,2004,,40555.24,224897.24,16+,55+
+E02028,Brooks Richardson,Director,Marketing,Specialty Products,Male,Caucasian,58,2020-11-24,151341,0.22,United States,Seattle,,0,2023-02-12,2.217659137577002,55-65,2020,,33295.02,184636.02,3-5,55+
+E02029,Ivy Thompson,Manager,Marketing,Manufacturing,Female,Caucasian,50,2004-08-11,118900,0.05,United States,Seattle,,0,2023-02-12,18.50513347022587,45-54,2004,,5945.0,124845.0,16+,45-54
+E02030,Peyton Wright,Sr. Manager,Marketing,Corporate,Female,Black,41,2017-05-13,153370,0.1,United States,Chicago,,0,2023-02-12,5.752224503764545,35-44,2017,,15337.0,168707.0,6-10,35-44
+E02031,Wyatt Dinh,System Administrator ,IT,Specialty Products,Male,Asian,50,2002-03-15,72860,0.0,China,Shanghai,,0,2023-02-12,20.914442162902123,45-54,2002,,0.0,72860.0,16+,45-54
+E02032,Ruby Alexander,Vice President,Finance,Research & Development,Female,Caucasian,59,2001-08-13,255610,0.36,United States,Phoenix,,0,2023-02-12,21.50034223134839,55-65,2001,,92019.59999999999,347629.6,16+,55+
+E02033,Axel Oh,Sr. Analyst,Sales,Corporate,Male,Asian,26,2020-10-24,84962,0.0,China,Chengdu,,0,2023-02-12,2.302532511978097,25-34,2020,,0.0,84962.0,3-5,Under 35
+E02034,Axel Ramirez,Manager,Human Resources,Specialty Products,Male,Latino,55,2017-12-04,103795,0.07,United States,Seattle,,0,2023-02-12,5.190965092402464,55-65,2017,,7265.650000000001,111060.65,6-10,55+
+E02035,Liliana Chang,Service Desk Analyst,IT,Corporate,Female,Asian,32,2018-01-11,97509,0.0,China,Shanghai,,0,2023-02-12,5.086926762491444,25-34,2018,,0.0,97509.0,6-10,Under 35
+E02036,Leonardo Carter,Business Partner,Human Resources,Specialty Products,Male,Caucasian,50,2022-09-07,54931,0.0,United States,Austin,,0,2023-02-12,0.432580424366872,45-54,2022,,0.0,54931.0,0-2,45-54
+E02037,Landon Gonzales,Test Engineer,Engineering,Specialty Products,Male,Latino,54,2009-08-30,88689,0.0,United States,Phoenix,,0,2023-02-12,13.453798767967145,45-54,2009,,0.0,88689.0,11-15,45-54
+E02038,Amelia Dominguez,Sr. Manager,Accounting,Corporate,Female,Latino,31,2015-09-23,158184,0.15,Brazil,Rio de Janeiro,2018-07-27,1,2018-07-27,2.841889117043121,25-34,2015,2018.0,23727.6,181911.6,3-5,Under 35
+E02039,Silas Ross,Analyst,Marketing,Research & Development,Male,Caucasian,47,2016-02-10,48523,0.0,United States,Austin,,0,2023-02-12,7.006160164271047,45-54,2016,,0.0,48523.0,6-10,45-54
+E02040,Jeremiah Cheng,Sr. Analyst,Marketing,Specialty Products,Male,Asian,26,2022-02-05,70946,0.0,China,Shanghai,,0,2023-02-12,1.0184804928131417,25-34,2022,,0.0,70946.0,0-2,Under 35
+E02041,Chloe Chin,Sr. Manager,Finance,Specialty Products,Female,Asian,62,2021-11-13,134487,0.1,United States,Seattle,,0,2023-02-12,1.2484599589322383,55-65,2021,,13448.7,147935.7,0-2,55+
+E02042,Ella Martinez,Sr. Analyst,Finance,Research & Development,Female,Latino,35,2012-04-06,76111,0.0,United States,Chicago,,0,2023-02-12,10.85284052019165,35-44,2012,,0.0,76111.0,11-15,35-44
+E02043,Gianna Jones,Manager,Accounting,Research & Development,Female,Caucasian,48,1998-09-26,119220,0.09,United States,Columbus,2016-11-02,1,2016-11-02,18.102669404517453,45-54,1998,2016.0,10729.8,129949.8,16+,45-54
+E02044,Austin Chow,Vice President,Accounting,Manufacturing,Male,Asian,35,2021-04-11,180858,0.32,China,Chongqing,,0,2023-02-12,1.839835728952772,35-44,2021,,57874.56,238732.56,0-2,35-44
+E02045,Ella Chen,Manager,Accounting,Specialty Products,Female,Asian,45,2005-11-10,114072,0.08,United States,Phoenix,,0,2023-02-12,17.256673511293634,45-54,2005,,9125.76,123197.76,16+,45-54
+E02046,Ruby Kaur,Test Engineer,Engineering,Research & Development,Female,Asian,26,2021-06-26,91672,0.0,China,Beijing,,0,2023-02-12,1.6317590691307324,25-34,2021,,0.0,91672.0,0-2,Under 35
+E02047,Savannah Morales,Analyst II,Marketing,Corporate,Female,Latino,48,2005-01-26,71542,0.0,United States,Chicago,,0,2023-02-12,18.04517453798768,45-54,2005,,0.0,71542.0,16+,45-54
+E02048,Luca Powell,IT Coordinator,IT,Specialty Products,Male,Caucasian,33,2016-12-18,54700,0.0,United States,Miami,,0,2023-02-12,6.151950718685832,25-34,2016,,0.0,54700.0,6-10,Under 35
+E02049,Parker Thao,Analyst II,Sales,Corporate,Male,Asian,55,2011-05-08,65022,0.0,China,Chongqing,,0,2023-02-12,11.767282683093772,55-65,2011,,0.0,65022.0,11-15,55+
+E02050,Ryan Vo,Cloud Infrastructure Architect,IT,Research & Development,Male,Asian,38,2011-04-12,65109,0.0,United States,Phoenix,,0,2023-02-12,11.838466803559205,35-44,2011,,0.0,65109.0,11-15,35-44
+E02051,Isabella Ngo,Manager,Accounting,Specialty Products,Female,Asian,49,2022-01-01,126598,0.09,United States,Miami,,0,2023-02-12,1.1143052703627652,45-54,2022,,11393.82,137991.82,0-2,45-54
+E02052,Leah Vega,Cloud Infrastructure Architect,IT,Corporate,Female,Latino,52,2018-06-07,72388,0.0,United States,Miami,,0,2023-02-12,4.684462696783025,45-54,2018,,0.0,72388.0,3-5,45-54
+E02053,Jaxson Liu,Vice President,Finance,Corporate,Male,Asian,27,2021-05-18,205216,0.36,United States,Chicago,,0,2023-02-12,1.7385352498288844,25-34,2021,,73877.76,279093.76,0-2,Under 35
+E02054,Santiago f Ross,Enterprise Architect,IT,Specialty Products,Male,Caucasian,34,2012-12-13,74004,0.0,United States,Columbus,,0,2023-02-12,10.165639972621491,25-34,2012,,0.0,74004.0,11-15,Under 35
+E02055,Layla Bell,Vice President,Engineering,Corporate,Female,Caucasian,65,2001-07-26,203030,0.31,United States,Chicago,,0,2023-02-12,21.54962354551677,55-65,2001,,62939.3,265969.3,16+,55+
+E02056,Bella Morales,Director,Sales,Specialty Products,Female,Latino,38,2016-05-10,194864,0.24,United States,Austin,,0,2023-02-12,6.759753593429158,35-44,2016,,46767.36,241631.36,6-10,35-44
+E02057,Eliza Kang,Computer Systems Manager,IT,Manufacturing,Female,Asian,63,2002-01-27,76659,0.05,United States,Phoenix,,0,2023-02-12,21.04312114989733,55-65,2002,,3832.9500000000003,80491.95,16+,55+
+E02058,Gabriel Reyes,Manager,Sales,Corporate,Male,Latino,42,2005-06-10,101630,0.08,Brazil,Sao Paulo,,0,2023-02-12,17.675564681724847,35-44,2005,,8130.400000000001,109760.4,16+,35-44
+E02059,Piper Garcia,Sr. Manager,Sales,Research & Development,Female,Latino,60,1993-11-24,126929,0.12,Brazil,Sao Paulo,,0,2023-02-12,29.218343600273784,55-65,1993,,15231.48,142160.48,16+,55+
+E02060,Jacob Cheng,Director,Sales,Manufacturing,Male,Asian,47,1999-11-26,155890,0.17,United States,Columbus,2003-11-27,1,2003-11-27,4.002737850787132,45-54,1999,2003.0,26501.300000000003,182391.3,3-5,45-54
+E02061,Nathan Hong,Director,Finance,Corporate,Male,Asian,50,2019-10-02,150631,0.17,United States,Phoenix,,0,2023-02-12,3.3648186173853527,45-54,2019,,25607.27,176238.27,3-5,45-54
+E02062,Chloe Kim,Sr. Analyst,Sales,Specialty Products,Female,Asian,39,2012-07-06,72850,0.0,United States,Miami,,0,2023-02-12,10.603696098562628,35-44,2012,,0.0,72850.0,11-15,35-44
+E02063,Isaac Guzman,Account Representative,Sales,Corporate,Male,Latino,46,2010-08-18,57951,0.0,United States,Phoenix,,0,2023-02-12,12.487337440109513,45-54,2010,,0.0,57951.0,11-15,45-54
+E02064,Julian Ford,Analyst II,Sales,Manufacturing,Male,Caucasian,50,2010-07-29,70340,0.0,United States,Miami,,0,2023-02-12,12.542094455852157,45-54,2010,,0.0,70340.0,11-15,45-54
+E02065,Kinsley Liang,Automation Engineer,Engineering,Manufacturing,Female,Asian,55,2008-08-25,98221,0.0,China,Shanghai,,0,2023-02-12,14.466803559206022,55-65,2008,,0.0,98221.0,11-15,55+
+E02066,Wesley Yu,Sr. Manager,Sales,Specialty Products,Male,Asian,43,2003-09-24,127175,0.12,United States,Seattle,,0,2023-02-12,19.38672142368241,35-44,2003,,15261.0,142436.0,16+,35-44
+E02067,Serenity Martin,Sr. Analyst,Finance,Manufacturing,Female,Black,26,2021-05-16,97542,0.0,United States,Phoenix,,0,2023-02-12,1.7440109514031485,25-34,2021,,0.0,97542.0,0-2,Under 35
+E02068,Ethan Sanchez,Sr. Analyst,Marketing,Research & Development,Male,Latino,34,2019-05-15,81646,0.0,United States,Phoenix,,0,2023-02-12,3.7481177275838466,25-34,2019,,0.0,81646.0,3-5,Under 35
+E02069,David Sanchez,Director,Sales,Specialty Products,Male,Latino,38,2009-07-05,182055,0.27,Brazil,Rio de Janeiro,,0,2023-02-12,13.607118412046544,35-44,2009,,49154.850000000006,231209.85,11-15,35-44
+E02070,Elias Hsu,Sr. Analyst,Marketing,Specialty Products,Male,Asian,35,2022-01-23,86777,0.0,China,Chengdu,,0,2023-02-12,1.054072553045859,35-44,2022,,0.0,86777.0,0-2,35-44
+E02071,Luca Phan,Manager,Marketing,Corporate,Male,Asian,39,2015-06-17,129949,0.09,China,Beijing,,0,2023-02-12,7.657768651608487,35-44,2015,,11695.41,141644.41,6-10,35-44
+E02072,Olivia Xi,Manager,Sales,Specialty Products,Female,Asian,26,2020-08-19,124535,0.06,United States,Chicago,,0,2023-02-12,2.4832306639288158,25-34,2020,,7472.099999999999,132007.1,3-5,Under 35
+E02073,Alice Luu,System Administrator ,IT,Research & Development,Female,Asian,60,1993-07-17,81083,0.0,United States,Columbus,,0,2023-02-12,29.574264202600958,55-65,1993,,0.0,81083.0,16+,55+
+E02074,Leonardo Ng,Analyst,Marketing,Corporate,Male,Asian,32,2019-06-10,57727,0.0,China,Chengdu,,0,2023-02-12,3.676933607118412,25-34,2019,,0.0,57727.0,3-5,Under 35
+E02075,Peyton Edwards,Analyst II,Finance,Manufacturing,Female,Caucasian,65,2020-07-11,59344,0.0,United States,Columbus,,0,2023-02-12,2.5900068446269677,55-65,2020,,0.0,59344.0,3-5,55+
+E02076,Axel Patel,Sr. Analyst,Sales,Research & Development,Male,Asian,27,2022-09-13,73203,0.0,United States,Miami,,0,2023-02-12,0.4161533196440794,25-34,2022,,0.0,73203.0,0-2,Under 35
+E02077,Eva Chavez,IT Systems Architect,IT,Specialty Products,Female,Latino,63,2004-01-17,83070,0.0,Brazil,Sao Paulo,,0,2023-02-12,19.071868583162217,55-65,2004,,0.0,83070.0,16+,55+
+E02078,Savannah Lee,Manager,Human Resources,Research & Development,Female,Asian,51,2020-07-22,104008,0.1,China,Beijing,,0,2023-02-12,2.5598904859685145,45-54,2020,,10400.800000000001,114408.8,3-5,45-54
+E02079,Mia Grant,Solutions Architect,IT,Corporate,Female,Caucasian,43,2007-02-16,70923,0.0,United States,Columbus,,0,2023-02-12,15.989048596851472,35-44,2007,,0.0,70923.0,16+,35-44
+E02080,Eli Richardson,Sr. Manager,Marketing,Specialty Products,Male,Black,31,2018-04-08,159121,0.14,United States,Phoenix,,0,2023-02-12,4.848733744010952,25-34,2018,,22276.940000000002,181397.94,3-5,Under 35
+E02081,Eloise Perry,Sr. Business Partner,Human Resources,Research & Development,Female,Caucasian,26,2020-12-02,88921,0.0,United States,Chicago,,0,2023-02-12,2.195756331279945,25-34,2020,,0.0,88921.0,3-5,Under 35
+E02082,Ian Cheng,Sr. Manager,Sales,Specialty Products,Male,Asian,46,2015-08-30,126704,0.14,United States,Phoenix,,0,2023-02-12,7.455167693360712,45-54,2015,,17738.56,144442.56,6-10,45-54
+E02083,Penelope Chan,Analyst II,Accounting,Manufacturing,Female,Asian,59,2012-05-20,57704,0.0,China,Shanghai,2019-11-21,1,2019-11-21,7.5044490075290895,55-65,2012,2019.0,0.0,57704.0,6-10,55+
+E02084,Sofia Vasquez,Director,Sales,Research & Development,Female,Latino,52,1996-07-29,191455,0.24,Brazil,Sao Paulo,,0,2023-02-12,26.54072553045859,45-54,1996,,45949.2,237404.2,16+,45-54
+E02085,Anthony Baker,Solutions Architect,IT,Manufacturing,Male,Caucasian,31,2021-06-03,99937,0.0,United States,Phoenix,,0,2023-02-12,1.6947296372347707,25-34,2021,,0.0,99937.0,0-2,Under 35
+E02086,Lucas Luong,Analyst,Marketing,Specialty Products,Male,Asian,42,2008-03-12,40778,0.0,China,Chengdu,,0,2023-02-12,14.921286789869953,35-44,2008,,0.0,40778.0,11-15,35-44
+E02087,Xavier Patel,Director,Marketing,Specialty Products,Male,Asian,53,2021-11-16,187740,0.16,United States,Columbus,,0,2023-02-12,1.2402464065708418,45-54,2021,,30038.4,217778.4,0-2,45-54
+E02088,Robert Soto,HRIS Analyst,Human Resources,Research & Development,Male,Latino,47,2008-09-10,72384,0.0,Brazil,Rio de Janeiro,,0,2023-02-12,14.42299794661191,45-54,2008,,0.0,72384.0,11-15,45-54
+E02089,Nevaeh Jiang,Sr. Manager,Marketing,Corporate,Female,Asian,45,2016-08-05,143318,0.12,China,Chengdu,,0,2023-02-12,6.521560574948666,45-54,2016,,17198.16,160516.16,6-10,45-54
+E02090,Chloe Reyes,Director,Human Resources,Specialty Products,Female,Latino,45,2008-06-18,191304,0.17,United States,Phoenix,,0,2023-02-12,14.652977412731007,45-54,2008,,32521.680000000004,223825.68,11-15,45-54
+E02091,Lucy Edwards,Director,Human Resources,Specialty Products,Female,Black,33,2015-03-16,175875,0.21,United States,Columbus,2022-05-16,1,2022-05-16,7.167693360711842,25-34,2015,2022.0,36933.75,212808.75,6-10,Under 35
+E02092,Luna Edwards,Manager,Sales,Research & Development,Female,Black,42,2014-04-13,106726,0.09,United States,Seattle,,0,2023-02-12,8.83504449007529,35-44,2014,,9605.34,116331.34,6-10,35-44
+E02093,Stella Daniels,Cloud Infrastructure Architect,IT,Manufacturing,Female,Black,37,2011-10-30,72637,0.0,United States,Columbus,,0,2023-02-12,11.288158795345653,35-44,2011,,0.0,72637.0,11-15,35-44
+E02094,Ayla Ma,Manager,Marketing,Corporate,Female,Asian,27,2022-12-05,118304,0.07,China,Shanghai,,0,2023-02-12,0.188911704312115,25-34,2022,,8281.28,126585.28,0-2,Under 35
+E02095,Matthew Avila,Computer Systems Manager,IT,Manufacturing,Male,Latino,55,2003-06-17,68592,0.08,Brazil,Sao Paulo,,0,2023-02-12,19.65776865160849,55-65,2003,,5487.36,74079.36,16+,55+
+E02096,Gianna Lim,Analyst,Accounting,Research & Development,Female,Asian,46,2006-04-01,42532,0.0,China,Chongqing,,0,2023-02-12,16.867898699520875,45-54,2006,,0.0,42532.0,16+,45-54
+E02097,Joseph Tan,Technical Architect,IT,Research & Development,Male,Asian,37,2015-08-20,65073,0.0,China,Shanghai,,0,2023-02-12,7.482546201232033,35-44,2015,,0.0,65073.0,6-10,35-44
+E02098,Connor Lai,Engineering Manager,Engineering,Corporate,Male,Asian,32,2019-09-22,111035,0.12,United States,Chicago,,0,2023-02-12,3.3921971252566734,25-34,2019,,13324.199999999999,124359.2,3-5,Under 35
+E02099,Ava Owens,Analyst II,Finance,Specialty Products,Female,Caucasian,28,2020-02-07,63066,0.0,United States,Seattle,,0,2023-02-12,3.0143737166324436,25-34,2020,,0.0,63066.0,3-5,Under 35
+E02100,Dylan Aguilar,Director,Engineering,Corporate,Male,Latino,49,2007-03-27,186192,0.27,Brazil,Sao Paulo,,0,2023-02-12,15.88227241615332,45-54,2007,,50271.840000000004,236463.84,16+,45-54
+E02101,Leah Zheng,Director,Engineering,Corporate,Female,Asian,52,2016-06-18,182938,0.23,China,Chengdu,,0,2023-02-12,6.652977412731006,45-54,2016,,42075.740000000005,225013.74,6-10,45-54
+E02102,Jade Pham,Analyst,Accounting,Manufacturing,Female,Asian,61,2017-12-12,53931,0.0,China,Shanghai,,0,2023-02-12,5.169062286105407,55-65,2017,,0.0,53931.0,6-10,55+
+E02103,Theodore Bui,Vice President,Sales,Specialty Products,Male,Asian,53,2012-05-13,252140,0.38,China,Beijing,,0,2023-02-12,10.751540041067761,45-54,2012,,95813.2,347953.2,11-15,45-54
+E02104,Asher Chan,Sr. Business Partner,Human Resources,Corporate,Male,Asian,40,2018-08-18,73041,0.0,China,Shanghai,,0,2023-02-12,4.487337440109514,35-44,2018,,0.0,73041.0,3-5,35-44
+E02105,Ezekiel Brown,Manager,Finance,Corporate,Male,Caucasian,27,2022-03-14,120315,0.08,United States,Miami,2022-07-17,1,2022-07-17,0.34223134839151265,25-34,2022,2022.0,9625.2,129940.2,0-2,Under 35
+E02106,Peyton Allen,Manager,Marketing,Specialty Products,Female,Caucasian,26,2020-11-23,112264,0.05,United States,Chicago,,0,2023-02-12,2.220396988364134,25-34,2020,,5613.200000000001,117877.2,3-5,Under 35
+E02107,Parker Joseph,Systems Analyst,IT,Specialty Products,Male,Caucasian,53,2000-01-21,55039,0.0,United States,Seattle,,0,2023-02-12,23.06091718001369,45-54,2000,,0.0,55039.0,16+,45-54
+E02108,Kayden Ortiz,Sr. Manager,Accounting,Specialty Products,Male,Latino,33,2013-07-29,134782,0.15,Brazil,Manaus,,0,2023-02-12,9.541409993155373,25-34,2013,,20217.3,154999.3,6-10,Under 35
+E02109,Lillian Desai,Field Engineer,Engineering,Manufacturing,Female,Asian,27,2022-12-12,92806,0.0,China,Chengdu,,0,2023-02-12,0.1697467488021903,25-34,2022,,0.0,92806.0,0-2,Under 35
+E02110,Avery Gutierrez,Vice President,Marketing,Corporate,Female,Latino,56,2016-07-02,181028,0.38,United States,Phoenix,,0,2023-02-12,6.614647501711157,55-65,2016,,68790.64,249818.64,6-10,55+
+E02111,Caroline Sandoval,Analyst,Sales,Corporate,Female,Latino,36,2013-10-03,48117,0.0,Brazil,Sao Paulo,,0,2023-02-12,9.360711841204655,35-44,2013,,0.0,48117.0,6-10,35-44
+E02112,Hailey Lim,Director,Marketing,Corporate,Female,Asian,47,2005-01-06,192753,0.17,China,Chongqing,,0,2023-02-12,18.099931553730322,45-54,2005,,32768.01,225521.01,16+,45-54
+E02113,Roman Liang,Sr. Analyst,Sales,Manufacturing,Male,Asian,28,2021-03-04,85206,0.0,China,Chongqing,2022-07-08,1,2022-07-08,1.3442847364818618,25-34,2021,2022.0,0.0,85206.0,0-2,Under 35
+E02114,Elias Rojas,Account Representative,Sales,Manufacturing,Male,Latino,30,2018-01-07,58290,0.0,United States,Chicago,,0,2023-02-12,5.0978781656399725,25-34,2018,,0.0,58290.0,6-10,Under 35
+E02115,Quinn Lai,Systems Analyst,IT,Research & Development,Female,Asian,58,2003-08-28,41946,0.0,United States,Phoenix,,0,2023-02-12,19.460643394934976,55-65,2003,,0.0,41946.0,16+,55+
+E02116,Clara Le,Service Desk Analyst,IT,Corporate,Female,Asian,56,2021-03-15,79388,0.0,China,Beijing,,0,2023-02-12,1.9137577002053388,55-65,2021,,0.0,79388.0,0-2,55+
+E02117,Chloe Yoon,Network Administrator,IT,Corporate,Female,Asian,65,2002-02-25,83854,0.0,United States,Seattle,,0,2023-02-12,20.9637234770705,55-65,2002,,0.0,83854.0,16+,55+
+E02118,Abigail Simmons,Sr. Manager,IT,Specialty Products,Female,Caucasian,29,2018-04-24,126550,0.15,United States,Miami,,0,2023-02-12,4.804928131416838,25-34,2018,,18982.5,145532.5,3-5,Under 35
+E02119,Ayla Espinoza,Director,Human Resources,Research & Development,Female,Latino,60,1993-10-01,199705,0.26,Brazil,Rio de Janeiro,,0,2023-02-12,29.366187542778917,55-65,1993,,51923.3,251628.3,16+,55+
+E02120,Nova Lin,Vice President,Sales,Specialty Products,Female,Asian,31,2019-04-09,201235,0.32,United States,Austin,,0,2023-02-12,3.8466803559206024,25-34,2019,,64395.200000000004,265630.2,3-5,Under 35
+E02121,Sadie Singh,Director,Engineering,Specialty Products,Female,Asian,45,2022-03-16,182717,0.26,United States,Columbus,,0,2023-02-12,0.9117043121149897,45-54,2022,,47506.42,230223.41999999998,0-2,45-54
+E02122,Aaron Powell,Enterprise Architect,IT,Research & Development,Male,Black,30,2017-09-11,79975,0.0,United States,Chicago,,0,2023-02-12,5.420944558521561,25-34,2017,,0.0,79975.0,6-10,Under 35
+E02123,Jameson Vargas,Director,Human Resources,Specialty Products,Male,Latino,36,2011-07-24,196554,0.2,Brazil,Rio de Janeiro,,0,2023-02-12,11.5564681724846,35-44,2011,,39310.8,235864.8,11-15,35-44
+E02124,Logan Young,Vice President,IT,Corporate,Male,Black,39,2010-08-16,239395,0.33,United States,Seattle,,0,2023-02-12,12.492813141683778,35-44,2010,,79000.35,318395.35,11-15,35-44
+E02125,Wyatt Cheung,Analyst II,Sales,Specialty Products,Male,Asian,44,2013-07-25,53703,0.0,China,Beijing,,0,2023-02-12,9.552361396303901,35-44,2013,,0.0,53703.0,6-10,35-44
+E02126,Lucas Zhu,Manager,IT,Manufacturing,Male,Asian,53,2011-03-14,123480,0.08,China,Beijing,,0,2023-02-12,11.917864476386036,45-54,2011,,9878.4,133358.4,11-15,45-54
+E02127,Emily Hong,IT Coordinator,IT,Specialty Products,Female,Asian,46,2021-01-09,41197,0.0,China,Beijing,,0,2023-02-12,2.0917180013689256,45-54,2021,,0.0,41197.0,3-5,45-54
+E02128,Luke Ramos,Account Representative,Sales,Corporate,Male,Latino,30,2018-07-28,72463,0.0,Brazil,Manaus,,0,2023-02-12,4.544832306639288,25-34,2018,,0.0,72463.0,3-5,Under 35
+E02129,Maya Gupta,Field Engineer,Engineering,Corporate,Female,Asian,28,2019-08-04,87675,0.0,China,Beijing,,0,2023-02-12,3.5263518138261465,25-34,2019,,0.0,87675.0,3-5,Under 35
+E02130,Eliana Ha,Analyst,Accounting,Specialty Products,Female,Asian,35,2020-12-15,55833,0.0,China,Chengdu,,0,2023-02-12,2.1601642710472277,35-44,2020,,0.0,55833.0,3-5,35-44
+E02131,Lillian Cheng,Analyst II,Finance,Research & Development,Female,Asian,58,1996-08-20,58208,0.0,China,Chengdu,,0,2023-02-12,26.480492813141684,55-65,1996,,0.0,58208.0,16+,55+
+E02132,Alexander Pena,Sr. Analyst,Sales,Specialty Products,Male,Latino,47,2002-05-24,75633,0.0,United States,Chicago,,0,2023-02-12,20.722792607802873,45-54,2002,,0.0,75633.0,16+,45-54
+E02133,Leonardo Mai,Sr. Analyst,Marketing,Specialty Products,Male,Asian,43,2007-01-28,79090,0.0,China,Chengdu,,0,2023-02-12,16.041067761806982,35-44,2007,,0.0,79090.0,16+,35-44
+E02134,Jack Phillips,Analyst II,Finance,Manufacturing,Male,Black,47,2015-07-27,66138,0.0,United States,Phoenix,,0,2023-02-12,7.5482546201232035,45-54,2015,,0.0,66138.0,6-10,45-54
+E02135,Scarlett Delgado,Cloud Infrastructure Architect,IT,Research & Development,Female,Latino,57,2013-08-28,80728,0.0,Brazil,Rio de Janeiro,,0,2023-02-12,9.45927446954141,55-65,2013,,0.0,80728.0,6-10,55+
+E02136,Jack Rogers,Systems Analyst,IT,Corporate,Male,Black,47,2005-02-01,46202,0.0,United States,Phoenix,,0,2023-02-12,18.028747433264886,45-54,2005,,0.0,46202.0,16+,45-54
+E02137,Violet Huynh,Manager,Sales,Research & Development,Female,Asian,50,2008-02-29,123096,0.1,China,Shanghai,,0,2023-02-12,14.954140999315538,45-54,2008,,12309.6,135405.6,11-15,45-54
+E02138,Victoria Park,Analyst,Marketing,Research & Development,Female,Asian,27,2020-03-18,45989,0.0,United States,Chicago,,0,2023-02-12,2.9048596851471595,25-34,2020,,0.0,45989.0,3-5,Under 35
+E02139,Elizabeth Rodriguez,Sr. Manager,Accounting,Corporate,Female,Latino,26,2021-08-13,140756,0.13,Brazil,Sao Paulo,,0,2023-02-12,1.5003422313483916,25-34,2021,,18298.28,159054.28,0-2,Under 35
+E02140,Samuel Kumar,Network Engineer,IT,Corporate,Male,Asian,43,2009-03-09,85261,0.0,China,Chengdu,,0,2023-02-12,13.930184804928132,35-44,2009,,0.0,85261.0,11-15,35-44
+E02141,Zoe Maldonado,Vice President,Accounting,Corporate,Female,Latino,49,1998-09-25,198222,0.34,Brazil,Sao Paulo,,0,2023-02-12,24.383299110198493,45-54,1998,,67395.48000000001,265617.48,16+,45-54
+E02142,Natalia Richardson,Sr. Manager,Sales,Research & Development,Female,Caucasian,36,2017-06-02,150825,0.1,United States,Columbus,,0,2023-02-12,5.6974674880219025,35-44,2017,,15082.5,165907.5,6-10,35-44
+E02143,Madeline Contreras,Analyst,Accounting,Corporate,Female,Latino,51,1995-10-31,59311,0.0,Brazil,Sao Paulo,,0,2023-02-12,27.28542094455852,45-54,1995,,0.0,59311.0,16+,45-54
+E02144,Raelynn Espinoza,Analyst,Accounting,Corporate,Female,Latino,46,2002-09-12,44411,0.0,Brazil,Manaus,,0,2023-02-12,20.418891170431213,45-54,2002,,0.0,44411.0,16+,45-54
+E02145,Noah Rojas,Analyst II,Finance,Manufacturing,Male,Latino,37,2019-11-14,69408,0.0,United States,Chicago,,0,2023-02-12,3.247091033538672,35-44,2019,,0.0,69408.0,3-5,35-44
+E02146,Jack Ramos,Sr. Analyst,Finance,Manufacturing,Male,Latino,43,2018-06-17,96759,0.0,Brazil,Manaus,,0,2023-02-12,4.657084188911704,35-44,2018,,0.0,96759.0,3-5,35-44
+E02147,Riley King,Director,Marketing,Specialty Products,Female,Black,53,2013-08-10,163480,0.15,United States,Columbus,,0,2023-02-12,9.508555783709788,45-54,2013,,24522.0,188002.0,6-10,45-54
+E02148,Naomi Lee,System Administrator ,IT,Research & Development,Female,Asian,58,2014-04-15,91132,0.0,China,Beijing,,0,2023-02-12,8.829568788501026,55-65,2014,,0.0,91132.0,6-10,55+
+E02149,Caleb Jones,Manager,Marketing,Corporate,Male,Caucasian,57,1996-07-10,122825,0.08,United States,Miami,,0,2023-02-12,26.5927446954141,55-65,1996,,9826.0,132651.0,16+,55+
+E02150,Peyton Alvarado,Service Desk Analyst,IT,Manufacturing,Female,Latino,31,2015-10-24,73612,0.0,Brazil,Rio de Janeiro,,0,2023-02-12,7.304585900068446,25-34,2015,,0.0,73612.0,6-10,Under 35
+E02151,Luca Liu,Account Representative,Sales,Manufacturing,Male,Asian,40,2007-06-22,70561,0.0,China,Chongqing,,0,2023-02-12,15.644079397672828,35-44,2007,,0.0,70561.0,16+,35-44
+E02152,Christian Johnson,Network Architect,IT,Research & Development,Male,Black,47,2008-05-25,60331,0.0,United States,Miami,,0,2023-02-12,14.718685831622176,45-54,2008,,0.0,60331.0,11-15,45-54
+E02153,Kinsley Gonzales,Systems Analyst,IT,Manufacturing,Female,Latino,51,2007-05-05,48772,0.0,Brazil,Rio de Janeiro,,0,2023-02-12,15.775496235455167,45-54,2007,,0.0,48772.0,16+,45-54
+E02154,Hunter Yoon,Network Administrator,IT,Research & Development,Male,Asian,57,2020-10-02,90599,0.0,China,Chongqing,,0,2023-02-12,2.3627652292950034,55-65,2020,,0.0,90599.0,3-5,55+
+E02155,Elias Dixon,IT Coordinator,IT,Corporate,Male,Caucasian,46,2021-11-22,55643,0.0,United States,Columbus,,0,2023-02-12,1.2238193018480492,45-54,2021,,0.0,55643.0,0-2,45-54
+E02156,Owen Guerrero,Field Engineer,Engineering,Corporate,Male,Latino,40,2022-09-03,97938,0.0,United States,Chicago,,0,2023-02-12,0.44353182751540043,35-44,2022,,0.0,97938.0,0-2,35-44
+E02157,Lucas Lo,Analyst,Accounting,Research & Development,Male,Asian,43,2004-01-18,49627,0.0,China,Beijing,,0,2023-02-12,19.069130732375086,35-44,2004,,0.0,49627.0,16+,35-44
+E02158,Hunter Mitchell,IT Coordinator,IT,Research & Development,Male,Caucasian,54,2021-04-17,58137,0.0,United States,Columbus,,0,2023-02-12,1.8234086242299794,45-54,2021,,0.0,58137.0,0-2,45-54
+E02159,Eliana Bailey,Sr. Manager,Sales,Research & Development,Female,Black,27,2021-01-02,120586,0.15,United States,Seattle,,0,2023-02-12,2.11088295687885,25-34,2021,,18087.899999999998,138673.9,3-5,Under 35
+E02160,Gabriella Choi,Analyst II,Accounting,Manufacturing,Female,Asian,56,1999-08-15,72925,0.0,United States,Seattle,,0,2023-02-12,23.496235455167692,55-65,1999,,0.0,72925.0,16+,55+
+E02161,Evelyn Alvarado,Network Administrator,IT,Specialty Products,Female,Latino,36,2022-08-12,83548,0.0,United States,Miami,,0,2023-02-12,0.5037645448323066,35-44,2022,,0.0,83548.0,0-2,35-44
+E02162,Wyatt Chan,Manager,Finance,Manufacturing,Male,Asian,53,2005-06-28,128226,0.08,China,Shanghai,,0,2023-02-12,17.626283367556468,45-54,2005,,10258.08,138484.08,16+,45-54
+E02163,Sarah Johnson,Director,Engineering,Research & Development,Female,Caucasian,31,2018-03-06,150653,0.24,United States,Austin,2019-09-01,1,2019-09-01,1.4893908281998631,25-34,2018,2019.0,36156.72,186809.72,0-2,Under 35
+E02164,Brooks Evans,Sr. Account Representative,Sales,Specialty Products,Male,Caucasian,45,2016-05-04,80989,0.0,United States,Columbus,,0,2023-02-12,6.776180698151951,45-54,2016,,0.0,80989.0,6-10,45-54
+E02165,Isaiah Dixon,Development Engineer,Engineering,Corporate,Male,Caucasian,29,2022-02-27,74901,0.0,United States,Austin,,0,2023-02-12,0.9582477754962354,25-34,2022,,0.0,74901.0,0-2,Under 35
+E02166,Addison Lo,Cloud Infrastructure Architect,IT,Research & Development,Female,Asian,27,2020-08-28,68712,0.0,United States,Columbus,,0,2023-02-12,2.458590006844627,25-34,2020,,0.0,68712.0,3-5,Under 35
+E02167,Nolan Howard,Quality Engineer,Engineering,Research & Development,Male,Caucasian,26,2022-04-18,82963,0.0,United States,Austin,2022-06-23,1,2022-06-23,0.1806981519507187,25-34,2022,2022.0,0.0,82963.0,0-2,Under 35
+E02168,Paisley Dominguez,Engineering Manager,Engineering,Research & Development,Female,Latino,53,2009-06-14,123203,0.1,United States,Austin,,0,2023-02-12,13.664613278576317,45-54,2009,,12320.300000000001,135523.3,11-15,45-54
+E02169,Eliana Ho,Director,Accounting,Corporate,Female,Asian,64,2012-09-05,195416,0.22,China,Chengdu,,0,2023-02-12,10.43668720054757,55-65,2012,,42991.52,238407.52,11-15,55+
+E02170,Charles Miller,Director,Marketing,Manufacturing,Male,Black,32,2018-06-07,156418,0.23,United States,Columbus,,0,2023-02-12,4.684462696783025,25-34,2018,,35976.14,192394.14,3-5,Under 35
+E02171,Mia Jiang,Vice President,Accounting,Manufacturing,Female,Asian,42,2015-06-19,255892,0.38,United States,Miami,,0,2023-02-12,7.652292950034223,35-44,2015,,97238.96,353130.96,6-10,35-44
+E02172,Skylar Parker,Technical Architect,IT,Corporate,Female,Caucasian,31,2018-08-05,96195,0.0,United States,Phoenix,,0,2023-02-12,4.522929500342231,25-34,2018,,0.0,96195.0,3-5,Under 35
+E02173,Zoey Leung,Network Administrator,IT,Research & Development,Female,Asian,40,2007-09-27,77637,0.0,China,Chongqing,2017-02-04,1,2017-02-04,9.357973990417522,35-44,2007,2017.0,0.0,77637.0,6-10,35-44
+E02174,Austin Moua,Test Engineer,Engineering,Research & Development,Male,Asian,46,2003-05-27,79294,0.0,China,Chengdu,,0,2023-02-12,19.71526351813826,45-54,2003,,0.0,79294.0,16+,45-54
+E02175,Christopher Robinson,Vice President,Finance,Specialty Products,Male,Caucasian,35,2016-07-11,254287,0.31,United States,Austin,2022-10-17,1,2022-10-17,6.26694045174538,35-44,2016,2022.0,78828.97,333115.97,6-10,35-44
+E02176,Jayden Zhang,Enterprise Architect,IT,Specialty Products,Male,Asian,64,1994-06-27,70516,0.0,China,Chengdu,,0,2023-02-12,28.629705681040384,55-65,1994,,0.0,70516.0,16+,55+
+E02177,Cora Mejia,Sr. Analyst,Accounting,Research & Development,Female,Latino,58,2014-06-07,98296,0.0,Brazil,Manaus,,0,2023-02-12,8.684462696783026,55-65,2014,,0.0,98296.0,6-10,55+
+E02178,Julian Harris,Operations Engineer,Engineering,Manufacturing,Male,Caucasian,61,2015-12-30,98565,0.0,United States,Phoenix,,0,2023-02-12,7.121149897330596,55-65,2015,,0.0,98565.0,6-10,55+
+E02179,Anthony Espinoza,Analyst II,Finance,Manufacturing,Male,Latino,41,2020-11-16,59149,0.0,Brazil,Rio de Janeiro,,0,2023-02-12,2.239561943874059,35-44,2020,,0.0,59149.0,3-5,35-44
+E02180,Aubrey Ruiz,Analyst II,Marketing,Specialty Products,Female,Latino,25,2021-01-11,70126,0.0,Brazil,Sao Paulo,,0,2023-02-12,2.086242299794661,25-34,2021,,0.0,70126.0,3-5,Under 35
+E02181,Piper Tang,Vice President,Human Resources,Manufacturing,Female,Asian,50,2011-07-28,216787,0.33,China,Beijing,,0,2023-02-12,11.545516769336071,45-54,2011,,71539.71,288326.71,11-15,45-54
+E02182,Colton Delgado,Sr. Manager,Accounting,Research & Development,Male,Latino,61,2006-10-22,156512,0.13,Brazil,Rio de Janeiro,,0,2023-02-12,16.309377138945926,55-65,2006,,20346.56,176858.56,16+,55+
+E02183,Madeline Chung,Analyst,Finance,Research & Development,Female,Asian,63,2011-05-26,44444,0.0,United States,Miami,2015-07-12,1,2015-07-12,4.128678986995209,55-65,2011,2015.0,0.0,44444.0,3-5,55+
+E02184,Ariana Sharma,Vice President,Sales,Research & Development,Female,Asian,45,2014-01-24,257725,0.34,United States,Seattle,2022-06-29,1,2022-06-29,8.427104722792608,45-54,2014,2022.0,87626.5,345351.5,6-10,45-54
+E02185,Julian Marquez,Sr. Manager,Accounting,Specialty Products,Male,Latino,33,2013-09-14,122408,0.11,Brazil,Rio de Janeiro,,0,2023-02-12,9.412731006160165,25-34,2013,,13464.88,135872.88,6-10,Under 35
+E02186,Logan Reyes,Quality Engineer,Engineering,Corporate,Male,Latino,62,1995-04-10,78251,0.0,Brazil,Sao Paulo,2020-03-19,1,2020-03-19,24.941820670773442,55-65,1995,2020.0,0.0,78251.0,16+,55+
+E02187,Penelope Mai,Vice President,Sales,Corporate,Female,Asian,43,2004-05-02,252938,0.35,United States,Austin,,0,2023-02-12,18.781656399726216,35-44,2004,,88528.29999999999,341466.3,16+,35-44
+E02188,Ryan Reed,Sr. Analyst,Sales,Manufacturing,Male,Black,48,2019-10-28,90296,0.0,United States,Austin,,0,2023-02-12,3.293634496919918,45-54,2019,,0.0,90296.0,3-5,45-54
+E02189,Grayson Hwang,Sr. Analyst,Finance,Corporate,Male,Asian,42,2013-04-23,91689,0.0,China,Chongqing,,0,2023-02-12,9.806981519507186,35-44,2013,,0.0,91689.0,6-10,35-44
+E02190,Ezra Tan,Sr. Manager,Finance,Corporate,Male,Asian,49,1999-12-22,158028,0.12,China,Chengdu,,0,2023-02-12,23.143052703627653,45-54,1999,,18963.36,176991.36,16+,45-54
+E02191,David Ha,Sr. Account Representative,Sales,Corporate,Male,Asian,33,2022-07-27,89759,0.0,China,Chongqing,,0,2023-02-12,0.5475701574264202,25-34,2022,,0.0,89759.0,0-2,Under 35
+E02192,Lillian Vang,Technical Architect,IT,Research & Development,Female,Asian,39,2015-09-13,78640,0.0,China,Chongqing,,0,2023-02-12,7.416837782340862,35-44,2015,,0.0,78640.0,6-10,35-44
+E02193,Sofia Zhang,Analyst,Finance,Specialty Products,Female,Asian,51,2005-01-11,55368,0.0,United States,Chicago,,0,2023-02-12,18.086242299794662,45-54,2005,,0.0,55368.0,16+,45-54
+E02194,Athena Daniels,Network Administrator,IT,Specialty Products,Female,Caucasian,49,2021-05-23,78164,0.0,United States,Seattle,,0,2023-02-12,1.7248459958932238,45-54,2021,,0.0,78164.0,0-2,45-54
+E02195,Jameson Shin,Sr. Analyst,Marketing,Research & Development,Male,Asian,30,2020-05-14,76014,0.0,China,Chengdu,,0,2023-02-12,2.74880219028063,25-34,2020,,0.0,76014.0,3-5,Under 35
+E02196,Everly Avila,Account Representative,Sales,Manufacturing,Female,Latino,41,2015-11-13,61403,0.0,United States,Miami,,0,2023-02-12,7.2498288843258045,35-44,2015,,0.0,61403.0,6-10,35-44
+E02197,Liam Nelson,Technical Architect,IT,Research & Development,Male,Black,58,2010-12-17,80720,0.0,United States,Columbus,,0,2023-02-12,12.15605749486653,55-65,2010,,0.0,80720.0,11-15,55+
+E02198,Theodore Lai,System Administrator ,IT,Specialty Products,Male,Asian,55,2008-12-27,94026,0.0,China,Shanghai,,0,2023-02-12,14.127310061601642,55-65,2008,,0.0,94026.0,11-15,55+
+E02199,Caroline Do,Analyst,Marketing,Research & Development,Female,Asian,40,2016-03-06,56963,0.0,United States,Chicago,,0,2023-02-12,6.937713894592744,35-44,2016,,0.0,56963.0,6-10,35-44
+E02200,Josiah Ramos,Manager,Finance,Specialty Products,Male,Latino,41,2014-01-08,113246,0.06,United States,Chicago,,0,2023-02-12,9.095140314852841,35-44,2014,,6794.759999999999,120040.76,6-10,35-44
+E02201,Colton Alexander,Field Engineer,Engineering,Research & Development,Male,Caucasian,45,2005-08-09,76416,0.0,United States,Phoenix,,0,2023-02-12,17.51129363449692,45-54,2005,,0.0,76416.0,16+,45-54
+E02202,Charles Ramos,Sr. Analyst,Accounting,Corporate,Male,Latino,57,2010-04-04,74597,0.0,United States,Austin,2016-01-30,1,2016-01-30,5.823408624229979,55-65,2010,2016.0,0.0,74597.0,6-10,55+
+E02203,Ellie Wilson,Director,IT,Manufacturing,Female,Caucasian,65,1996-08-31,164102,0.3,United States,Columbus,,0,2023-02-12,26.45037645448323,55-65,1996,,49230.6,213332.6,16+,55+
+E02204,Peyton Powell,System Administrator ,IT,Research & Development,Female,Caucasian,44,2003-02-16,74431,0.0,United States,Phoenix,,0,2023-02-12,19.98904859685147,35-44,2003,,0.0,74431.0,16+,35-44
+E02205,Hailey Rojas,Analyst,Finance,Specialty Products,Female,Latino,52,2014-07-15,43378,0.0,United States,Miami,,0,2023-02-12,8.580424366872005,45-54,2014,,0.0,43378.0,6-10,45-54
+E02206,Kai Singh,Analyst,Finance,Corporate,Male,Asian,52,2001-04-19,47587,0.0,United States,Chicago,,0,2023-02-12,21.817932922655714,45-54,2001,,0.0,47587.0,16+,45-54
+E02207,Ryan Rivera,Director,Human Resources,Specialty Products,Male,Latino,53,2001-11-29,179983,0.16,United States,Phoenix,,0,2023-02-12,21.204654346338124,45-54,2001,,28797.28,208780.28,16+,45-54
+E02208,Everett Lu,Manager,Marketing,Research & Development,Male,Asian,31,2021-11-28,115565,0.06,United States,Phoenix,,0,2023-02-12,1.2073921971252566,25-34,2021,,6933.9,122498.9,0-2,Under 35
+E02209,Layla Nunez,Manager,Finance,Manufacturing,Female,Latino,63,2017-09-10,126064,0.05,United States,Miami,,0,2023-02-12,5.423682409308693,55-65,2017,,6303.200000000001,132367.2,6-10,55+
+E02210,Liliana Collins,Sr. Manager,Human Resources,Specialty Products,Female,Black,39,2013-01-18,151666,0.13,United States,Chicago,2018-06-30,1,2018-06-30,5.44558521560575,35-44,2013,2018.0,19716.58,171382.58000000002,6-10,35-44
+E02211,Ezekiel Jenkins,Service Desk Analyst,IT,Specialty Products,Male,Caucasian,63,2000-04-11,99215,0.0,United States,Seattle,,0,2023-02-12,22.83915126625599,55-65,2000,,0.0,99215.0,16+,55+
+E02212,Christopher Wang,Cloud Infrastructure Architect,IT,Manufacturing,Male,Asian,27,2020-08-23,71502,0.0,China,Chongqing,,0,2023-02-12,2.4722792607802875,25-34,2020,,0.0,71502.0,3-5,Under 35
+E02213,Savannah Rodriguez,Director,Sales,Corporate,Female,Latino,30,2022-11-18,168050,0.24,Brazil,Manaus,,0,2023-02-12,0.23545516769336072,25-34,2022,,40332.0,208382.0,0-2,Under 35
+E02214,Lyla Turner,Sr. Manager,Sales,Specialty Products,Female,Caucasian,51,2003-11-07,130862,0.12,United States,Seattle,,0,2023-02-12,19.266255989048595,45-54,2003,,15703.439999999999,146565.44,16+,45-54
+E02215,Adrian Ngo,Enterprise Architect,IT,Research & Development,Male,Asian,58,2021-09-19,85716,0.0,China,Chongqing,,0,2023-02-12,1.3990417522245038,55-65,2021,,0.0,85716.0,0-2,55+
+E02216,Aria Juarez,Director,Finance,Corporate,Female,Latino,62,2011-07-30,185026,0.24,Brazil,Manaus,,0,2023-02-12,11.540041067761807,55-65,2011,,44406.24,229432.24,11-15,55+
+E02217,Audrey Ramos,Vice President,Sales,Manufacturing,Female,Latino,27,2021-12-09,182403,0.3,Brazil,Sao Paulo,,0,2023-02-12,1.1772758384668036,25-34,2021,,54720.9,237123.9,0-2,Under 35
+E02218,Hazel Cho,Vice President,Accounting,Corporate,Female,Asian,63,2004-08-12,193531,0.4,China,Shanghai,,0,2023-02-12,18.50239561943874,55-65,2004,,77412.40000000001,270943.4,16+,55+
+E02219,Iris Chung,Manager,IT,Research & Development,Female,Asian,52,2013-03-12,128301,0.06,China,Beijing,2021-09-17,1,2021-09-17,8.517453798767967,45-54,2013,2021.0,7698.0599999999995,135999.06,6-10,45-54
+E02220,Thomas Rodriguez,Analyst,Finance,Manufacturing,Male,Latino,36,2019-10-09,51669,0.0,Brazil,Rio de Janeiro,2022-09-29,1,2022-09-29,2.973305954825462,35-44,2019,2022.0,0.0,51669.0,3-5,35-44
+E02221,Avery Lo,Automation Engineer,Engineering,Research & Development,Female,Asian,47,2001-01-26,104289,0.0,United States,Seattle,,0,2023-02-12,22.04517453798768,45-54,2001,,0.0,104289.0,16+,45-54
+E02222,Gabriel Bell,Cloud Infrastructure Architect,IT,Specialty Products,Male,Caucasian,27,2021-03-21,70181,0.0,United States,Phoenix,,0,2023-02-12,1.8973305954825461,25-34,2021,,0.0,70181.0,0-2,Under 35
+E02223,Gianna Walker,Computer Systems Manager,IT,Corporate,Female,Caucasian,45,2021-03-23,92317,0.06,United States,Austin,,0,2023-02-12,1.891854893908282,45-54,2021,,5539.0199999999995,97856.02,0-2,45-54
+E02224,Axel Bailey,Sr. Analyst,Marketing,Corporate,Male,Black,47,2022-12-07,99382,0.0,United States,Chicago,,0,2023-02-12,0.1834360027378508,45-54,2022,,0.0,99382.0,0-2,45-54
+E02225,Scarlett Green,Network Engineer,IT,Specialty Products,Female,Caucasian,26,2020-04-21,67702,0.0,United States,Seattle,,0,2023-02-12,2.811772758384668,25-34,2020,,0.0,67702.0,3-5,Under 35
+E02226,Jackson Wong,Analyst II,Finance,Research & Development,Male,Asian,58,2006-12-26,53133,0.0,China,Chengdu,,0,2023-02-12,16.13141683778234,55-65,2006,,0.0,53133.0,16+,55+
+E02227,Eva Jimenez,Operations Engineer,Engineering,Corporate,Female,Latino,60,1998-04-13,110554,0.0,Brazil,Sao Paulo,,0,2023-02-12,24.83504449007529,55-65,1998,,0.0,110554.0,16+,55+
+E02228,Ian Ma,Manager,Finance,Corporate,Male,Asian,45,2010-07-09,109221,0.09,United States,Austin,,0,2023-02-12,12.596851471594798,45-54,2010,,9829.89,119050.89,11-15,45-54
+E02229,Luna Castro,IT Systems Architect,IT,Specialty Products,Female,Latino,45,2007-02-01,88933,0.0,United States,Columbus,,0,2023-02-12,16.030116358658454,45-54,2007,,0.0,88933.0,16+,45-54
+E02230,Nolan Brooks,Business Partner,Human Resources,Manufacturing,Male,Caucasian,40,2014-11-08,49342,0.0,United States,Seattle,2019-08-27,1,2019-08-27,4.799452429842574,35-44,2014,2019.0,0.0,49342.0,3-5,35-44
+E02231,Jayden Jones,Cloud Infrastructure Architect,IT,Manufacturing,Male,Caucasian,27,2022-07-09,74587,0.0,United States,Austin,,0,2023-02-12,0.5968514715947981,25-34,2022,,0.0,74587.0,0-2,Under 35
+E02232,Asher Hsu,Sr. Analyst,Accounting,Manufacturing,Male,Asian,36,2020-03-13,80757,0.0,China,Chongqing,,0,2023-02-12,2.91854893908282,35-44,2020,,0.0,80757.0,3-5,35-44
+E02233,Greyson Lim,Director,Finance,Corporate,Male,Asian,28,2022-10-12,198662,0.25,China,Beijing,,0,2023-02-12,0.33675564681724846,25-34,2022,,49665.5,248327.5,0-2,Under 35
+E02234,Chloe Miller,Sr. Manager,Marketing,Manufacturing,Female,Black,57,2021-08-12,142506,0.11,United States,Austin,,0,2023-02-12,1.5030800821355237,55-65,2021,,15675.66,158181.66,0-2,55+
+E02235,Jaxson Brooks,Network Architect,IT,Manufacturing,Male,Black,57,2022-07-15,77028,0.0,United States,Seattle,,0,2023-02-12,0.5804243668720055,55-65,2022,,0.0,77028.0,0-2,55+
+E02236,Jack Perez,Cloud Infrastructure Architect,IT,Research & Development,Male,Latino,30,2017-01-09,80389,0.0,Brazil,Manaus,2017-09-10,1,2017-09-10,0.6680355920602327,25-34,2017,2017.0,0.0,80389.0,0-2,Under 35
+E02237,Ruby Reed,Vice President,Engineering,Specialty Products,Female,Caucasian,26,2022-01-23,249062,0.39,United States,Miami,,0,2023-02-12,1.054072553045859,25-34,2022,,97134.18000000001,346196.18,0-2,Under 35
+E02238,Ivy Rojas,IT Coordinator,IT,Corporate,Female,Latino,53,2013-01-08,52675,0.0,Brazil,Manaus,,0,2023-02-12,10.094455852156058,45-54,2013,,0.0,52675.0,11-15,45-54
+E02239,Hudson Wong,Sr. Account Representative,Sales,Manufacturing,Male,Asian,59,2014-05-11,83365,0.0,China,Chongqing,,0,2023-02-12,8.758384668035593,55-65,2014,,0.0,83365.0,6-10,55+
+E02240,Ryan Yi,Solutions Architect,IT,Specialty Products,Male,Asian,56,2003-08-17,82758,0.0,United States,Seattle,,0,2023-02-12,19.49075975359343,55-65,2003,,0.0,82758.0,16+,55+
+E02241,Carter Simmons,Manager,IT,Corporate,Male,Caucasian,41,2012-05-30,126406,0.1,United States,Chicago,,0,2023-02-12,10.704996577686517,35-44,2012,,12640.6,139046.6,11-15,35-44
+E02242,Emilia Xu,Manager,Marketing,Corporate,Female,Asian,46,2017-01-24,103147,0.06,United States,Miami,,0,2023-02-12,6.050650239561944,45-54,2017,,6188.82,109335.82,6-10,45-54
+E02243,Adam Medina,IT Systems Architect,IT,Manufacturing,Male,Latino,49,2020-10-04,81622,0.0,United States,Chicago,,0,2023-02-12,2.3572895277207393,45-54,2020,,0.0,81622.0,3-5,45-54
+E02244,Connor Howard,Systems Analyst,IT,Specialty Products,Male,Caucasian,42,2021-03-15,44265,0.0,United States,Austin,2022-06-27,1,2022-06-27,1.2840520191649556,35-44,2021,2022.0,0.0,44265.0,0-2,35-44
+E02245,Audrey Duong,Vice President,Sales,Specialty Products,Female,Asian,55,1999-03-03,213998,0.34,United States,Miami,,0,2023-02-12,23.94798083504449,55-65,1999,,72759.32,286757.32,16+,55+
+E02246,Landon Reyes,Director,IT,Research & Development,Male,Latino,44,2014-08-23,171823,0.27,United States,Columbus,,0,2023-02-12,8.473648186173854,35-44,2014,,46392.21000000001,218215.21000000002,6-10,35-44
+E02247,Noah Ma,Vice President,Accounting,Manufacturing,Male,Asian,28,2018-11-06,201013,0.31,United States,Phoenix,,0,2023-02-12,4.268309377138946,25-34,2018,,62314.03,263327.03,3-5,Under 35
+E02248,Lucas Alexander,Director,IT,Manufacturing,Male,Black,41,2013-09-20,192944,0.22,United States,Miami,,0,2023-02-12,9.396303901437372,35-44,2013,,42447.68,235391.68,6-10,35-44
+E02249,Henry Vo,Controls Engineer,Engineering,Manufacturing,Male,Asian,60,1996-09-13,81699,0.0,China,Beijing,,0,2023-02-12,26.414784394250514,55-65,1996,,0.0,81699.0,16+,55+
+E02250,Mila Han,Manager,Sales,Manufacturing,Female,Asian,54,2009-11-14,128791,0.06,United States,Miami,,0,2023-02-12,13.245722108145106,45-54,2009,,7727.46,136518.46,11-15,45-54
+E02251,Genesis Herrera,Manager,IT,Research & Development,Female,Latino,34,2015-10-03,126898,0.1,Brazil,Manaus,,0,2023-02-12,7.36208076659822,25-34,2015,,12689.800000000001,139587.8,6-10,Under 35
+E02252,Olivia Vazquez,Network Engineer,IT,Specialty Products,Female,Latino,53,2020-04-13,93053,0.0,Brazil,Sao Paulo,,0,2023-02-12,2.833675564681725,45-54,2020,,0.0,93053.0,3-5,45-54
+E02253,Leilani Ng,Systems Analyst,IT,Corporate,Female,Asian,48,2011-09-19,50513,0.0,United States,Seattle,2019-10-30,1,2019-10-30,8.112251882272416,45-54,2011,2019.0,0.0,50513.0,6-10,45-54
+E02254,Olivia Mendoza,Sr. Account Representative,Sales,Corporate,Female,Latino,43,2017-05-07,86533,0.0,United States,Columbus,,0,2023-02-12,5.768651608487337,35-44,2017,,0.0,86533.0,6-10,35-44
+E02255,Skylar Xu,Test Engineer,Engineering,Research & Development,Female,Asian,60,1997-10-16,72806,0.0,China,Chongqing,,0,2023-02-12,25.32511978097194,55-65,1997,,0.0,72806.0,16+,55+
+E02256,Eloise Williams,Vice President,Sales,Specialty Products,Female,Black,42,2019-02-12,258115,0.36,United States,Austin,,0,2023-02-12,4.0,35-44,2019,,92921.4,351036.4,3-5,35-44
+E02257,Jackson Maldonado,Cloud Infrastructure Architect,IT,Manufacturing,Male,Latino,52,2008-05-01,63444,0.0,United States,Miami,,0,2023-02-12,14.784394250513348,45-54,2008,,0.0,63444.0,11-15,45-54
+E02258,Christian Harris,Engineering Manager,Engineering,Specialty Products,Male,Caucasian,50,1999-02-21,96099,0.11,United States,Chicago,,0,2023-02-12,23.975359342915812,45-54,1999,,10570.89,106669.89,16+,45-54
+E02259,Penelope Santos,IT Systems Architect,IT,Manufacturing,Female,Latino,37,2009-03-01,92849,0.0,United States,Chicago,,0,2023-02-12,13.952087611225188,35-44,2009,,0.0,92849.0,11-15,35-44
+E02260,Nicholas Zhou,Sr. Account Representative,Sales,Manufacturing,Male,Asian,58,2014-10-28,85094,0.0,China,Chengdu,,0,2023-02-12,8.292950034223136,55-65,2014,,0.0,85094.0,6-10,55+
+E02261,Ayla Garza,Sr. Manager,Marketing,Corporate,Female,Latino,39,2017-06-15,156224,0.14,Brazil,Manaus,,0,2023-02-12,5.661875427789186,35-44,2017,,21871.36,178095.36,6-10,35-44
+E02262,Carson Mai,Vice President,Accounting,Corporate,Male,Asian,50,1996-04-15,245920,0.36,United States,Columbus,1996-05-16,1,1996-05-16,0.08487337440109514,45-54,1996,1996.0,88531.2,334451.2,0-2,45-54
+E02263,Luna Lu,Analyst II,Marketing,Research & Development,Female,Asian,51,2007-03-06,50214,0.0,China,Beijing,,0,2023-02-12,15.939767282683095,45-54,2007,,0.0,50214.0,16+,45-54
+E02264,Anthony Ho,Sr. Analyst,Marketing,Specialty Products,Male,Asian,31,2015-01-11,79713,0.0,China,Beijing,,0,2023-02-12,8.087611225188228,25-34,2015,,0.0,79713.0,6-10,Under 35
+E02265,Clara Lopez,Director,IT,Research & Development,Female,Latino,52,1999-08-09,166699,0.27,Brazil,Sao Paulo,,0,2023-02-12,23.512662559890487,45-54,1999,,45008.73,211707.73,16+,45-54
+E02266,Melody Woods,Network Administrator,IT,Research & Development,Female,Caucasian,63,2010-12-20,78788,0.0,United States,Seattle,,0,2023-02-12,12.147843942505133,55-65,2010,,0.0,78788.0,11-15,55+
+E02267,Matthew Simmons,Sr. Manager,Accounting,Research & Development,Male,Black,28,2022-12-19,142797,0.1,United States,Seattle,,0,2023-02-12,0.15058179329226556,25-34,2022,,14279.7,157076.7,0-2,Under 35
+E02268,Gabriella Carrillo,Vice President,Finance,Research & Development,Female,Latino,39,2012-07-16,187516,0.35,Brazil,Sao Paulo,,0,2023-02-12,10.576317590691307,35-44,2012,,65630.59999999999,253146.59999999998,11-15,35-44
+E02269,Lydia Juarez,Director,Finance,Specialty Products,Female,Latino,36,2013-09-21,156029,0.15,United States,Columbus,,0,2023-02-12,9.39356605065024,35-44,2013,,23404.35,179433.35,6-10,35-44
+E02270,Ava Carrillo,Sr. Manager,Accounting,Specialty Products,Female,Latino,63,1999-01-01,149582,0.14,United States,Seattle,2021-03-03,1,2021-03-03,22.168377823408623,55-65,1999,2021.0,20941.480000000003,170523.48,16+,55+
+E02271,Elena Sharma,Director,Marketing,Corporate,Female,Asian,47,2014-10-24,163922,0.21,United States,Phoenix,,0,2023-02-12,8.303901437371664,45-54,2014,,34423.619999999995,198345.62,6-10,45-54
+E02272,Julia Ahmed,Vice President,Accounting,Research & Development,Female,Asian,43,2004-11-14,240860,0.37,United States,Chicago,,0,2023-02-12,18.245037645448324,35-44,2004,,89118.2,329978.2,16+,35-44
+E02273,Iris Vo,Manager,Human Resources,Specialty Products,Female,Asian,39,2018-09-27,128497,0.07,China,Chengdu,,0,2023-02-12,4.37782340862423,35-44,2018,,8994.79,137491.79,3-5,35-44
+E02274,Hunter Yi,Automation Engineer,Engineering,Corporate,Male,Asian,55,2015-05-10,121976,0.0,China,Chongqing,,0,2023-02-12,7.761806981519507,55-65,2015,,0.0,121976.0,6-10,55+
+E02275,Valentina Oh,Sr. Manager,Sales,Corporate,Female,Asian,32,2022-07-12,126464,0.15,United States,Miami,,0,2023-02-12,0.5886379192334018,25-34,2022,,18969.6,145433.6,0-2,Under 35
+E02276,Kinsley Tran,Vice President,Accounting,Manufacturing,Female,Asian,53,2005-09-05,234064,0.33,China,Chengdu,,0,2023-02-12,17.437371663244353,45-54,2005,,77241.12000000001,311305.12,16+,45-54
+E02277,Christian Hong,Sr. Analyst,Finance,Manufacturing,Male,Asian,59,2008-01-16,81829,0.0,China,Chongqing,,0,2023-02-12,15.07460643394935,55-65,2008,,0.0,81829.0,16+,55+
+E02278,Amelia Mehta,Director,Human Resources,Corporate,Female,Asian,26,2022-04-21,193971,0.22,United States,Chicago,,0,2023-02-12,0.813141683778234,25-34,2022,,42673.62,236644.62,0-2,Under 35
+E02279,Axel Leung,Business Partner,Human Resources,Corporate,Male,Asian,55,2001-08-17,47696,0.0,United States,Seattle,,0,2023-02-12,21.489390828199863,55-65,2001,,0.0,47696.0,16+,55+
+E02280,Lucas Lam,Manager,Accounting,Specialty Products,Male,Asian,34,2013-07-17,116676,0.1,China,Chengdu,,0,2023-02-12,9.574264202600958,25-34,2013,,11667.6,128343.6,6-10,Under 35
+E02281,Jose Thompson,Manager,Marketing,Corporate,Male,Caucasian,45,2012-04-05,104162,0.09,United States,Austin,,0,2023-02-12,10.855578370978781,45-54,2012,,9374.58,113536.58,11-15,45-54
+E02282,Wesley Duong,Sr. Business Partner,Human Resources,Specialty Products,Male,Asian,29,2022-04-14,86226,0.0,United States,Seattle,,0,2023-02-12,0.8323066392881588,25-34,2022,,0.0,86226.0,0-2,Under 35
+E02283,Adeline Maldonado,Director,Marketing,Specialty Products,Female,Latino,45,2011-05-30,172206,0.29,Brazil,Sao Paulo,,0,2023-02-12,11.707049965776864,45-54,2011,,49939.74,222145.74,11-15,45-54
+E02284,Elias Diaz,HRIS Analyst,Human Resources,Specialty Products,Male,Latino,34,2012-04-06,55985,0.0,United States,Seattle,,0,2023-02-12,10.85284052019165,25-34,2012,,0.0,55985.0,11-15,Under 35
+E02285,Wyatt Aguilar,Technical Architect,IT,Corporate,Male,Latino,26,2021-06-06,61481,0.0,United States,Miami,,0,2023-02-12,1.6865160848733745,25-34,2021,,0.0,61481.0,0-2,Under 35
+E02286,Josephine Espinoza,Manager,Sales,Research & Development,Female,Latino,30,2017-11-26,124295,0.07,Brazil,Manaus,,0,2023-02-12,5.212867898699521,25-34,2017,,8700.650000000001,132995.65,6-10,Under 35
+E02287,Adeline Lai,Sr. Manager,Sales,Research & Development,Female,Asian,55,1999-02-08,132894,0.15,United States,Chicago,,0,2023-02-12,24.01095140314853,55-65,1999,,19934.1,152828.1,16+,55+
+E02288,Christopher Vu,Computer Systems Manager,IT,Corporate,Male,Asian,47,2002-03-16,88839,0.05,United States,Phoenix,2014-10-28,1,2014-10-28,12.618754277891854,45-54,2002,2014.0,4441.95,93280.95,11-15,45-54
+E02289,Kai Vega,Automation Engineer,Engineering,Manufacturing,Male,Latino,51,2005-06-16,78107,0.0,Brazil,Manaus,,0,2023-02-12,17.659137577002053,45-54,2005,,0.0,78107.0,16+,45-54
+E02290,Hailey Chin,Sr. Manager,IT,Corporate,Female,Asian,54,1993-07-10,135642,0.1,China,Beijing,,0,2023-02-12,29.593429158110883,45-54,1993,,13564.2,149206.2,16+,45-54
+E02291,Eleanor Xi,Sr. Manager,Sales,Corporate,Female,Asian,64,1997-01-10,147853,0.11,United States,Austin,,0,2023-02-12,26.088980150581794,55-65,1997,,16263.83,164116.83,16+,55+
+E02292,Lily Molina,Manager,IT,Manufacturing,Female,Latino,40,2009-09-15,125900,0.07,United States,Seattle,2018-04-16,1,2018-04-16,8.583162217659138,35-44,2009,2018.0,8813.0,134713.0,6-10,35-44
+E02293,Levi Vasquez,IT Coordinator,IT,Manufacturing,Male,Latino,27,2020-02-10,42969,0.0,United States,Phoenix,,0,2023-02-12,3.0061601642710474,25-34,2020,,0.0,42969.0,3-5,Under 35
+E02294,Elijah Washington,Vice President,Marketing,Manufacturing,Male,Caucasian,47,2022-02-13,214303,0.4,United States,Seattle,,0,2023-02-12,0.9965776865160849,45-54,2022,,85721.20000000001,300024.2,0-2,45-54
+E02295,Gianna Park,Vice President,Accounting,Specialty Products,Female,Asian,28,2020-12-19,199406,0.38,China,Chengdu,,0,2023-02-12,2.1492128678986995,25-34,2020,,75774.28,275180.28,3-5,Under 35
+E02296,Melody Leung,Vice President,Human Resources,Research & Development,Female,Asian,35,2015-03-20,182436,0.37,United States,Austin,,0,2023-02-12,7.901437371663245,35-44,2015,,67501.31999999999,249937.32,6-10,35-44
+E02297,Liliana Valdez,Computer Systems Manager,IT,Corporate,Female,Latino,59,1996-10-01,96507,0.09,United States,Seattle,,0,2023-02-12,26.365503080082135,55-65,1996,,8685.63,105192.63,16+,55+
+E02298,Ezekiel Kumar,Field Engineer,Engineering,Manufacturing,Male,Asian,33,2015-11-19,82906,0.0,China,Chengdu,2016-10-11,1,2016-10-11,0.8952772073921971,25-34,2015,2016.0,0.0,82906.0,0-2,Under 35
+E02299,Ruby Rahman,Business Partner,Human Resources,Manufacturing,Female,Asian,62,2005-12-05,41616,0.0,United States,Seattle,,0,2023-02-12,17.188227241615333,55-65,2005,,0.0,41616.0,16+,55+
+E02300,Natalie Stewart,Network Engineer,IT,Corporate,Female,Caucasian,50,2003-06-30,92344,0.0,United States,Phoenix,2022-01-26,1,2022-01-26,18.576317590691307,45-54,2003,2022.0,0.0,92344.0,16+,45-54
+E02301,Charlotte Lim,Vice President,Accounting,Manufacturing,Female,Asian,55,2006-06-27,196614,0.37,United States,Chicago,,0,2023-02-12,16.629705681040384,55-65,2006,,72747.18,269361.18,16+,55+
+E02302,Elena Campos,Manager,IT,Research & Development,Female,Latino,47,2022-02-06,104253,0.09,United States,Seattle,,0,2023-02-12,1.0157426420260096,45-54,2022,,9382.77,113635.77,0-2,45-54
+E02303,Vivian Lim,IT Coordinator,IT,Specialty Products,Female,Asian,34,2021-01-22,44677,0.0,China,Chongqing,,0,2023-02-12,2.0561259411362083,25-34,2021,,0.0,44677.0,3-5,Under 35
+E02304,Madison Xu,Network Engineer,IT,Research & Development,Female,Asian,39,2017-12-13,66463,0.0,China,Chongqing,,0,2023-02-12,5.166324435318275,35-44,2017,,0.0,66463.0,6-10,35-44
+E02305,Ava Aguilar,Business Partner,Human Resources,Corporate,Female,Latino,35,2015-12-17,53285,0.0,United States,Columbus,,0,2023-02-12,7.156741957563312,35-44,2015,,0.0,53285.0,6-10,35-44
+E02306,Kayden Patel,Development Engineer,Engineering,Research & Development,Male,Asian,54,1997-03-22,67683,0.0,China,Beijing,,0,2023-02-12,25.894592744695416,45-54,1997,,0.0,67683.0,16+,45-54
+E02307,Penelope Desai,Vice President,Finance,Manufacturing,Female,Asian,41,2018-10-29,238155,0.38,China,Shanghai,,0,2023-02-12,4.290212183436003,35-44,2018,,90498.9,328653.9,3-5,35-44
+E02308,Henry Vang,Director,Sales,Corporate,Male,Asian,37,2019-06-21,173630,0.24,China,Chongqing,,0,2023-02-12,3.646817248459959,35-44,2019,,41671.2,215301.2,3-5,35-44
+E02309,Eliana Turner,Sr. Analyst,Finance,Research & Development,Female,Black,29,2020-01-27,98992,0.0,United States,Miami,,0,2023-02-12,3.0444900752908968,25-34,2020,,0.0,98992.0,3-5,Under 35
+E02310,Charlotte Tran,Vice President,IT,Corporate,Female,Asian,64,2017-04-11,253330,0.39,United States,Austin,,0,2023-02-12,5.839835728952772,55-65,2017,,98798.7,352128.7,6-10,55+
+E02311,Everly Coleman,Sr. Manager,Sales,Corporate,Female,Caucasian,54,2011-08-14,158403,0.14,United States,Seattle,2019-08-02,1,2019-08-02,7.967145790554415,45-54,2011,2019.0,22176.420000000002,180579.42,6-10,45-54
+E02312,Matthew Harris,Sr. Manager,Accounting,Corporate,Male,Caucasian,36,2021-03-27,156085,0.12,United States,Miami,,0,2023-02-12,1.8809034907597535,35-44,2021,,18730.2,174815.2,0-2,35-44
+E02313,Emilia Barnes,Enterprise Architect,IT,Specialty Products,Female,Black,54,2013-04-18,80129,0.0,United States,Miami,,0,2023-02-12,9.820670773442847,45-54,2013,,0.0,80129.0,6-10,45-54
+E02314,Sophie Griffin,Account Representative,Sales,Research & Development,Female,Caucasian,56,2017-01-09,60517,0.0,United States,Columbus,,0,2023-02-12,6.091718001368926,55-65,2017,,0.0,60517.0,6-10,55+
+E02315,Kai Phillips,Test Engineer,Engineering,Research & Development,Male,Caucasian,48,2016-12-13,72315,0.0,United States,Austin,2017-05-20,1,2017-05-20,0.432580424366872,45-54,2016,2017.0,0.0,72315.0,0-2,45-54
+E02316,Dylan Khan,Director,Human Resources,Manufacturing,Male,Asian,35,2015-07-11,153815,0.19,United States,Miami,2016-05-31,1,2016-05-31,0.8898015058179329,35-44,2015,2016.0,29224.85,183039.85,0-2,35-44
+E02317,Nevaeh Clark,Sr. Manager,Marketing,Specialty Products,Female,Black,32,2018-08-16,139552,0.15,United States,Miami,,0,2023-02-12,4.492813141683778,25-34,2018,,20932.8,160484.8,3-5,Under 35
+E02318,Carter Luu,Vice President,Marketing,Corporate,Male,Asian,25,2022-10-20,257296,0.35,United States,Austin,,0,2023-02-12,0.31485284052019163,25-34,2022,,90053.59999999999,347349.6,0-2,Under 35
+E02319,Jordan Ngo,Sr. Analyst,Finance,Manufacturing,Male,Asian,26,2020-05-04,91372,0.0,United States,Miami,,0,2023-02-12,2.7761806981519506,25-34,2020,,0.0,91372.0,3-5,Under 35
+E02320,Jackson Hu,Sr. Business Partner,Human Resources,Corporate,Male,Asian,53,2017-06-05,73601,0.0,China,Chengdu,,0,2023-02-12,5.689253935660506,45-54,2017,,0.0,73601.0,6-10,45-54
+E02321,Madelyn Kang,IT Systems Architect,IT,Corporate,Female,Asian,37,2013-04-29,71871,0.0,China,Chengdu,,0,2023-02-12,9.790554414784394,35-44,2013,,0.0,71871.0,6-10,35-44
+E02322,Everleigh Bell,Sr. Account Representative,Sales,Specialty Products,Female,Caucasian,31,2016-02-07,84925,0.0,United States,Austin,,0,2023-02-12,7.014373716632443,25-34,2016,,0.0,84925.0,6-10,Under 35
+E02323,Eliana Trinh,Sr. Manager,IT,Manufacturing,Female,Asian,47,2010-01-07,155600,0.14,China,Chongqing,,0,2023-02-12,13.097878165639973,45-54,2010,,21784.000000000004,177384.0,11-15,45-54
+E02324,Oliver Ford,Manager,Sales,Research & Development,Male,Black,32,2018-12-15,101564,0.06,United States,Austin,,0,2023-02-12,4.161533196440794,25-34,2018,,6093.84,107657.84,3-5,Under 35
+E02325,Ryan Huang,Controls Engineer,Engineering,Research & Development,Male,Asian,40,2009-10-12,80150,0.0,United States,Phoenix,,0,2023-02-12,13.336071184120465,35-44,2009,,0.0,80150.0,11-15,35-44
+E02326,Gabriel Ahmed,HRIS Analyst,Human Resources,Corporate,Male,Asian,65,2021-10-09,73996,0.0,China,Chengdu,2022-09-04,1,2022-09-04,0.9034907597535934,55-65,2021,2022.0,0.0,73996.0,0-2,55+
+E02327,Ivy Rios,Network Architect,IT,Manufacturing,Female,Latino,25,2022-01-18,90109,0.0,United States,Seattle,,0,2023-02-12,1.0677618069815196,25-34,2022,,0.0,90109.0,0-2,Under 35
+E02328,Luca Hunter,Field Engineer,Engineering,Corporate,Male,Caucasian,39,2022-06-27,67216,0.0,United States,Phoenix,,0,2023-02-12,0.6297056810403833,35-44,2022,,0.0,67216.0,0-2,35-44
+E02329,Claire Owens,Network Engineer,IT,Research & Development,Female,Caucasian,52,1998-06-07,75402,0.0,United States,Phoenix,,0,2023-02-12,24.684462696783026,45-54,1998,,0.0,75402.0,16+,45-54
+E02330,Aubrey Maldonado,Automation Engineer,Engineering,Manufacturing,Female,Latino,38,2022-06-13,120795,0.0,Brazil,Sao Paulo,,0,2023-02-12,0.6680355920602327,35-44,2022,,0.0,120795.0,0-2,35-44
+E02331,Elias Vasquez,Systems Analyst,IT,Specialty Products,Male,Latino,33,2015-07-27,44012,0.0,Brazil,Manaus,,0,2023-02-12,7.5482546201232035,25-34,2015,,0.0,44012.0,6-10,Under 35
+E02332,Melody Luu,Vice President,Finance,Research & Development,Female,Asian,28,2021-04-03,219180,0.33,China,Chongqing,,0,2023-02-12,1.8617385352498288,25-34,2021,,72329.40000000001,291509.4,0-2,Under 35
+E02333,Christopher Luu,Vice President,Engineering,Research & Development,Male,Asian,61,2005-10-27,258700,0.32,United States,Austin,,0,2023-02-12,17.295003422313485,55-65,2005,,82784.0,341484.0,16+,55+
+E02334,James Han,Test Engineer,Engineering,Specialty Products,Male,Asian,32,2018-01-07,97496,0.0,United States,Miami,,0,2023-02-12,5.0978781656399725,25-34,2018,,0.0,97496.0,6-10,Under 35
+E02335,Jaxson Ayala,Vice President,Human Resources,Research & Development,Male,Latino,28,2020-08-01,239270,0.38,Brazil,Manaus,,0,2023-02-12,2.532511978097194,25-34,2020,,90922.6,330192.6,3-5,Under 35
+E02336,Levi James,Manager,IT,Specialty Products,Male,Caucasian,39,2012-03-02,103466,0.05,United States,Chicago,,0,2023-02-12,10.948665297741274,35-44,2012,,5173.3,108639.3,11-15,35-44
+E02337,Grayson Carrillo,Sr. Analyst,Accounting,Corporate,Male,Latino,57,2001-06-27,74662,0.0,Brazil,Sao Paulo,,0,2023-02-12,21.6290212183436,55-65,2001,,0.0,74662.0,16+,55+
+E02338,Maverick Hwang,Vice President,Human Resources,Research & Development,Male,Asian,40,2015-04-20,227816,0.33,United States,Chicago,,0,2023-02-12,7.816563997262149,35-44,2015,,75179.28,302995.28,6-10,35-44
+E02339,Noah Truong,Vice President,Sales,Manufacturing,Male,Asian,47,2013-12-08,246680,0.39,China,Beijing,,0,2023-02-12,9.180013689253936,45-54,2013,,96205.2,342885.2,6-10,45-54
+E02340,Willow Guzman,Enterprise Architect,IT,Manufacturing,Female,Latino,43,2010-06-26,85164,0.0,Brazil,Sao Paulo,,0,2023-02-12,12.632443531827516,35-44,2010,,0.0,85164.0,11-15,35-44
+E02341,Rylee Howard,Sr. Manager,Finance,Manufacturing,Female,Black,33,2014-08-18,135215,0.12,United States,Miami,,0,2023-02-12,8.487337440109513,25-34,2014,,16225.8,151440.8,6-10,Under 35
+E02342,Ian Marquez,HRIS Analyst,Human Resources,Corporate,Male,Latino,31,2019-01-14,72542,0.0,United States,Chicago,,0,2023-02-12,4.079397672826831,25-34,2019,,0.0,72542.0,3-5,Under 35
+E02343,Layla Owens,Vice President,IT,Research & Development,Female,Caucasian,47,2018-02-07,246303,0.34,United States,Columbus,,0,2023-02-12,5.0130047912388775,45-54,2018,,83743.02,330046.02,6-10,45-54
+E02344,Chloe Dixon,Vice President,Engineering,Corporate,Female,Caucasian,60,2021-05-11,186400,0.4,United States,Chicago,,0,2023-02-12,1.757700205338809,55-65,2021,,74560.0,260960.0,0-2,55+
+E02345,Emily Zheng,Solutions Architect,IT,Corporate,Female,Asian,50,2022-12-06,91004,0.0,China,Shanghai,,0,2023-02-12,0.1861738535249829,45-54,2022,,0.0,91004.0,0-2,45-54
+E02346,Jayden Rogers,Manager,Sales,Research & Development,Male,Caucasian,41,2016-12-14,101411,0.08,United States,Seattle,,0,2023-02-12,6.16290212183436,35-44,2016,,8112.88,109523.88,6-10,35-44
+E02347,Elizabeth Vasquez,Controls Engineer,Engineering,Specialty Products,Female,Latino,28,2020-08-09,111779,0.0,United States,Chicago,,0,2023-02-12,2.510609171800137,25-34,2020,,0.0,111779.0,3-5,Under 35
+E02348,Samantha Ford,Technical Architect,IT,Manufacturing,Female,Caucasian,25,2022-01-19,86075,0.0,United States,Miami,,0,2023-02-12,1.0650239561943875,25-34,2022,,0.0,86075.0,0-2,Under 35
+E02349,Thomas Silva,Analyst,Finance,Specialty Products,Male,Latino,45,2015-08-13,52798,0.0,United States,Miami,2018-01-30,1,2018-01-30,2.4668035592060233,45-54,2015,2018.0,0.0,52798.0,3-5,45-54
+E02350,Charlotte Park,Network Architect,IT,Specialty Products,Female,Asian,63,2020-12-17,96136,0.0,China,Shanghai,,0,2023-02-12,2.1546885694729636,55-65,2020,,0.0,96136.0,3-5,55+
+E02351,Liam Jimenez,Sr. Analyst,Marketing,Research & Development,Male,Latino,52,2002-08-11,95682,0.0,United States,Seattle,2012-05-17,1,2012-05-17,9.765913757700206,45-54,2002,2012.0,0.0,95682.0,6-10,45-54
+E02352,Ivy Liu,Analyst II,Marketing,Manufacturing,Female,Asian,59,1993-05-29,55476,0.0,China,Chongqing,,0,2023-02-12,29.70841889117043,55-65,1993,,0.0,55476.0,16+,55+
+E02353,Jayden Dixon,Vice President,Finance,Manufacturing,Male,Caucasian,30,2018-01-14,197792,0.34,United States,Austin,,0,2023-02-12,5.078713210130048,25-34,2018,,67249.28,265041.28,6-10,Under 35
+E02354,Nevaeh Butler,Field Engineer,Engineering,Research & Development,Female,Caucasian,55,2009-07-10,82271,0.0,United States,Chicago,,0,2023-02-12,13.593429158110883,55-65,2009,,0.0,82271.0,11-15,55+
+E02355,Leonardo Li,Sr. Manager,Accounting,Specialty Products,Male,Asian,65,2009-04-23,155716,0.12,United States,Seattle,,0,2023-02-12,13.806981519507186,55-65,2009,,18685.92,174401.91999999998,11-15,55+
+E02356,Kinsley Woods,HRIS Analyst,Human Resources,Corporate,Female,Caucasian,34,2014-06-19,71699,0.0,United States,Phoenix,,0,2023-02-12,8.65160848733744,25-34,2014,,0.0,71699.0,6-10,Under 35
+E02357,Abigail Chu,Sr. Manager,Human Resources,Manufacturing,Female,Asian,51,2006-04-17,147436,0.11,United States,Austin,,0,2023-02-12,16.824093086926762,45-54,2006,,16217.960000000001,163653.96,16+,45-54
+E02358,Ava Xiong,Sr. Business Partner,Human Resources,Manufacturing,Female,Asian,52,2019-07-21,88220,0.0,China,Shanghai,,0,2023-02-12,3.564681724845996,45-54,2019,,0.0,88220.0,3-5,45-54
+E02359,Olivia Marquez,Account Representative,Sales,Specialty Products,Female,Latino,44,2020-04-06,54295,0.0,United States,Columbus,,0,2023-02-12,2.8528405201916494,35-44,2020,,0.0,54295.0,3-5,35-44
+E02360,Claire Vazquez,Vice President,Human Resources,Corporate,Female,Latino,44,2004-06-12,246538,0.35,United States,Miami,,0,2023-02-12,18.6694045174538,35-44,2004,,86288.29999999999,332826.3,16+,35-44
+E02361,Christian Castro,IT Coordinator,IT,Specialty Products,Male,Latino,40,2006-04-15,43645,0.0,United States,Austin,2008-05-09,1,2008-05-09,2.0670773442847366,35-44,2006,2008.0,0.0,43645.0,3-5,35-44
+E02362,Mason Oh,Manager,Human Resources,Manufacturing,Male,Asian,25,2022-04-11,125644,0.07,United States,Seattle,,0,2023-02-12,0.840520191649555,25-34,2022,,8795.080000000002,134439.08000000002,0-2,Under 35
+E02363,Violet Santiago,Service Desk Analyst,IT,Research & Development,Female,Latino,32,2018-01-14,78414,0.0,United States,Seattle,,0,2023-02-12,5.078713210130048,25-34,2018,,0.0,78414.0,6-10,Under 35
+E02364,Lily Rios,Sr. Analyst,Marketing,Specialty Products,Female,Latino,45,2013-01-25,88016,0.0,Brazil,Rio de Janeiro,,0,2023-02-12,10.047912388774812,45-54,2013,,0.0,88016.0,11-15,45-54
+E02365,Kinsley Stewart,Computer Systems Manager,IT,Corporate,Female,Caucasian,56,2021-09-07,66561,0.06,United States,Chicago,,0,2023-02-12,1.431895961670089,55-65,2021,,3993.66,70554.66,0-2,55+
+E02366,Aria Molina,Development Engineer,Engineering,Research & Development,Female,Latino,52,2001-10-24,89811,0.0,Brazil,Rio de Janeiro,2022-08-20,1,2022-08-20,20.82135523613963,45-54,2001,2022.0,0.0,89811.0,16+,45-54
+E02367,James Cheng,Manager,IT,Manufacturing,Male,Asian,49,2010-05-26,125506,0.09,United States,Seattle,,0,2023-02-12,12.71731690622861,45-54,2010,,11295.539999999999,136801.54,11-15,45-54
+E02368,Mila Vang,Analyst II,Finance,Manufacturing,Female,Asian,46,2009-08-25,56409,0.0,United States,Columbus,,0,2023-02-12,13.467488021902806,45-54,2009,,0.0,56409.0,11-15,45-54
+E02369,Alice Liu,Sr. Manager,Sales,Research & Development,Female,Asian,39,2012-02-22,122058,0.14,China,Beijing,,0,2023-02-12,10.973305954825461,35-44,2012,,17088.120000000003,139146.12,11-15,35-44
+E02370,Delilah Gonzalez,Sr. Analyst,Sales,Manufacturing,Female,Latino,55,1998-03-29,82550,0.0,United States,Chicago,,0,2023-02-12,24.876112251882272,55-65,1998,,0.0,82550.0,16+,55+
+E02371,Samuel Tang,System Administrator ,IT,Manufacturing,Male,Asian,34,2012-09-15,93760,0.0,United States,Miami,,0,2023-02-12,10.40930869267625,25-34,2012,,0.0,93760.0,11-15,Under 35
+E02372,Serenity Gray,Analyst,Sales,Research & Development,Female,Black,56,2012-06-19,55008,0.0,United States,Austin,,0,2023-02-12,10.650239561943874,55-65,2012,,0.0,55008.0,11-15,55+
+E02373,Benjamin Estrada,Analyst II,Marketing,Research & Development,Male,Latino,56,2012-09-28,65368,0.0,United States,Seattle,,0,2023-02-12,10.373716632443532,55-65,2012,,0.0,65368.0,11-15,55+
+E02374,Wesley Han,Test Engineer,Engineering,Research & Development,Male,Asian,62,2017-04-20,83955,0.0,United States,Phoenix,,0,2023-02-12,5.815195071868583,55-65,2017,,0.0,83955.0,6-10,55+
+E02375,Nora Herrera,Vice President,Marketing,Specialty Products,Female,Latino,60,1997-12-24,231907,0.38,United States,Austin,,0,2023-02-12,25.136208076659823,55-65,1997,,88124.66,320031.66000000003,16+,55+
+E02376,Lincoln Harris,IT Systems Architect,IT,Manufacturing,Male,Caucasian,42,2009-09-16,97628,0.0,United States,Phoenix,,0,2023-02-12,13.4072553045859,35-44,2009,,0.0,97628.0,11-15,35-44
+E02377,Charles Gonzales,IT Systems Architect,IT,Manufacturing,Male,Latino,27,2020-09-22,88142,0.0,United States,Columbus,,0,2023-02-12,2.3901437371663246,25-34,2020,,0.0,88142.0,3-5,Under 35
+E02378,Athena Cheng,Test Engineer,Engineering,Corporate,Female,Asian,37,2020-03-02,83465,0.0,China,Beijing,,0,2023-02-12,2.948665297741273,35-44,2020,,0.0,83465.0,3-5,35-44
+E02379,David Garza,Director,IT,Manufacturing,Male,Latino,29,2022-01-09,197731,0.15,United States,Seattle,,0,2023-02-12,1.0924024640657084,25-34,2022,,29659.649999999998,227390.65,0-2,Under 35
+E02380,Hunter Doan,Sr. Manager,Accounting,Research & Development,Male,Asian,32,2014-12-15,151758,0.12,China,Beijing,,0,2023-02-12,8.161533196440795,25-34,2014,,18210.96,169968.96,6-10,Under 35
+E02381,Julian Lam,Director,Finance,Research & Development,Male,Asian,33,2013-09-08,164340,0.15,United States,Chicago,,0,2023-02-12,9.429158110882957,25-34,2013,,24651.0,188991.0,6-10,Under 35
+E02382,Sofia Estrada,Controls Engineer,Engineering,Specialty Products,Female,Latino,42,2006-03-26,104916,0.0,Brazil,Manaus,,0,2023-02-12,16.88432580424367,35-44,2006,,0.0,104916.0,16+,35-44
+E02383,Jordan Chen,Analyst,Finance,Specialty Products,Male,Asian,60,1997-01-22,42536,0.0,United States,Columbus,,0,2023-02-12,26.05612594113621,55-65,1997,,0.0,42536.0,16+,55+
+E02384,Eloise Huang,Vice President,Finance,Research & Development,Female,Asian,51,2009-04-05,195171,0.33,United States,Seattle,,0,2023-02-12,13.856262833675565,45-54,2009,,64406.43,259577.43,11-15,45-54
+E02385,Ivy Mehta,Business Partner,Human Resources,Manufacturing,Female,Asian,50,2020-05-26,45290,0.0,China,Chongqing,2021-08-04,1,2021-08-04,1.1909650924024642,45-54,2020,2021.0,0.0,45290.0,0-2,45-54
+E02386,Eli Castillo,Vice President,Finance,Specialty Products,Male,Latino,50,2009-12-11,203306,0.38,United States,Seattle,,0,2023-02-12,13.17180013689254,45-54,2009,,77256.28,280562.28,11-15,45-54
+E02387,Nolan Garcia,Analyst II,Sales,Specialty Products,Male,Latino,26,2022-06-16,66865,0.0,Brazil,Rio de Janeiro,,0,2023-02-12,0.6598220396988365,25-34,2022,,0.0,66865.0,0-2,Under 35
+E02388,Alexander Zhu,Network Architect,IT,Corporate,Male,Asian,30,2022-10-17,89164,0.0,United States,Phoenix,,0,2023-02-12,0.32306639288158795,25-34,2022,,0.0,89164.0,0-2,Under 35
+E02389,Victoria Wu,Sr. Analyst,Sales,Manufacturing,Female,Asian,35,2021-10-28,75602,0.0,United States,Miami,,0,2023-02-12,1.2922655715263518,35-44,2021,,0.0,75602.0,0-2,35-44
+E02390,Mateo Jordan,Network Administrator,IT,Specialty Products,Male,Caucasian,44,2021-02-13,92939,0.0,United States,Austin,,0,2023-02-12,1.995893223819302,35-44,2021,,0.0,92939.0,0-2,35-44
+E02391,Everly Martin,Analyst II,Marketing,Specialty Products,Female,Black,26,2020-05-28,64278,0.0,United States,Columbus,,0,2023-02-12,2.7104722792607805,25-34,2020,,0.0,64278.0,3-5,Under 35
+E02392,Athena Castro,Solutions Architect,IT,Research & Development,Female,Latino,44,2013-10-04,72176,0.0,Brazil,Rio de Janeiro,,0,2023-02-12,9.357973990417522,35-44,2013,,0.0,72176.0,6-10,35-44
+E02393,Josephine White,Computer Systems Manager,IT,Corporate,Female,Caucasian,61,2010-02-05,87758,0.09,United States,Seattle,,0,2023-02-12,13.018480492813142,55-65,2010,,7898.219999999999,95656.22,11-15,55+
+E02394,Nicholas Vo,Analyst II,Accounting,Corporate,Male,Asian,50,2002-06-01,54646,0.0,United States,Seattle,,0,2023-02-12,20.700889801505816,45-54,2002,,0.0,54646.0,16+,45-54
+E02395,Jackson Sandoval,HRIS Analyst,Human Resources,Corporate,Male,Latino,61,2011-01-26,73323,0.0,United States,Austin,,0,2023-02-12,12.046543463381246,55-65,2011,,0.0,73323.0,11-15,55+
+E02396,Olivia Turner,Director,Marketing,Specialty Products,Female,Caucasian,29,2021-01-07,151492,0.21,United States,Columbus,,0,2023-02-12,2.0971937029431897,25-34,2021,,31813.32,183305.32,3-5,Under 35
+E02397,Cooper Rivera,Sr. Manager,Finance,Corporate,Male,Latino,42,2005-12-26,138215,0.12,Brazil,Manaus,,0,2023-02-12,17.130732375085557,35-44,2005,,16585.8,154800.8,16+,35-44
+E02398,Hailey Washington,Sr. Manager,Finance,Specialty Products,Female,Black,51,2013-07-03,135578,0.1,United States,Miami,2018-07-06,1,2018-07-06,5.007529089664613,45-54,2013,2018.0,13557.800000000001,149135.8,6-10,45-54
+E02399,Mia Vasquez,Test Engineer,Engineering,Research & Development,Female,Latino,27,2019-12-02,64297,0.0,Brazil,Manaus,,0,2023-02-12,3.1978097193702943,25-34,2019,,0.0,64297.0,3-5,Under 35
+E02400,Jose Grant,Development Engineer,Engineering,Corporate,Male,Caucasian,52,2021-06-28,94857,0.0,United States,Miami,2023-02-12,1,2023-02-12,1.626283367556468,45-54,2021,2023.0,0.0,94857.0,0-2,45-54
+E02401,Nathan Yee,Development Engineer,Engineering,Research & Development,Male,Asian,58,2009-10-24,77196,0.0,United States,Austin,,0,2023-02-12,13.30321697467488,55-65,2009,,0.0,77196.0,11-15,55+
+E02402,Isabella Munoz,Director,Sales,Research & Development,Female,Latino,45,2002-12-25,193154,0.18,Brazil,Sao Paulo,,0,2023-02-12,20.134154688569474,45-54,2002,,34767.72,227921.72,16+,45-54
+E02403,Michael Turner,Manager,Human Resources,Specialty Products,Male,Black,28,2019-12-29,115916,0.09,United States,Chicago,,0,2023-02-12,3.1238877481177276,25-34,2019,,10432.44,126348.44,3-5,Under 35
+E02404,Oliver Jones,Vice President,Accounting,Manufacturing,Male,Caucasian,56,2016-03-20,192374,0.3,United States,Chicago,,0,2023-02-12,6.899383983572895,55-65,2016,,57712.2,250086.2,6-10,55+
+E02405,Charles Taylor,Director,Human Resources,Specialty Products,Male,Caucasian,32,2019-07-15,186869,0.16,United States,Miami,,0,2023-02-12,3.5811088295687883,25-34,2019,,29899.04,216768.04,3-5,Under 35
+E02406,Gianna Alvarez,Business Partner,Human Resources,Manufacturing,Female,Latino,58,1993-05-11,49293,0.0,United States,Columbus,,0,2023-02-12,29.75770020533881,55-65,1993,,0.0,49293.0,16+,55+
+E02407,Nova Martin,Manager,Human Resources,Research & Development,Female,Caucasian,39,2013-04-13,129087,0.05,United States,Seattle,,0,2023-02-12,9.834360027378509,35-44,2013,,6454.35,135541.35,6-10,35-44
+E02408,Julia Gonzalez,Analyst,Finance,Research & Development,Female,Latino,46,2005-02-15,54831,0.0,Brazil,Sao Paulo,,0,2023-02-12,17.99041752224504,45-54,2005,,0.0,54831.0,16+,45-54
+E02409,Athena Vu,Analyst,Marketing,Specialty Products,Female,Asian,26,2020-11-28,51825,0.0,United States,Phoenix,,0,2023-02-12,2.206707734428474,25-34,2020,,0.0,51825.0,3-5,Under 35
+E02410,Caroline Bui,Field Engineer,Engineering,Manufacturing,Female,Asian,36,2019-09-15,67457,0.0,China,Shanghai,,0,2023-02-12,3.4113620807665983,35-44,2019,,0.0,67457.0,3-5,35-44
+E02411,Daniel Ali,Cloud Infrastructure Architect,IT,Corporate,Male,Asian,43,2019-09-28,94555,0.0,United States,Austin,,0,2023-02-12,3.375770020533881,35-44,2019,,0.0,94555.0,3-5,35-44
+E02412,Iris Huang,Director,Human Resources,Corporate,Female,Asian,45,2008-03-28,163686,0.25,China,Chengdu,,0,2023-02-12,14.877481177275838,45-54,2008,,40921.5,204607.5,11-15,45-54
+E02413,Natalia Cheng,Systems Analyst,IT,Corporate,Female,Asian,65,2002-07-29,47919,0.0,China,Beijing,,0,2023-02-12,20.542094455852155,55-65,2002,,0.0,47919.0,16+,55+
+E02414,Owen Evans,Enterprise Architect,IT,Manufacturing,Male,Caucasian,34,2021-05-28,68972,0.0,United States,Austin,2022-10-29,1,2022-10-29,1.4209445585215605,25-34,2021,2022.0,0.0,68972.0,0-2,Under 35
+E02415,Angel Dixon,Analyst,Sales,Manufacturing,Male,Caucasian,52,2002-04-01,50775,0.0,United States,Seattle,,0,2023-02-12,20.867898699520875,45-54,2002,,0.0,50775.0,16+,45-54
+E02416,Aubrey Guerrero,Sr. Manager,Marketing,Corporate,Female,Latino,39,2013-02-12,122713,0.13,Brazil,Sao Paulo,,0,2023-02-12,9.998631074606434,35-44,2013,,15952.69,138665.69,6-10,35-44
+E02417,Ivy Do,Analyst II,Accounting,Corporate,Female,Asian,57,1993-05-13,57230,0.0,United States,Austin,,0,2023-02-12,29.752224503764545,55-65,1993,,0.0,57230.0,16+,55+
+E02418,Kai Gutierrez,Sr. Manager,Marketing,Specialty Products,Male,Latino,63,1997-12-17,148794,0.1,Brazil,Manaus,,0,2023-02-12,25.155373032169745,55-65,1997,,14879.400000000001,163673.4,16+,55+
+E02419,Caroline Ahmed,Sr. Manager,Marketing,Research & Development,Female,Asian,32,2016-12-23,155884,0.13,United States,Miami,,0,2023-02-12,6.138261464750171,25-34,2016,,20264.920000000002,176148.92,6-10,Under 35
+E02420,Alice Sharma,Account Representative,Sales,Research & Development,Female,Asian,51,2018-10-05,50975,0.0,China,Chengdu,,0,2023-02-12,4.355920602327173,45-54,2018,,0.0,50975.0,3-5,45-54
+E02421,Leo Simmons,Analyst,Accounting,Research & Development,Male,Black,38,2017-12-13,52200,0.0,United States,Phoenix,,0,2023-02-12,5.166324435318275,35-44,2017,,0.0,52200.0,6-10,35-44
+E02422,Asher Hong,Director,Finance,Research & Development,Male,Asian,53,2018-04-17,154141,0.26,China,Chongqing,,0,2023-02-12,4.824093086926762,45-54,2018,,40076.66,194217.66,3-5,45-54
+E02423,Gianna Ramirez,Field Engineer,Engineering,Specialty Products,Female,Latino,59,1993-07-25,69245,0.0,United States,Phoenix,,0,2023-02-12,29.5523613963039,55-65,1993,,0.0,69245.0,16+,55+
+E02424,Thomas Smith,Field Engineer,Engineering,Specialty Products,Male,Caucasian,57,1999-04-02,78212,0.0,United States,Miami,2010-09-05,1,2010-09-05,11.427789185489392,55-65,1999,2010.0,0.0,78212.0,11-15,55+
+E02425,Carter Hunter,Sr. Analyst,Accounting,Corporate,Male,Caucasian,41,2019-10-07,72650,0.0,United States,Austin,2020-08-21,1,2020-08-21,0.8733744010951403,35-44,2019,2020.0,0.0,72650.0,0-2,35-44
+E02426,Charlotte Green,Automation Engineer,Engineering,Research & Development,Female,Caucasian,33,2020-11-10,124681,0.0,United States,Phoenix,,0,2023-02-12,2.2559890485968515,25-34,2020,,0.0,124681.0,3-5,Under 35
+E02427,Lincoln Holmes,Network Administrator,IT,Research & Development,Male,Black,35,2013-08-21,89051,0.0,United States,Chicago,,0,2023-02-12,9.478439425051334,35-44,2013,,0.0,89051.0,6-10,35-44
+E02428,Hudson Hu,Automation Engineer,Engineering,Research & Development,Male,Asian,36,2019-12-02,121049,0.0,United States,Seattle,2023-01-08,1,2023-01-08,3.1019849418206706,35-44,2019,2023.0,0.0,121049.0,3-5,35-44
+E02429,Noah Mitchell,Network Engineer,IT,Research & Development,Male,Caucasian,54,2007-06-15,70519,0.0,United States,Columbus,,0,2023-02-12,15.663244353182751,45-54,2007,,0.0,70519.0,16+,45-54
+E02430,Liliana Choi,Manager,IT,Research & Development,Female,Asian,55,2007-01-25,106302,0.08,United States,Austin,,0,2023-02-12,16.04928131416838,55-65,2007,,8504.16,114806.16,16+,55+
+E02431,Leonardo Cho,Engineering Manager,Engineering,Specialty Products,Male,Asian,38,2008-08-25,119960,0.15,United States,Columbus,,0,2023-02-12,14.466803559206022,35-44,2008,,17994.0,137954.0,11-15,35-44
+E02432,Oliver Delgado,Test Engineer,Engineering,Research & Development,Male,Latino,45,2017-02-22,84309,0.0,Brazil,Manaus,,0,2023-02-12,5.971252566735113,45-54,2017,,0.0,84309.0,6-10,45-54
+E02433,Isabella Roberts,Vice President,Engineering,Manufacturing,Female,Caucasian,53,2007-08-20,228494,0.33,United States,Austin,,0,2023-02-12,15.482546201232033,45-54,2007,,75403.02,303897.02,16+,45-54
+E02434,Luca Desai,Manager,Sales,Specialty Products,Male,Asian,45,2017-05-23,112076,0.06,China,Chengdu,,0,2023-02-12,5.724845995893224,45-54,2017,,6724.5599999999995,118800.56,6-10,45-54
+E02435,William Juarez,Technical Architect,IT,Specialty Products,Male,Latino,65,2016-07-29,88533,0.0,Brazil,Rio de Janeiro,,0,2023-02-12,6.54072553045859,55-65,2016,,0.0,88533.0,6-10,55+
+E02436,Ryan Alvarez,HRIS Analyst,Human Resources,Research & Development,Male,Latino,62,2018-11-29,72025,0.0,Brazil,Manaus,,0,2023-02-12,4.205338809034908,55-65,2018,,0.0,72025.0,3-5,55+
+E02437,Hudson Ha,Field Engineer,Engineering,Manufacturing,Male,Asian,59,2004-02-06,67947,0.0,China,Shanghai,,0,2023-02-12,19.017111567419576,55-65,2004,,0.0,67947.0,16+,55+
+E02438,Hannah Brown,Cloud Infrastructure Architect,IT,Manufacturing,Female,Caucasian,42,2020-07-12,79764,0.0,United States,Austin,2021-02-05,1,2021-02-05,0.5694729637234771,35-44,2020,2021.0,0.0,79764.0,0-2,35-44
+E02439,Hadley Le,Cloud Infrastructure Architect,IT,Research & Development,Female,Asian,33,2015-03-18,60690,0.0,China,Chongqing,,0,2023-02-12,7.906913073237509,25-34,2015,,0.0,60690.0,6-10,Under 35
+E02440,Jaxson Shah,Analyst,Accounting,Corporate,Male,Asian,29,2018-08-25,44520,0.0,United States,Chicago,,0,2023-02-12,4.468172484599589,25-34,2018,,0.0,44520.0,3-5,Under 35
+E02441,Christopher Delgado,Network Architect,IT,Corporate,Male,Latino,33,2022-06-24,84317,0.0,Brazil,Rio de Janeiro,,0,2023-02-12,0.6379192334017796,25-34,2022,,0.0,84317.0,0-2,Under 35
+E02442,Hannah Ng,Director,Sales,Manufacturing,Female,Asian,36,2015-05-14,151055,0.19,United States,Columbus,,0,2023-02-12,7.750855578370979,35-44,2015,,28700.45,179755.45,6-10,35-44
+E02443,Austin Ngo,Network Architect,IT,Research & Development,Male,Asian,43,2020-03-27,62492,0.0,United States,Columbus,,0,2023-02-12,2.8802190280629705,35-44,2020,,0.0,62492.0,3-5,35-44
+E02444,Gianna Han,HRIS Analyst,Human Resources,Research & Development,Female,Asian,51,2011-02-27,72589,0.0,United States,Austin,,0,2023-02-12,11.958932238193018,45-54,2011,,0.0,72589.0,11-15,45-54
+E02445,Isaac Choi,Operations Engineer,Engineering,Corporate,Male,Asian,27,2021-01-21,82286,0.0,United States,Chicago,2022-11-02,1,2022-11-02,1.7796030116358659,25-34,2021,2022.0,0.0,82286.0,0-2,Under 35
+E02446,Madeline Smith,Cloud Infrastructure Architect,IT,Research & Development,Female,Caucasian,55,2011-11-23,66660,0.0,United States,Phoenix,2017-11-16,1,2017-11-16,5.982203969883641,55-65,2011,2017.0,0.0,66660.0,6-10,55+
+E02447,Ellie Fernandez,Quality Engineer,Engineering,Specialty Products,Female,Latino,62,2009-08-18,86805,0.0,United States,Austin,,0,2023-02-12,13.486652977412732,55-65,2009,,0.0,86805.0,11-15,55+
+E02448,Lyla Lai,Manager,Human Resources,Specialty Products,Female,Asian,46,2004-08-11,125878,0.1,United States,Austin,2009-01-29,1,2009-01-29,4.468172484599589,45-54,2004,2009.0,12587.800000000001,138465.8,3-5,45-54
+E02449,Emily Moore,Analyst,Accounting,Research & Development,Female,Black,47,2009-11-08,50290,0.0,United States,Columbus,,0,2023-02-12,13.262149212867898,45-54,2009,,0.0,50290.0,11-15,45-54
+E02450,Aubrey Moreno,Computer Systems Manager,IT,Research & Development,Female,Latino,57,2000-06-30,97083,0.06,United States,Austin,2008-11-26,1,2008-11-26,8.407939767282683,55-65,2000,2008.0,5824.98,102907.98,6-10,55+
+E02451,Nova Xiong,Network Administrator,IT,Corporate,Female,Asian,49,2019-04-10,93306,0.0,China,Beijing,,0,2023-02-12,3.8439425051334704,45-54,2019,,0.0,93306.0,3-5,45-54
+E02452,Eva Lam,Field Engineer,Engineering,Manufacturing,Female,Asian,42,2022-03-08,73404,0.0,United States,Austin,,0,2023-02-12,0.9336071184120466,35-44,2022,,0.0,73404.0,0-2,35-44
+E02453,Caroline Chau,IT Systems Architect,IT,Specialty Products,Female,Asian,55,2022-12-07,91179,0.0,United States,Columbus,2023-02-01,1,2023-02-01,0.15331964407939766,55-65,2022,2023.0,0.0,91179.0,0-2,55+
+E02454,Sofia Chen,Manager,Finance,Specialty Products,Female,Asian,46,2006-08-27,108003,0.05,China,Chengdu,,0,2023-02-12,16.462696783025326,45-54,2006,,5400.150000000001,113403.15,16+,45-54
+E02455,Christopher Sharma,System Administrator ,IT,Corporate,Male,Asian,45,2004-04-16,81384,0.0,China,Beijing,,0,2023-02-12,18.82546201232033,45-54,2004,,0.0,81384.0,16+,45-54
+E02456,Lucas Grant,Sr. Business Partner,Human Resources,Manufacturing,Male,Caucasian,53,2012-03-28,97218,0.0,United States,Austin,,0,2023-02-12,10.877481177275838,45-54,2012,,0.0,97218.0,11-15,45-54
+E02457,Delilah Washington,Analyst,Sales,Research & Development,Female,Caucasian,46,2006-09-17,42944,0.0,United States,Miami,,0,2023-02-12,16.40520191649555,45-54,2006,,0.0,42944.0,16+,45-54
+E02458,Eloise Molina,Analyst,Finance,Research & Development,Female,Latino,48,2015-01-18,43980,0.0,United States,Columbus,,0,2023-02-12,8.068446269678303,45-54,2015,,0.0,43980.0,6-10,45-54
+E02459,Clara Desai,Manager,Marketing,Corporate,Female,Asian,33,2014-11-20,109533,0.05,China,Chengdu,,0,2023-02-12,8.229979466119097,25-34,2014,,5476.650000000001,115009.65,6-10,Under 35
+E02460,Audrey Campbell,Vice President,Accounting,Research & Development,Female,Caucasian,56,2008-07-30,226952,0.39,United States,Miami,,0,2023-02-12,14.537987679671458,55-65,2008,,88511.28,315463.28,11-15,55+
+E02461,Delilah Alvarez,System Administrator ,IT,Manufacturing,Female,Latino,59,2007-11-27,71580,0.0,United States,Seattle,,0,2023-02-12,15.211498973305956,55-65,2007,,0.0,71580.0,16+,55+
+E02462,Luke Luna,Analyst II,Finance,Manufacturing,Male,Latino,55,2012-11-16,66172,0.0,Brazil,Manaus,,0,2023-02-12,10.239561943874058,55-65,2012,,0.0,66172.0,11-15,55+
+E02463,Elizabeth Tan,Vice President,Marketing,Research & Development,Female,Asian,46,2018-07-27,237489,0.3,United States,Chicago,,0,2023-02-12,4.547570157426421,45-54,2018,,71246.7,308735.7,3-5,45-54
+E02464,Sophia Wang,Analyst,Marketing,Specialty Products,Female,Asian,50,2000-05-20,48733,0.0,United States,Seattle,,0,2023-02-12,22.732375085557837,45-54,2000,,0.0,48733.0,16+,45-54
+E02465,Nova Park,Analyst,Sales,Corporate,Female,Asian,29,2017-07-23,48563,0.0,China,Shanghai,,0,2023-02-12,5.557837097878165,25-34,2017,,0.0,48563.0,6-10,Under 35
+E02466,Josiah Khan,Cloud Infrastructure Architect,IT,Manufacturing,Male,Asian,57,2004-10-26,86592,0.0,China,Chongqing,,0,2023-02-12,18.297056810403834,55-65,2004,,0.0,86592.0,16+,55+
+E02467,Madison Gray,Vice President,Finance,Research & Development,Female,Caucasian,39,2011-08-29,189823,0.38,United States,Columbus,,0,2023-02-12,11.457905544147843,35-44,2011,,72132.74,261955.74,11-15,35-44
+E02468,Luca Washington,Enterprise Architect,IT,Corporate,Male,Black,40,2022-06-27,65075,0.0,United States,Phoenix,,0,2023-02-12,0.6297056810403833,35-44,2022,,0.0,65075.0,0-2,35-44
+E02469,Isaac Cruz,Vice President,Human Resources,Specialty Products,Male,Latino,33,2018-05-09,187917,0.35,United States,Chicago,,0,2023-02-12,4.763860369609857,25-34,2018,,65770.95,253687.95,3-5,Under 35
+E02470,Ellie Ortega,Analyst,Sales,Specialty Products,Female,Latino,49,2020-10-20,42242,0.0,Brazil,Sao Paulo,,0,2023-02-12,2.3134839151266258,45-54,2020,,0.0,42242.0,3-5,45-54
+E02471,Ian Huang,Analyst,Sales,Research & Development,Male,Asian,54,1998-02-07,53931,0.0,United States,Columbus,,0,2023-02-12,25.013004791238878,45-54,1998,,0.0,53931.0,16+,45-54
+E02472,Jayden Ahmed,Sr. Manager,IT,Corporate,Male,Asian,51,2006-03-28,140668,0.12,China,Chengdu,,0,2023-02-12,16.878850102669404,45-54,2006,,16880.16,157548.16,16+,45-54
+E02473,Violet Simmons,Analyst,Marketing,Research & Development,Female,Caucasian,33,2017-10-23,53948,0.0,United States,Phoenix,,0,2023-02-12,5.305954825462012,25-34,2017,,0.0,53948.0,6-10,Under 35
+E02474,William Roberts,Director,IT,Research & Development,Male,Caucasian,34,2017-04-12,174257,0.3,United States,Miami,,0,2023-02-12,5.83709787816564,25-34,2017,,52277.1,226534.1,6-10,Under 35
+E02475,Penelope Sandoval,Sr. Manager,Sales,Corporate,Female,Latino,28,2019-12-18,132209,0.14,Brazil,Rio de Janeiro,,0,2023-02-12,3.154004106776181,25-34,2019,,18509.260000000002,150718.26,3-5,Under 35
+E02476,Emilia Ortiz,Vice President,Marketing,Research & Development,Female,Latino,34,2017-07-16,208883,0.38,United States,Miami,,0,2023-02-12,5.577002053388091,25-34,2017,,79375.54000000001,288258.54000000004,6-10,Under 35
+E02477,Layla Gutierrez,Computer Systems Manager,IT,Specialty Products,Female,Latino,39,2022-05-05,65957,0.05,Brazil,Rio de Janeiro,,0,2023-02-12,0.7748117727583846,35-44,2022,,3297.8500000000004,69254.85,0-2,35-44
+E02478,Dylan Vu,Manager,Human Resources,Specialty Products,Male,Asian,63,2004-07-22,106481,0.05,China,Beijing,,0,2023-02-12,18.559890485968516,55-65,2004,,5324.05,111805.05,16+,55+
+E02479,Peyton Wong,Vice President,Accounting,Manufacturing,Female,Asian,35,2020-08-05,218127,0.37,United States,Chicago,,0,2023-02-12,2.521560574948665,35-44,2020,,80706.99,298833.99,3-5,35-44
+E02480,Santiago f Banks,Sr. Manager,IT,Specialty Products,Male,Caucasian,44,2019-08-16,151481,0.11,United States,Chicago,,0,2023-02-12,3.4934976043805612,35-44,2019,,16662.91,168143.91,3-5,35-44
+E02481,Caroline Wong,Analyst,Sales,Research & Development,Female,Asian,37,2017-03-08,40508,0.0,China,Beijing,,0,2023-02-12,5.932922655715264,35-44,2017,,0.0,40508.0,6-10,35-44
+E02482,Quinn Ho,Vice President,Accounting,Research & Development,Female,Asian,45,2002-07-20,200481,0.3,United States,Columbus,,0,2023-02-12,20.566735112936346,45-54,2002,,60144.299999999996,260625.3,16+,45-54
+E02483,Caroline Nunez,Vice President,Finance,Manufacturing,Female,Latino,65,2002-12-20,224872,0.39,Brazil,Sao Paulo,,0,2023-02-12,20.147843942505133,55-65,2002,,87700.08,312572.08,16+,55+
+E02484,Carson Brown,Sr. Manager,Human Resources,Research & Development,Male,Black,65,2007-11-05,149474,0.14,United States,Phoenix,,0,2023-02-12,15.271731690622861,55-65,2007,,20926.36,170400.36,16+,55+
+E02485,Olivia Maldonado,Test Engineer,Engineering,Research & Development,Female,Latino,63,2002-02-18,86820,0.0,United States,Chicago,,0,2023-02-12,20.982888432580424,55-65,2002,,0.0,86820.0,16+,55+
+E02486,Emilia Chung,Director,Finance,Manufacturing,Female,Asian,55,1994-11-08,184078,0.28,China,Shanghai,,0,2023-02-12,28.262833675564682,55-65,1994,,51541.840000000004,235619.84,16+,55+
+E02487,Leilani Shin,Analyst,Accounting,Corporate,Female,Asian,58,2013-12-18,55174,0.0,United States,Austin,,0,2023-02-12,9.152635181382614,55-65,2013,,0.0,55174.0,6-10,55+
+E02488,Abigail Zhu,Director,Finance,Corporate,Female,Asian,31,2022-01-17,152474,0.27,United States,Austin,,0,2023-02-12,1.0704996577686516,25-34,2022,,41167.98,193641.98,0-2,Under 35
+E02489,Autumn Xiong,Network Administrator,IT,Specialty Products,Female,Asian,28,2020-02-13,75172,0.0,China,Shanghai,,0,2023-02-12,2.9979466119096507,25-34,2020,,0.0,75172.0,3-5,Under 35
+E02490,Hailey Cruz,Business Partner,Human Resources,Manufacturing,Female,Latino,50,2008-08-10,56002,0.0,United States,Austin,,0,2023-02-12,14.507871321013004,45-54,2008,,0.0,56002.0,11-15,45-54
+E02491,Piper Cruz,Director,Sales,Research & Development,Female,Latino,61,2013-04-13,195636,0.21,Brazil,Rio de Janeiro,,0,2023-02-12,9.834360027378509,55-65,2013,,41083.56,236719.56,6-10,55+
+E02492,Jaxson Jackson,Enterprise Architect,IT,Specialty Products,Male,Caucasian,53,1997-03-01,63165,0.0,United States,Seattle,,0,2023-02-12,25.95208761122519,45-54,1997,,0.0,63165.0,16+,45-54
+E02493,Serenity Mehta,Analyst,Sales,Research & Development,Female,Asian,51,1998-07-21,57277,0.0,China,Shanghai,,0,2023-02-12,24.56399726214921,45-54,1998,,0.0,57277.0,16+,45-54
+E02494,Peyton Gomez,Analyst,Finance,Specialty Products,Female,Latino,56,2020-01-14,42950,0.0,Brazil,Rio de Janeiro,,0,2023-02-12,3.080082135523614,55-65,2020,,0.0,42950.0,3-5,55+
+E02495,Ethan Vargas,Director,IT,Research & Development,Male,Latino,38,2018-10-09,168410,0.3,United States,Chicago,,0,2023-02-12,4.344969199178645,35-44,2018,,50523.0,218933.0,3-5,35-44
+E02496,Serenity Morris,Manager,IT,Corporate,Female,Caucasian,41,2008-04-12,114588,0.05,United States,Miami,,0,2023-02-12,14.836413415468858,35-44,2008,,5729.400000000001,120317.4,11-15,35-44
+E02497,Vivian Chan,Sr. Analyst,Sales,Specialty Products,Female,Asian,61,1997-05-12,72546,0.0,China,Beijing,2021-03-29,1,2021-03-29,23.87953456536619,55-65,1997,2021.0,0.0,72546.0,16+,55+
+E02498,Lincoln Singh,Analyst,Sales,Corporate,Male,Asian,33,2021-01-09,55397,0.0,China,Shanghai,,0,2023-02-12,2.0917180013689256,25-34,2021,,0.0,55397.0,3-5,Under 35
+E02499,Ayla Lim,Director,Marketing,Corporate,Female,Asian,41,2021-09-05,192266,0.23,China,Chengdu,,0,2023-02-12,1.4373716632443532,35-44,2021,,44221.18,236487.18,0-2,35-44
+E02500,Leilani Hong,System Administrator ,IT,Manufacturing,Female,Asian,36,2013-12-20,79876,0.0,United States,Seattle,2023-02-02,1,2023-02-02,9.119780971937029,35-44,2013,2023.0,0.0,79876.0,6-10,35-44
+E02501,Victoria Doan,Manager,Sales,Corporate,Female,Asian,42,2018-03-06,112593,0.05,United States,Seattle,,0,2023-02-12,4.939082819986311,35-44,2018,,5629.650000000001,118222.65,3-5,35-44
+E02502,Naomi Wright,System Administrator ,IT,Manufacturing,Female,Caucasian,36,2016-11-03,99249,0.0,United States,Miami,,0,2023-02-12,6.275154004106776,35-44,2016,,0.0,99249.0,6-10,35-44
+E02503,Scarlett Howard,Manager,Finance,Manufacturing,Female,Caucasian,55,2012-08-12,117421,0.05,United States,Austin,2017-08-28,1,2017-08-28,5.04312114989733,55-65,2012,2017.0,5871.05,123292.05,6-10,55+
+E02504,Victoria Vo,Field Engineer,Engineering,Corporate,Female,Asian,44,2017-12-18,82241,0.0,China,Shanghai,,0,2023-02-12,5.152635181382615,35-44,2017,,0.0,82241.0,6-10,35-44
+E02505,Oliver Fernandez,Manager,Marketing,Research & Development,Male,Latino,31,2022-05-15,125664,0.05,Brazil,Manaus,,0,2023-02-12,0.7474332648870636,25-34,2022,,6283.200000000001,131947.2,0-2,Under 35
+E02506,Luca Jiang,Account Representative,Sales,Research & Development,Male,Asian,47,2013-09-08,57386,0.0,China,Beijing,,0,2023-02-12,9.429158110882957,45-54,2013,,0.0,57386.0,6-10,45-54
+E02507,Charlotte Owens,Vice President,Engineering,Corporate,Female,Black,59,2001-05-11,196740,0.31,United States,Miami,,0,2023-02-12,21.75770020533881,55-65,2001,,60989.4,257729.4,16+,55+
+E02508,Stella Tan,Director,Human Resources,Specialty Products,Female,Asian,48,2009-08-22,168202,0.22,China,Chengdu,,0,2023-02-12,13.475701574264203,45-54,2009,,37004.44,205206.44,11-15,45-54
+E02509,Ellie Yoon,Vice President,Human Resources,Specialty Products,Female,Asian,44,2006-07-11,242004,0.38,China,Chongqing,,0,2023-02-12,16.591375770020534,35-44,2006,,91961.52,333965.52,16+,35-44
+E02510,Ella Do,Account Representative,Sales,Manufacturing,Female,Asian,52,1998-02-28,57433,0.0,China,Shanghai,,0,2023-02-12,24.955509924709105,45-54,1998,,0.0,57433.0,16+,45-54
+E02511,Lucas Cruz,Sr. Analyst,Accounting,Specialty Products,Male,Latino,54,2009-07-11,74656,0.0,United States,Seattle,,0,2023-02-12,13.59069130732375,45-54,2009,,0.0,74656.0,11-15,45-54
+E02512,Sarah Mehta,HRIS Analyst,Human Resources,Research & Development,Female,Asian,31,2016-08-23,62848,0.0,China,Chengdu,,0,2023-02-12,6.4722792607802875,25-34,2016,,0.0,62848.0,6-10,Under 35
+E02513,Anthony Phan,Enterprise Architect,IT,Research & Development,Male,Asian,39,2011-04-11,92523,0.0,United States,Miami,,0,2023-02-12,11.841204654346338,35-44,2011,,0.0,92523.0,11-15,35-44
+E02514,David Chu,Sr. Manager,IT,Specialty Products,Male,Asian,40,2012-12-16,142844,0.11,United States,Miami,,0,2023-02-12,10.157426420260096,35-44,2012,,15712.84,158556.84,11-15,35-44
+E02515,Sebastian Sanders,Manager,Sales,Corporate,Male,Caucasian,39,2009-01-23,100718,0.05,United States,Austin,,0,2023-02-12,14.053388090349076,35-44,2009,,5035.900000000001,105753.9,11-15,35-44
+E02516,Jayden Phillips,Director,IT,Research & Development,Male,Caucasian,25,2022-10-13,154186,0.26,United States,Austin,,0,2023-02-12,0.33401779603011633,25-34,2022,,40088.36,194274.36,0-2,Under 35
+E02517,Caleb Chan,Operations Engineer,Engineering,Research & Development,Male,Asian,48,2003-06-24,107586,0.0,China,Shanghai,,0,2023-02-12,19.638603696098563,45-54,2003,,0.0,107586.0,16+,45-54
+E02518,Ariana Santiago,Network Architect,IT,Research & Development,Female,Latino,54,2003-10-28,88906,0.0,United States,Phoenix,,0,2023-02-12,19.293634496919918,45-54,2003,,0.0,88906.0,16+,45-54
+E02519,Quinn Owens,Field Engineer,Engineering,Manufacturing,Female,Caucasian,40,2018-05-09,74329,0.0,United States,Chicago,,0,2023-02-12,4.763860369609857,35-44,2018,,0.0,74329.0,3-5,35-44
+E02520,Eli James,Network Engineer,IT,Manufacturing,Male,Caucasian,32,2021-04-15,86523,0.0,United States,Columbus,2021-11-07,1,2021-11-07,0.5639972621492129,25-34,2021,2021.0,0.0,86523.0,0-2,Under 35
+E02521,Ezra Aguilar,Vice President,IT,Manufacturing,Male,Latino,60,2014-11-05,239868,0.4,United States,Miami,,0,2023-02-12,8.271047227926077,55-65,2014,,95947.20000000001,335815.2,6-10,55+
+E02522,Anna Castro,Analyst II,Finance,Specialty Products,Female,Latino,29,2018-05-21,65010,0.0,United States,Seattle,,0,2023-02-12,4.731006160164271,25-34,2018,,0.0,65010.0,3-5,Under 35
+E02523,Liliana Lewis,Network Administrator,IT,Corporate,Female,Caucasian,25,2021-02-23,82140,0.0,United States,Miami,,0,2023-02-12,1.9685147159479808,25-34,2021,,0.0,82140.0,0-2,Under 35
+E02524,Maverick Alvarado,Solutions Architect,IT,Manufacturing,Male,Latino,34,2016-06-11,75511,0.0,Brazil,Manaus,,0,2023-02-12,6.672142368240931,25-34,2016,,0.0,75511.0,6-10,Under 35
+E02525,Nora Butler,Vice President,IT,Research & Development,Female,Black,26,2022-05-06,188880,0.36,United States,Phoenix,,0,2023-02-12,0.7720739219712526,25-34,2022,,67996.8,256876.8,0-2,Under 35
+E02526,Landon Rodriguez,Sr. Account Representative,Sales,Manufacturing,Male,Latino,39,2017-11-19,87155,0.0,United States,Chicago,,0,2023-02-12,5.232032854209446,35-44,2017,,0.0,87155.0,6-10,35-44
+E02527,Grace Harris,Enterprise Architect,IT,Research & Development,Female,Caucasian,34,2018-10-28,75518,0.0,United States,Seattle,,0,2023-02-12,4.292950034223135,25-34,2018,,0.0,75518.0,3-5,Under 35
+E02528,Jeremiah Medina,Sr. Manager,IT,Research & Development,Male,Latino,54,1997-09-28,129311,0.13,Brazil,Manaus,,0,2023-02-12,25.374401095140314,45-54,1997,,16810.43,146121.43,16+,45-54
+E02529,Charles Bryant,Analyst,Sales,Manufacturing,Male,Caucasian,27,2022-07-12,56919,0.0,United States,Miami,2023-01-10,1,2023-01-10,0.49828884325804246,25-34,2022,2023.0,0.0,56919.0,0-2,Under 35
+E02530,Elizabeth Dixon,Sr. Manager,Finance,Manufacturing,Female,Caucasian,26,2020-11-15,153832,0.14,United States,Phoenix,,0,2023-02-12,2.242299794661191,25-34,2020,,21536.480000000003,175368.48,3-5,Under 35
+E02531,Riley Phillips,Vice President,Engineering,Specialty Products,Female,Caucasian,26,2022-08-05,211121,0.35,United States,Phoenix,,0,2023-02-12,0.5229295003422314,25-34,2022,,73892.34999999999,285013.35,0-2,Under 35
+E02532,Gianna Cruz,Manager,Sales,Corporate,Female,Latino,29,2019-07-02,106456,0.1,United States,Columbus,,0,2023-02-12,3.6167008898015056,25-34,2019,,10645.6,117101.6,3-5,Under 35
+E02533,Lincoln Cruz,Network Architect,IT,Corporate,Male,Latino,64,1997-07-15,72772,0.0,Brazil,Manaus,,0,2023-02-12,25.579739904175224,55-65,1997,,0.0,72772.0,16+,55+
+E02534,Ezekiel Contreras,Sr. Manager,Accounting,Research & Development,Male,Latino,45,2001-08-10,143146,0.14,United States,Chicago,,0,2023-02-12,21.508555783709788,45-54,2001,,20040.440000000002,163186.44,16+,45-54
+E02535,Amelia Do,Analyst II,Marketing,Manufacturing,Female,Asian,45,2018-12-24,74776,0.0,United States,Seattle,,0,2023-02-12,4.136892539356605,45-54,2018,,0.0,74776.0,3-5,45-54
+E02536,Anthony Perez,Sr. Account Representative,Sales,Specialty Products,Male,Latino,51,2021-09-13,92305,0.0,United States,Chicago,,0,2023-02-12,1.4154688569472964,45-54,2021,,0.0,92305.0,0-2,45-54
+E02537,Elias Maldonado,IT Systems Architect,IT,Manufacturing,Male,Latino,56,2005-04-01,94724,0.0,United States,Chicago,,0,2023-02-12,17.867214236824093,55-65,2005,,0.0,94724.0,16+,55+
+E02538,Liam Luong,Technical Architect,IT,Specialty Products,Male,Asian,58,1995-11-13,88019,0.0,United States,Austin,,0,2023-02-12,27.249828884325805,55-65,1995,,0.0,88019.0,16+,55+
+E02539,Jordan Ford,Manager,Human Resources,Corporate,Male,Black,43,2016-09-19,108000,0.1,United States,Columbus,,0,2023-02-12,6.398357289527721,35-44,2016,,10800.0,118800.0,6-10,35-44
+E02540,Mateo Chung,Network Architect,IT,Corporate,Male,Asian,52,2018-07-27,81438,0.0,China,Beijing,,0,2023-02-12,4.547570157426421,45-54,2018,,0.0,81438.0,3-5,45-54
+E02541,Jameson Vang,Computer Systems Manager,IT,Corporate,Male,Asian,41,2018-05-23,95669,0.1,China,Shanghai,2021-06-09,1,2021-06-09,3.047227926078029,35-44,2018,2021.0,9566.9,105235.9,3-5,35-44
+E02542,Samuel Thomas,Vice President,Accounting,Specialty Products,Male,Caucasian,43,2016-02-15,180385,0.33,United States,Columbus,,0,2023-02-12,6.992470910335387,35-44,2016,,59527.05,239912.05,6-10,35-44
+E02543,Gabriel Rodriguez,IT Coordinator,IT,Research & Development,Male,Latino,36,2016-01-30,45184,0.0,Brazil,Sao Paulo,,0,2023-02-12,7.036276522929501,35-44,2016,,0.0,45184.0,6-10,35-44
+E02544,Wyatt Robinson,Development Engineer,Engineering,Research & Development,Male,Caucasian,55,2007-08-08,70451,0.0,United States,Seattle,,0,2023-02-12,15.515400410677618,55-65,2007,,0.0,70451.0,16+,55+
+E02545,Anna Huynh,Technical Architect,IT,Specialty Products,Female,Asian,39,2009-04-05,63259,0.0,United States,Chicago,,0,2023-02-12,13.856262833675565,35-44,2009,,0.0,63259.0,11-15,35-44
+E02546,Lucy Simmons,Analyst II,Accounting,Corporate,Female,Caucasian,56,2001-03-01,73778,0.0,United States,Miami,,0,2023-02-12,21.95208761122519,55-65,2001,,0.0,73778.0,16+,55+
+E02547,Austin Ng,Sr. Manager,Sales,Research & Development,Male,Asian,45,2009-03-03,126697,0.13,China,Beijing,,0,2023-02-12,13.946611909650924,45-54,2009,,16470.61,143167.61,11-15,45-54
+E02548,Madeline Cruz,System Administrator ,IT,Specialty Products,Female,Latino,63,2008-05-19,75396,0.0,Brazil,Rio de Janeiro,,0,2023-02-12,14.735112936344969,55-65,2008,,0.0,75396.0,11-15,55+
+E02549,Layla Munoz,Director,Human Resources,Corporate,Female,Latino,39,2014-09-24,182595,0.29,Brazil,Rio de Janeiro,2017-09-14,1,2017-09-14,2.973305954825462,35-44,2014,2017.0,52952.549999999996,235547.55,3-5,35-44
+E02550,Alexander Tang,Analyst,Finance,Corporate,Male,Asian,32,2015-01-29,45424,0.0,United States,Austin,,0,2023-02-12,8.038329911019849,25-34,2015,,0.0,45424.0,6-10,Under 35
+E02551,Carson Chen,Analyst II,Finance,Manufacturing,Male,Asian,45,2012-12-03,70661,0.0,China,Chongqing,,0,2023-02-12,10.193018480492814,45-54,2012,,0.0,70661.0,11-15,45-54
+E02552,Kai Duong,IT Coordinator,IT,Research & Development,Male,Asian,41,2018-11-16,57166,0.0,China,Shanghai,,0,2023-02-12,4.240930869267625,35-44,2018,,0.0,57166.0,3-5,35-44
+E02553,Ayla Cooper,Operations Engineer,Engineering,Corporate,Female,Caucasian,56,2017-02-15,101637,0.0,United States,Chicago,2019-12-26,1,2019-12-26,2.858316221765914,55-65,2017,2019.0,0.0,101637.0,3-5,55+
+E02554,Eliza Espinoza,Manager,Marketing,Specialty Products,Female,Latino,30,2017-12-28,103646,0.07,United States,Phoenix,,0,2023-02-12,5.125256673511293,25-34,2017,,7255.22,110901.22,6-10,Under 35
+E02555,Axel King,Automation Engineer,Engineering,Manufacturing,Male,Caucasian,46,2010-02-21,100757,0.0,United States,Chicago,,0,2023-02-12,12.974674880219029,45-54,2010,,0.0,100757.0,11-15,45-54
+E02556,Alexander Carter,Network Administrator,IT,Specialty Products,Male,Caucasian,47,2008-10-04,60963,0.0,United States,Seattle,,0,2023-02-12,14.35728952772074,45-54,2008,,0.0,60963.0,11-15,45-54
+E02557,Robert Rogers,Vice President,Engineering,Manufacturing,Male,Caucasian,53,2011-08-26,258734,0.34,United States,Seattle,,0,2023-02-12,11.46611909650924,45-54,2011,,87969.56000000001,346703.56,11-15,45-54
+E02558,Anthony Gupta,Cloud Infrastructure Architect,IT,Specialty Products,Male,Asian,38,2021-09-23,70612,0.0,China,Chongqing,,0,2023-02-12,1.3880903490759753,35-44,2021,,0.0,70612.0,0-2,35-44
+E02559,Jackson Gupta,Service Desk Analyst,IT,Research & Development,Male,Asian,65,1993-06-27,77065,0.0,United States,Seattle,,0,2023-02-12,29.6290212183436,55-65,1993,,0.0,77065.0,16+,55+
+E02560,Sophia Rodriguez,Development Engineer,Engineering,Specialty Products,Female,Latino,58,2007-10-31,96256,0.0,United States,Chicago,,0,2023-02-12,15.285420944558522,55-65,2007,,0.0,96256.0,16+,55+
+E02561,Cora Patel,Analyst II,Accounting,Manufacturing,Female,Asian,36,2011-05-13,65794,0.0,United States,Austin,,0,2023-02-12,11.75359342915811,35-44,2011,,0.0,65794.0,11-15,35-44
+E02562,Piper Hsu,Analyst,Accounting,Research & Development,Female,Asian,45,2015-08-23,48491,0.0,United States,Austin,2015-10-08,1,2015-10-08,0.12594113620807665,45-54,2015,2015.0,0.0,48491.0,0-2,45-54
+E02563,Hunter Marquez,Operations Engineer,Engineering,Research & Development,Male,Latino,34,2019-08-07,83220,0.0,United States,Chicago,,0,2023-02-12,3.5181382614647503,25-34,2019,,0.0,83220.0,3-5,Under 35
+E02564,Addison Li,HRIS Analyst,Human Resources,Research & Development,Female,Asian,37,2010-03-04,61680,0.0,China,Beijing,2015-06-04,1,2015-06-04,5.25119780971937,35-44,2010,2015.0,0.0,61680.0,6-10,35-44
+E02565,Carson Hoang,Sr. Analyst,Sales,Manufacturing,Male,Asian,43,2021-10-09,72482,0.0,United States,Chicago,,0,2023-02-12,1.3442847364818618,35-44,2021,,0.0,72482.0,0-2,35-44
+E02566,Julian Fernandez,Development Engineer,Engineering,Research & Development,Male,Latino,27,2022-02-07,81713,0.0,Brazil,Rio de Janeiro,,0,2023-02-12,1.0130047912388775,25-34,2022,,0.0,81713.0,0-2,Under 35
+E02567,Caleb Rojas,Analyst II,Sales,Manufacturing,Male,Latino,38,2021-12-04,68281,0.0,United States,Miami,2022-03-09,1,2022-03-09,0.2600958247775496,35-44,2021,2022.0,0.0,68281.0,0-2,35-44
+E02568,Elizabeth Griffin,Cloud Infrastructure Architect,IT,Corporate,Female,Caucasian,60,1993-09-10,63979,0.0,United States,Miami,,0,2023-02-12,29.423682409308693,55-65,1993,,0.0,63979.0,16+,55+
+E02569,Nolan Han,Business Partner,Human Resources,Corporate,Male,Asian,29,2017-11-19,53090,0.0,United States,Miami,,0,2023-02-12,5.232032854209446,25-34,2017,,0.0,53090.0,6-10,Under 35
+E02570,Cameron Romero,Manager,Sales,Specialty Products,Male,Latino,49,1997-09-15,108325,0.1,Brazil,Manaus,,0,2023-02-12,25.409993155373034,45-54,1997,,10832.5,119157.5,16+,45-54
+E02571,Angel Patterson,Sr. Analyst,Marketing,Corporate,Male,Black,45,2018-01-07,98289,0.0,United States,Columbus,,0,2023-02-12,5.0978781656399725,45-54,2018,,0.0,98289.0,6-10,45-54
+E02572,Ryan Foster,IT Coordinator,IT,Specialty Products,Male,Caucasian,44,2004-02-22,41275,0.0,United States,Austin,2007-06-14,1,2007-06-14,3.3073237508555784,35-44,2004,2007.0,0.0,41275.0,3-5,35-44
+E02573,Leonardo Patterson,Sr. Analyst,Finance,Specialty Products,Male,Caucasian,46,2012-02-06,93642,0.0,United States,Columbus,,0,2023-02-12,11.017111567419576,45-54,2012,,0.0,93642.0,11-15,45-54
+E02574,William Song,Director,Human Resources,Research & Development,Male,Asian,36,2010-10-25,162957,0.18,China,Chongqing,,0,2023-02-12,12.301163586584531,35-44,2010,,29332.26,192289.26,11-15,35-44
+E02575,Axel Aguilar,Sr. Analyst,Accounting,Manufacturing,Male,Latino,45,2022-04-10,96029,0.0,Brazil,Rio de Janeiro,,0,2023-02-12,0.8432580424366872,45-54,2022,,0.0,96029.0,0-2,45-54
+E02576,Liam Valdez,Vice President,Human Resources,Research & Development,Male,Latino,55,1999-03-01,227148,0.33,Brazil,Sao Paulo,,0,2023-02-12,23.953456536618756,55-65,1999,,74958.84,302106.83999999997,16+,55+
+E02577,Hudson Washington,Cloud Infrastructure Architect,IT,Specialty Products,Male,Caucasian,43,2008-09-17,76819,0.0,United States,Phoenix,2022-10-20,1,2022-10-20,14.088980150581794,35-44,2008,2022.0,0.0,76819.0,11-15,35-44
+E02578,Owen Han,Analyst II,Sales,Specialty Products,Male,Asian,30,2022-09-01,66892,0.0,United States,Seattle,,0,2023-02-12,0.4490075290896646,25-34,2022,,0.0,66892.0,0-2,Under 35
+E02579,Harper Washington,Vice President,Marketing,Manufacturing,Female,Caucasian,48,1999-06-24,256084,0.34,United States,Columbus,,0,2023-02-12,23.638603696098563,45-54,1999,,87068.56000000001,343152.56,16+,45-54
+E02580,Brooklyn Parker,Sr. Analyst,Marketing,Specialty Products,Female,Black,60,2005-03-19,85669,0.0,United States,Phoenix,,0,2023-02-12,17.90280629705681,55-65,2005,,0.0,85669.0,16+,55+
+E02581,Hudson Oh,IT Coordinator,IT,Research & Development,Male,Asian,30,2021-09-09,44454,0.0,China,Beijing,,0,2023-02-12,1.4264202600958247,25-34,2021,,0.0,44454.0,0-2,Under 35
+E02582,Maverick Howard,IT Coordinator,IT,Specialty Products,Male,Caucasian,25,2021-04-13,54353,0.0,United States,Chicago,,0,2023-02-12,1.834360027378508,25-34,2021,,0.0,54353.0,0-2,Under 35
+E02583,Alexander Dominguez,Analyst II,Sales,Specialty Products,Male,Latino,58,2014-11-27,58867,0.0,Brazil,Rio de Janeiro,,0,2023-02-12,8.210814510609172,55-65,2014,,0.0,58867.0,6-10,55+
+E02584,Jack Garcia,Manager,Human Resources,Corporate,Male,Latino,37,2022-03-21,123918,0.08,Brazil,Rio de Janeiro,,0,2023-02-12,0.8980150581793293,35-44,2022,,9913.44,133831.44,0-2,35-44
+E02585,Aiden Hu,IT Coordinator,IT,Research & Development,Male,Asian,44,2010-05-07,56680,0.0,United States,Chicago,,0,2023-02-12,12.76933607118412,35-44,2010,,0.0,56680.0,11-15,35-44
+E02586,Cora Espinoza,Business Partner,Human Resources,Research & Development,Female,Latino,53,2019-10-09,55206,0.0,United States,Miami,,0,2023-02-12,3.345653661875428,45-54,2019,,0.0,55206.0,3-5,45-54
+E02587,Naomi Moua,Director,Sales,Specialty Products,Female,Asian,58,2010-01-13,150633,0.19,United States,Phoenix,,0,2023-02-12,13.08145106091718,55-65,2010,,28620.27,179253.27,11-15,55+
+E02588,Liam Baker,Network Administrator,IT,Specialty Products,Male,Caucasian,65,2020-01-26,97379,0.0,United States,Seattle,,0,2023-02-12,3.047227926078029,55-65,2020,,0.0,97379.0,3-5,55+
+E02589,Christian Liu,Director,Accounting,Research & Development,Male,Asian,57,2000-03-29,178447,0.22,China,Chengdu,,0,2023-02-12,22.874743326488705,55-65,2000,,39258.340000000004,217705.34,16+,55+
+E02590,Aaron Munoz,Network Administrator,IT,Manufacturing,Male,Latino,31,2021-06-13,60827,0.0,United States,Phoenix,,0,2023-02-12,1.6673511293634498,25-34,2021,,0.0,60827.0,0-2,Under 35
+E02591,Levi Kang,Engineering Manager,Engineering,Manufacturing,Male,Asian,32,2019-04-28,96951,0.13,China,Chengdu,,0,2023-02-12,3.7946611909650922,25-34,2019,,12603.630000000001,109554.63,3-5,Under 35
+E02592,Isaac Foster,Manager,Accounting,Specialty Products,Male,Caucasian,48,2001-01-06,103051,0.09,United States,Phoenix,,0,2023-02-12,22.099931553730322,45-54,2001,,9274.59,112325.59,16+,45-54
+E02593,Samantha Zhu,Vice President,IT,Specialty Products,Female,Asian,55,2001-10-27,256592,0.3,China,Beijing,2010-05-19,1,2010-05-19,8.558521560574949,55-65,2001,2010.0,76977.59999999999,333569.6,6-10,55+
+E02594,Vivian Watson,Development Engineer,Engineering,Specialty Products,Female,Caucasian,52,2017-07-07,79323,0.0,United States,Chicago,,0,2023-02-12,5.601642710472279,45-54,2017,,0.0,79323.0,6-10,45-54
+E02595,Emery Hernandez,Development Engineer,Engineering,Research & Development,Female,Latino,27,2021-07-12,75583,0.0,Brazil,Manaus,,0,2023-02-12,1.5879534565366187,25-34,2021,,0.0,75583.0,0-2,Under 35
+E02596,Camila Baker,Account Representative,Sales,Specialty Products,Female,Caucasian,36,2012-09-08,73646,0.0,United States,Austin,,0,2023-02-12,10.428473648186174,35-44,2012,,0.0,73646.0,11-15,35-44
+E02597,David Bryant,Solutions Architect,IT,Specialty Products,Male,Caucasian,36,2022-08-07,64937,0.0,United States,Miami,,0,2023-02-12,0.5174537987679672,35-44,2022,,0.0,64937.0,0-2,35-44
+E02598,Miles Perez,Manager,Sales,Manufacturing,Male,Latino,42,2019-06-11,112146,0.06,United States,Miami,,0,2023-02-12,3.67419575633128,35-44,2019,,6728.759999999999,118874.76,3-5,35-44
+E02599,Elijah Hill,Sr. Analyst,Marketing,Research & Development,Male,Caucasian,48,2018-12-16,83332,0.0,United States,Austin,,0,2023-02-12,4.158795345653662,45-54,2018,,0.0,83332.0,3-5,45-54
+E02600,Sofia Shin,Computer Systems Manager,IT,Specialty Products,Female,Asian,42,2008-04-11,66248,0.07,China,Chongqing,,0,2023-02-12,14.839151266255989,35-44,2008,,4637.360000000001,70885.36,11-15,35-44
+E02601,Ezekiel Lee,Sr. Manager,Human Resources,Research & Development,Male,Asian,37,2019-08-22,127238,0.15,China,Shanghai,,0,2023-02-12,3.477070499657769,35-44,2019,,19085.7,146323.7,3-5,35-44
+E02602,Nevaeh Truong,Network Architect,IT,Specialty Products,Female,Asian,55,2012-05-23,87857,0.0,United States,Austin,,0,2023-02-12,10.72416153319644,55-65,2012,,0.0,87857.0,11-15,55+
+E02603,Leah Ali,HRIS Analyst,Human Resources,Specialty Products,Female,Asian,62,1999-08-20,51454,0.0,United States,Seattle,,0,2023-02-12,23.482546201232033,55-65,1999,,0.0,51454.0,16+,55+
+E02604,Emma Soto,Sr. Manager,Accounting,Specialty Products,Female,Latino,29,2020-09-13,128066,0.11,United States,Seattle,,0,2023-02-12,2.414784394250513,25-34,2020,,14087.26,142153.26,3-5,Under 35
+E02605,Lydia Marquez,Sr. Manager,Human Resources,Corporate,Female,Latino,29,2018-09-28,130790,0.1,Brazil,Rio de Janeiro,,0,2023-02-12,4.375085557837098,25-34,2018,,13079.0,143869.0,3-5,Under 35
+E02606,Cora Munoz,Vice President,Human Resources,Manufacturing,Female,Latino,45,2004-05-17,233342,0.37,United States,Austin,,0,2023-02-12,18.740588637919235,45-54,2004,,86336.54,319678.54,16+,45-54
+E02607,Hudson Ross,Analyst,Marketing,Manufacturing,Male,Caucasian,57,2009-10-04,54155,0.0,United States,Austin,,0,2023-02-12,13.357973990417522,55-65,2009,,0.0,54155.0,11-15,55+
+E02608,Aiden Cheng,Vice President,Marketing,Manufacturing,Male,Asian,31,2019-09-06,189403,0.36,China,Shanghai,2021-03-31,1,2021-03-31,1.566050650239562,25-34,2019,2021.0,68185.08,257588.08000000002,0-2,Under 35
+E02609,Willow Vang,Sr. Analyst,Accounting,Manufacturing,Female,Asian,31,2018-05-18,78732,0.0,China,Shanghai,2019-03-11,1,2019-03-11,0.813141683778234,25-34,2018,2019.0,0.0,78732.0,0-2,Under 35
+E02610,Jonathan Young,Analyst,Accounting,Manufacturing,Male,Caucasian,47,2015-04-28,55401,0.0,United States,Columbus,,0,2023-02-12,7.794661190965092,45-54,2015,,0.0,55401.0,6-10,45-54
+E02611,Isaac Rojas,System Administrator ,IT,Manufacturing,Male,Latino,60,2006-07-12,82343,0.0,United States,Austin,,0,2023-02-12,16.588637919233403,55-65,2006,,0.0,82343.0,16+,55+
+E02612,Dylan Guzman,Quality Engineer,Engineering,Research & Development,Male,Latino,42,2017-03-16,66226,0.0,Brazil,Sao Paulo,,0,2023-02-12,5.9110198494182065,35-44,2017,,0.0,66226.0,6-10,35-44
+E02613,Sarah Shin,Vice President,IT,Manufacturing,Female,Asian,26,2021-12-03,193435,0.31,United States,Chicago,,0,2023-02-12,1.1937029431895962,25-34,2021,,59964.85,253399.85,0-2,Under 35
+E02614,Michael Johnson,Manager,Finance,Corporate,Male,Caucasian,57,2011-04-18,114241,0.1,United States,Miami,,0,2023-02-12,11.822039698836413,55-65,2011,,11424.1,125665.1,11-15,55+
+E02615,Riley Vega,Director,Engineering,Research & Development,Female,Latino,25,2022-11-11,177264,0.16,Brazil,Manaus,,0,2023-02-12,0.2546201232032854,25-34,2022,,28362.24,205626.24,0-2,Under 35
+E02616,Benjamin Ali,Business Partner,Human Resources,Corporate,Male,Asian,53,2016-04-12,58010,0.0,United States,Seattle,,0,2023-02-12,6.836413415468857,45-54,2016,,0.0,58010.0,6-10,45-54
+E02617,Ezekiel Cooper,Director,IT,Specialty Products,Male,Black,43,2003-03-15,154284,0.25,United States,Chicago,,0,2023-02-12,19.915126625598905,35-44,2003,,38571.0,192855.0,16+,35-44
+E02618,Lyla Walker,Analyst,Accounting,Corporate,Female,Caucasian,49,2002-02-18,54633,0.0,United States,Chicago,,0,2023-02-12,20.982888432580424,45-54,2002,,0.0,54633.0,16+,45-54
+E02619,Aria Cheng,Business Partner,Human Resources,Research & Development,Female,Asian,61,1996-08-26,42829,0.0,United States,Columbus,,0,2023-02-12,26.46406570841889,55-65,1996,,0.0,42829.0,16+,55+
+E02620,Christopher Ramirez,Engineering Manager,Engineering,Research & Development,Male,Latino,41,2010-03-15,118973,0.1,United States,Phoenix,,0,2023-02-12,12.914442162902121,35-44,2010,,11897.300000000001,130870.3,11-15,35-44
+E02621,Emily Roberts,Network Architect,IT,Manufacturing,Female,Caucasian,56,2018-12-29,61251,0.0,United States,Miami,,0,2023-02-12,4.123203285420945,55-65,2018,,0.0,61251.0,3-5,55+
+E02622,Nathan Parker,Engineering Manager,Engineering,Specialty Products,Male,Caucasian,49,2002-04-24,108636,0.1,United States,Columbus,,0,2023-02-12,20.804928131416837,45-54,2002,,10863.6,119499.6,16+,45-54
+E02623,Nora Her,Field Engineer,Engineering,Specialty Products,Female,Asian,32,2014-04-24,68780,0.0,China,Beijing,,0,2023-02-12,8.804928131416839,25-34,2014,,0.0,68780.0,6-10,Under 35
+E02624,Mia Brown,Analyst II,Accounting,Corporate,Female,Caucasian,30,2016-08-10,60261,0.0,United States,Seattle,,0,2023-02-12,6.507871321013004,25-34,2016,,0.0,60261.0,6-10,Under 35
+E02625,Hunter Hu,Manager,Finance,Specialty Products,Male,Asian,64,2003-07-13,100951,0.05,United States,Miami,,0,2023-02-12,19.586584531143053,55-65,2003,,5047.55,105998.55,16+,55+
+E02626,Luke Acosta,Network Architect,IT,Specialty Products,Male,Latino,57,2022-07-20,93872,0.0,Brazil,Sao Paulo,2022-12-07,1,2022-12-07,0.38329911019849416,55-65,2022,2022.0,0.0,93872.0,0-2,55+
+E02627,Sophia Griffin,Vice President,Marketing,Specialty Products,Female,Caucasian,50,2018-06-29,181570,0.35,United States,Miami,2021-10-21,1,2021-10-21,3.3127994524298425,45-54,2018,2021.0,63549.49999999999,245119.5,3-5,45-54
+E02628,Anthony Chu,Manager,Sales,Manufacturing,Male,Asian,61,2003-09-30,101517,0.09,United States,Seattle,,0,2023-02-12,19.370294318959616,55-65,2003,,9136.529999999999,110653.53,16+,55+
+E02629,Landon Ha,Manager,Finance,Manufacturing,Male,Asian,43,2006-01-30,100822,0.1,China,Chongqing,,0,2023-02-12,17.034907597535934,35-44,2006,,10082.2,110904.2,16+,35-44
+E02630,Layla Kang,Manager,Marketing,Research & Development,Female,Asian,26,2022-03-02,128965,0.09,United States,Columbus,,0,2023-02-12,0.9500342231348392,25-34,2022,,11606.85,140571.85,0-2,Under 35
+E02631,Cora Xu,Network Administrator,IT,Manufacturing,Female,Asian,54,2011-11-17,60513,0.0,United States,Austin,,0,2023-02-12,11.238877481177276,45-54,2011,,0.0,60513.0,11-15,45-54
+E02632,Rylee Campos,Manager,Finance,Research & Development,Female,Latino,49,2005-02-09,107461,0.08,United States,Seattle,,0,2023-02-12,18.00684462696783,45-54,2005,,8596.880000000001,116057.88,16+,45-54
+E02633,Amelia Foster,Analyst II,Sales,Research & Development,Female,Caucasian,32,2018-02-24,66294,0.0,United States,Columbus,,0,2023-02-12,4.9664613278576315,25-34,2018,,0.0,66294.0,3-5,Under 35
+E02634,Hadley Rios,Sr. Manager,Sales,Research & Development,Female,Latino,62,2009-01-11,157500,0.15,United States,Columbus,,0,2023-02-12,14.08624229979466,55-65,2009,,23625.0,181125.0,11-15,55+
+E02635,Luna Chang,IT Coordinator,IT,Specialty Products,Female,Asian,64,2022-10-20,43271,0.0,China,Chengdu,,0,2023-02-12,0.31485284052019163,55-65,2022,,0.0,43271.0,0-2,55+
+E02636,Mia Navarro,Technical Architect,IT,Research & Development,Female,Latino,52,2011-06-19,91518,0.0,Brazil,Sao Paulo,,0,2023-02-12,11.652292950034223,45-54,2011,,0.0,91518.0,11-15,45-54
+E02637,Nova Rios,Sr. Manager,Human Resources,Specialty Products,Female,Latino,42,2019-04-15,130874,0.12,United States,Austin,,0,2023-02-12,3.8302532511978096,35-44,2019,,15704.88,146578.88,3-5,35-44
+E02638,Theodore Truong,HRIS Analyst,Human Resources,Corporate,Male,Asian,45,2017-05-23,66324,0.0,China,Beijing,2021-09-10,1,2021-09-10,4.301163586584531,45-54,2017,2021.0,0.0,66324.0,3-5,45-54
+E02639,Asher Ly,Analyst II,Sales,Corporate,Male,Asian,65,1998-01-29,63853,0.0,United States,Austin,,0,2023-02-12,25.037645448323065,55-65,1998,,0.0,63853.0,16+,55+
+E02640,Madeline Doan,Manager,Human Resources,Corporate,Female,Asian,46,2021-01-10,104692,0.08,China,Chengdu,,0,2023-02-12,2.088980150581793,45-54,2021,,8375.36,113067.36,3-5,45-54
+E02641,Scarlett Rodriguez,Solutions Architect,IT,Corporate,Female,Latino,64,2022-11-03,71864,0.0,Brazil,Manaus,,0,2023-02-12,0.27652292950034224,55-65,2022,,0.0,71864.0,0-2,55+
+E02642,Zoey Lu,Vice President,Marketing,Manufacturing,Female,Asian,45,2007-10-31,216269,0.37,United States,Chicago,2010-12-31,1,2010-12-31,3.167693360711841,45-54,2007,2010.0,80019.53,296288.53,3-5,45-54
+E02643,Mila Cheung,Enterprise Architect,IT,Specialty Products,Female,Asian,32,2021-12-17,73135,0.0,United States,Phoenix,,0,2023-02-12,1.1553730321697468,25-34,2021,,0.0,73135.0,0-2,Under 35
+E02644,Lucy Mai,Director,Engineering,Corporate,Female,Asian,56,2022-06-27,197579,0.18,United States,Chicago,,0,2023-02-12,0.6297056810403833,55-65,2022,,35564.22,233143.22,0-2,55+
+E02645,Benjamin Luu,Systems Analyst,IT,Corporate,Male,Asian,46,2011-12-15,59733,0.0,United States,Austin,,0,2023-02-12,11.162217659137577,45-54,2011,,0.0,59733.0,11-15,45-54
+E02646,Mia Navarro,Vice President,Human Resources,Corporate,Female,Latino,26,2020-05-22,187792,0.4,United States,Chicago,,0,2023-02-12,2.726899383983573,25-34,2020,,75116.8,262908.8,3-5,Under 35
+E02647,Maya Watson,Manager,Human Resources,Specialty Products,Female,Caucasian,59,2017-01-07,108612,0.06,United States,Phoenix,,0,2023-02-12,6.09719370294319,55-65,2017,,6516.719999999999,115128.72,6-10,55+
+E02648,Jack Adams,System Administrator ,IT,Corporate,Male,Black,50,2018-07-18,80350,0.0,United States,Miami,,0,2023-02-12,4.572210814510609,45-54,2018,,0.0,80350.0,3-5,45-54
+E02649,Gabriella Jordan,Test Engineer,Engineering,Research & Development,Female,Caucasian,32,2019-09-21,61243,0.0,United States,Miami,,0,2023-02-12,3.3949349760438055,25-34,2019,,0.0,61243.0,3-5,Under 35
+E02650,Jonathan Torres,Analyst,Finance,Manufacturing,Male,Latino,56,2002-04-12,48896,0.0,Brazil,Manaus,2017-03-14,1,2017-03-14,14.921286789869953,55-65,2002,2017.0,0.0,48896.0,11-15,55+
+E02651,Samuel Xu,Quality Engineer,Engineering,Research & Development,Male,Asian,32,2019-09-20,82887,0.0,China,Chengdu,2020-01-17,1,2020-01-17,0.3258042436687201,25-34,2019,2020.0,0.0,82887.0,0-2,Under 35
+E02652,Ezekiel Lai,Analyst,Marketing,Manufacturing,Male,Asian,45,2005-11-26,54742,0.0,China,Chengdu,,0,2023-02-12,17.21286789869952,45-54,2005,,0.0,54742.0,16+,45-54
+E02653,Levi Rahman,Sr. Manager,Marketing,Corporate,Male,Asian,43,2007-07-19,134544,0.13,United States,Austin,,0,2023-02-12,15.570157426420261,35-44,2007,,17490.72,152034.72,16+,35-44
+E02654,Madison Phan,Manager,IT,Specialty Products,Female,Asian,45,2003-05-10,128115,0.06,United States,Austin,,0,2023-02-12,19.761806981519506,45-54,2003,,7686.9,135801.9,16+,45-54
+E02655,Andrew Pham,Analyst,Accounting,Specialty Products,Male,Asian,38,2013-06-29,54713,0.0,United States,Columbus,,0,2023-02-12,9.623545516769337,35-44,2013,,0.0,54713.0,6-10,35-44
+E02656,Clara Ford,Analyst II,Sales,Research & Development,Female,Caucasian,46,2014-08-09,63987,0.0,United States,Seattle,,0,2023-02-12,8.511978097193703,45-54,2014,,0.0,63987.0,6-10,45-54
+E02657,Christopher Chau,IT Systems Architect,IT,Research & Development,Male,Asian,26,2021-12-28,86288,0.0,United States,Columbus,,0,2023-02-12,1.1252566735112937,25-34,2021,,0.0,86288.0,0-2,Under 35
+E02658,Madeline Guerrero,Quality Engineer,Engineering,Corporate,Female,Latino,27,2020-08-16,61693,0.0,Brazil,Sao Paulo,2020-11-23,1,2020-11-23,0.27104722792607805,25-34,2020,2020.0,0.0,61693.0,0-2,Under 35
+E02659,Harper Yee,System Administrator ,IT,Manufacturing,Female,Asian,48,2021-11-01,75624,0.0,China,Chengdu,,0,2023-02-12,1.2813141683778233,45-54,2021,,0.0,75624.0,0-2,45-54
+E02660,Mia Thomas,Manager,Human Resources,Corporate,Female,Caucasian,57,2013-05-17,122979,0.06,United States,Phoenix,,0,2023-02-12,9.741273100616016,55-65,2013,,7378.74,130357.74,6-10,55+
+E02661,Owen Nelson,Engineering Manager,Engineering,Specialty Products,Male,Caucasian,58,2003-01-06,91729,0.13,United States,Chicago,,0,2023-02-12,20.10130047912389,55-65,2003,,11924.77,103653.77,16+,55+
+E02662,Aiden Evans,Manager,Finance,Corporate,Male,Caucasian,48,2010-05-16,117736,0.05,United States,Columbus,,0,2023-02-12,12.744695414099931,45-54,2010,,5886.8,123622.8,11-15,45-54
+E02663,Josiah Lai,Sr. Manager,Human Resources,Research & Development,Male,Asian,54,1995-03-21,154658,0.12,China,Chongqing,,0,2023-02-12,27.89869952087611,45-54,1995,,18558.96,173216.96,16+,45-54
+E02664,Jameson Yee,Enterprise Architect,IT,Research & Development,Male,Asian,29,2020-08-03,84397,0.0,United States,Seattle,,0,2023-02-12,2.5270362765229293,25-34,2020,,0.0,84397.0,3-5,Under 35
+E02665,Serenity Her,Director,Accounting,Specialty Products,Female,Asian,50,1997-08-22,159285,0.15,United States,Austin,,0,2023-02-12,25.475701574264203,45-54,1997,,23892.75,183177.75,16+,45-54
+E02666,Ariana Turner,Analyst II,Accounting,Research & Development,Female,Caucasian,49,2004-06-06,59854,0.0,United States,Miami,,0,2023-02-12,18.68583162217659,45-54,2004,,0.0,59854.0,16+,45-54
+E02667,Jacob Cooper,Solutions Architect,IT,Research & Development,Male,Caucasian,64,2018-05-18,87521,0.0,United States,Seattle,2021-06-10,1,2021-06-10,3.0636550308008212,55-65,2018,2021.0,0.0,87521.0,3-5,55+
+E02668,Christopher Dominguez,Director,Marketing,Research & Development,Male,Latino,36,2015-09-17,179166,0.17,Brazil,Manaus,,0,2023-02-12,7.405886379192334,35-44,2015,,30458.22,209624.22,6-10,35-44
+E02669,Nevaeh Lim,Controls Engineer,Engineering,Corporate,Female,Asian,55,1999-03-29,120092,0.0,China,Chongqing,,0,2023-02-12,23.876796714579054,55-65,1999,,0.0,120092.0,16+,55+
+E02670,Dominic Cheng,Director,Engineering,Corporate,Male,Asian,53,2015-06-19,168142,0.27,China,Beijing,,0,2023-02-12,7.652292950034223,45-54,2015,,45398.340000000004,213540.34,6-10,45-54
+E02671,Serenity Rodriguez,Director,Finance,Corporate,Female,Latino,54,1995-04-10,195662,0.15,United States,Columbus,,0,2023-02-12,27.84394250513347,45-54,1995,,29349.3,225011.3,16+,45-54
+E02672,Caleb Thompson,Systems Analyst,IT,Manufacturing,Male,Caucasian,41,2012-12-17,49986,0.0,United States,Miami,,0,2023-02-12,10.154688569472963,35-44,2012,,0.0,49986.0,11-15,35-44
+E02673,Luke Avila,Vice President,Accounting,Corporate,Male,Latino,27,2020-08-21,181587,0.38,Brazil,Manaus,,0,2023-02-12,2.4777549623545516,25-34,2020,,69003.06,250590.06,3-5,Under 35
+E02674,Sadie Chin,Vice President,Human Resources,Specialty Products,Female,Asian,51,2000-07-26,199736,0.35,United States,Austin,,0,2023-02-12,22.548939082819988,45-54,2000,,69907.59999999999,269643.6,16+,45-54
+E02675,Everett Le,Vice President,Accounting,Corporate,Male,Asian,45,2014-01-07,250639,0.34,China,Shanghai,,0,2023-02-12,9.097878165639973,45-54,2014,,85217.26000000001,335856.26,6-10,45-54
+E02676,Carson Santos,Sr. Account Representative,Sales,Corporate,Male,Latino,34,2022-02-15,80655,0.0,Brazil,Sao Paulo,,0,2023-02-12,0.9911019849418207,25-34,2022,,0.0,80655.0,0-2,Under 35
+E02677,Natalie Ho,Analyst II,Finance,Research & Development,Female,Asian,33,2020-11-22,64327,0.0,China,Chongqing,,0,2023-02-12,2.223134839151266,25-34,2020,,0.0,64327.0,3-5,Under 35
+E02678,Natalia Hall,Analyst II,Accounting,Research & Development,Female,Caucasian,37,2018-11-08,72005,0.0,United States,Austin,2021-07-27,1,2021-07-27,2.7159479808350446,35-44,2018,2021.0,0.0,72005.0,3-5,35-44
+E02679,Zoey Ahmed,Quality Engineer,Engineering,Specialty Products,Female,Asian,56,2012-04-25,62497,0.0,United States,Seattle,,0,2023-02-12,10.80082135523614,55-65,2012,,0.0,62497.0,11-15,55+
+E02680,Santiago f Turner,Sr. Account Representative,Sales,Research & Development,Male,Caucasian,46,2003-02-24,74912,0.0,United States,Phoenix,,0,2023-02-12,19.967145790554415,45-54,2003,,0.0,74912.0,16+,45-54
+E02681,Jacob Alexander,Business Partner,Human Resources,Specialty Products,Male,Caucasian,45,2001-03-19,50393,0.0,United States,Miami,2011-06-17,1,2011-06-17,10.245037645448322,45-54,2001,2011.0,0.0,50393.0,11-15,45-54
+E02682,Christopher Aguilar,Enterprise Architect,IT,Manufacturing,Male,Latino,32,2021-05-14,79670,0.0,United States,Columbus,,0,2023-02-12,1.7494866529774127,25-34,2021,,0.0,79670.0,0-2,Under 35
+E02683,Vivian Jackson,Sr. Manager,Accounting,Corporate,Female,Black,51,1999-02-23,148942,0.13,United States,Columbus,2007-07-16,1,2007-07-16,8.39151266255989,45-54,1999,2007.0,19362.46,168304.46,6-10,45-54
+E02684,Leonardo Jenkins,Service Desk Analyst,IT,Research & Development,Male,Caucasian,29,2018-04-09,98504,0.0,United States,Miami,2022-07-12,1,2022-07-12,4.257357973990418,25-34,2018,2022.0,0.0,98504.0,3-5,Under 35
+E02685,Oliver Hunter,Service Desk Analyst,IT,Manufacturing,Male,Caucasian,38,2015-12-20,70588,0.0,United States,Miami,,0,2023-02-12,7.148528405201916,35-44,2015,,0.0,70588.0,6-10,35-44
+E02686,Ayla Brooks,Analyst,Accounting,Corporate,Female,Caucasian,58,2001-11-21,58336,0.0,United States,Miami,,0,2023-02-12,21.22655715263518,55-65,2001,,0.0,58336.0,16+,55+
+E02687,Willow Chau,Development Engineer,Engineering,Corporate,Female,Asian,45,2011-09-09,86001,0.0,United States,Austin,,0,2023-02-12,11.427789185489392,45-54,2011,,0.0,86001.0,11-15,45-54
+E02688,Kai Shin,Sr. Analyst,Sales,Specialty Products,Male,Asian,49,2015-09-13,91121,0.0,United States,Seattle,2019-12-23,1,2019-12-23,4.276522929500342,45-54,2015,2019.0,0.0,91121.0,3-5,45-54
+E02689,Liliana Zhao,Director,Human Resources,Corporate,Female,Asian,50,2011-08-30,183308,0.24,United States,Miami,,0,2023-02-12,11.455167693360712,45-54,2011,,43993.92,227301.91999999998,11-15,45-54
+E02690,Aiden Carter,Network Architect,IT,Manufacturing,Male,Caucasian,32,2021-03-05,71674,0.0,United States,Chicago,2021-06-17,1,2021-06-17,0.28473648186173856,25-34,2021,2021.0,0.0,71674.0,0-2,Under 35
+E02691,Christopher Song,Automation Engineer,Engineering,Manufacturing,Male,Asian,29,2017-01-03,118639,0.0,United States,Phoenix,,0,2023-02-12,6.108145106091718,25-34,2017,,0.0,118639.0,6-10,Under 35
+E02692,Charles Luu,Enterprise Architect,IT,Corporate,Male,Asian,34,2018-11-10,71808,0.0,China,Chengdu,,0,2023-02-12,4.257357973990418,25-34,2018,,0.0,71808.0,3-5,Under 35
+E02693,Kayden Dinh,Sr. Manager,Human Resources,Manufacturing,Male,Asian,50,2019-05-26,156374,0.15,China,Beijing,,0,2023-02-12,3.7180013689253935,45-54,2019,,23456.1,179830.1,3-5,45-54
+E02694,Valentina Zhang,Systems Analyst,IT,Manufacturing,Female,Asian,27,2021-03-10,51133,0.0,United States,Chicago,,0,2023-02-12,1.9274469541409993,25-34,2021,,0.0,51133.0,0-2,Under 35
+E02695,Alexander Perez,Quality Engineer,Engineering,Specialty Products,Male,Latino,60,2008-06-25,86761,0.0,Brazil,Rio de Janeiro,,0,2023-02-12,14.633812457221081,55-65,2008,,0.0,86761.0,11-15,55+
+E02696,Everleigh Kumar,Manager,IT,Manufacturing,Female,Asian,65,1994-07-05,125213,0.07,United States,Seattle,,0,2023-02-12,28.607802874743328,55-65,1994,,8764.910000000002,133977.91,16+,55+
+E02697,Santiago f Xiong,Manager,Sales,Manufacturing,Male,Asian,43,2008-09-26,120305,0.07,China,Shanghai,,0,2023-02-12,14.379192334017796,35-44,2008,,8421.35,128726.35,11-15,35-44
+E02698,Elizabeth Powell,Sr. Manager,Marketing,Research & Development,Female,Caucasian,45,2013-09-17,138355,0.14,United States,Columbus,,0,2023-02-12,9.404517453798768,45-54,2013,,19369.7,157724.7,6-10,45-54
+E02699,Lucas Yang,Network Engineer,IT,Corporate,Male,Asian,28,2021-07-04,70996,0.0,United States,Austin,,0,2023-02-12,1.6098562628336757,25-34,2021,,0.0,70996.0,0-2,Under 35
+E02700,John Richardson,Computer Systems Manager,IT,Manufacturing,Male,Caucasian,34,2014-12-29,77024,0.09,United States,Phoenix,2021-10-23,1,2021-10-23,6.8172484599589325,25-34,2014,2021.0,6932.16,83956.16,6-10,Under 35
+E02701,Miles Ross,IT Coordinator,IT,Specialty Products,Male,Black,31,2017-04-18,50022,0.0,United States,Miami,,0,2023-02-12,5.820670773442847,25-34,2017,,0.0,50022.0,6-10,Under 35
+E02702,Jonathan Santos,Vice President,Sales,Specialty Products,Male,Latino,29,2017-01-06,204534,0.38,United States,Chicago,,0,2023-02-12,6.099931553730322,25-34,2017,,77722.92,282256.92,6-10,Under 35
+E02703,Joshua Maldonado,Sr. Account Representative,Sales,Research & Development,Male,Latino,49,2005-12-22,75814,0.0,United States,Chicago,,0,2023-02-12,17.141683778234086,45-54,2005,,0.0,75814.0,16+,45-54
+E02704,Santiago f Vo,Director,Sales,Manufacturing,Male,Asian,47,2019-07-15,169487,0.23,United States,Columbus,,0,2023-02-12,3.5811088295687883,45-54,2019,,38982.01,208469.01,3-5,45-54
+E02705,Leilani Martin,Sr. Manager,IT,Corporate,Female,Caucasian,56,2002-05-06,156435,0.1,United States,Chicago,,0,2023-02-12,20.772073921971252,55-65,2002,,15643.5,172078.5,16+,55+
+E02706,Luca Xiong,Account Representative,Sales,Specialty Products,Male,Asian,52,2006-12-20,59845,0.0,China,Beijing,,0,2023-02-12,16.147843942505133,45-54,2006,,0.0,59845.0,16+,45-54
+E02707,Valentina Campos,System Administrator ,IT,Manufacturing,Female,Latino,37,2020-03-06,93656,0.0,United States,Columbus,,0,2023-02-12,2.937713894592745,35-44,2020,,0.0,93656.0,3-5,35-44
+E02708,Grayson Jenkins,Test Engineer,Engineering,Manufacturing,Male,Caucasian,55,1998-03-06,99035,0.0,United States,Miami,,0,2023-02-12,24.93908281998631,55-65,1998,,0.0,99035.0,16+,55+
+E02709,Jeremiah Ross,Sr. Manager,Marketing,Corporate,Male,Caucasian,27,2021-06-17,137997,0.12,United States,Phoenix,,0,2023-02-12,1.6563997262149213,25-34,2021,,16559.64,154556.64,0-2,Under 35
+E02710,Natalie Zheng,Network Engineer,IT,Manufacturing,Female,Asian,28,2019-06-21,61573,0.0,United States,Chicago,,0,2023-02-12,3.646817248459959,25-34,2019,,0.0,61573.0,3-5,Under 35
+E02711,Jace Mehta,Analyst,Sales,Manufacturing,Male,Asian,55,2015-05-06,41102,0.0,United States,Seattle,,0,2023-02-12,7.772758384668036,55-65,2015,,0.0,41102.0,6-10,55+
+E02712,Hannah Doan,Manager,Human Resources,Research & Development,Female,Asian,44,2011-09-16,129866,0.06,China,Beijing,,0,2023-02-12,11.408624229979466,35-44,2011,,7791.96,137657.96,11-15,35-44
+E02713,Caroline Robinson,Director,Human Resources,Specialty Products,Female,Caucasian,28,2020-01-22,161868,0.21,United States,Austin,,0,2023-02-12,3.058179329226557,25-34,2020,,33992.28,195860.28,3-5,Under 35
+E02714,Naomi Ma,Field Engineer,Engineering,Corporate,Female,Asian,55,1995-05-16,67131,0.0,United States,Austin,,0,2023-02-12,27.745379876796715,55-65,1995,,0.0,67131.0,16+,55+
+E02715,Adam Davis,Quality Engineer,Engineering,Research & Development,Male,Black,44,2019-10-15,71345,0.0,United States,Miami,,0,2023-02-12,3.3292265571526354,35-44,2019,,0.0,71345.0,3-5,35-44
+E02716,Ellie Ho,Vice President,Sales,Corporate,Female,Asian,30,2019-10-09,246757,0.4,United States,Miami,,0,2023-02-12,3.345653661875428,25-34,2019,,98702.8,345459.8,3-5,Under 35
+E02717,Mila Liang,Manager,Marketing,Research & Development,Female,Asian,63,2005-03-28,106880,0.08,United States,Austin,,0,2023-02-12,17.87816563997262,55-65,2005,,8550.4,115430.4,16+,55+
+E02718,Nova Doan,IT Systems Architect,IT,Manufacturing,Female,Asian,36,2018-08-28,98733,0.0,China,Beijing,,0,2023-02-12,4.459958932238193,35-44,2018,,0.0,98733.0,3-5,35-44
+E02719,Colton Mejia,Sr. Manager,Accounting,Research & Development,Male,Latino,28,2019-04-26,141675,0.12,Brazil,Rio de Janeiro,2020-09-24,1,2020-09-24,1.4154688569472964,25-34,2019,2020.0,17001.0,158676.0,0-2,Under 35
+E02720,Joseph Kim,Analyst II,Accounting,Research & Development,Male,Asian,28,2018-06-23,53210,0.0,United States,Seattle,,0,2023-02-12,4.640657084188912,25-34,2018,,0.0,53210.0,3-5,Under 35
+E02721,Audrey Campos,Manager,Finance,Specialty Products,Female,Latino,27,2021-09-02,107114,0.1,Brazil,Rio de Janeiro,,0,2023-02-12,1.4455852156057496,25-34,2021,,10711.400000000001,117825.4,0-2,Under 35
+E02722,Vivian Brooks,Business Partner,Human Resources,Specialty Products,Female,Black,34,2022-09-12,57483,0.0,United States,Seattle,2022-11-18,1,2022-11-18,0.1834360027378508,25-34,2022,2022.0,0.0,57483.0,0-2,Under 35
+E02723,Mateo Vargas,Network Architect,IT,Specialty Products,Male,Latino,53,1994-04-20,75226,0.0,Brazil,Rio de Janeiro,,0,2023-02-12,28.815879534565365,45-54,1994,,0.0,75226.0,16+,45-54
+E02724,David Foster,Controls Engineer,Engineering,Corporate,Male,Caucasian,50,2012-01-15,87727,0.0,United States,Miami,,0,2023-02-12,11.077344284736482,45-54,2012,,0.0,87727.0,11-15,45-54
+E02725,Isaiah Ramos,Solutions Architect,IT,Manufacturing,Male,Latino,51,2018-06-21,87897,0.0,United States,Phoenix,,0,2023-02-12,4.646132785763176,45-54,2018,,0.0,87897.0,3-5,45-54
+E02726,Samantha Do,IT Systems Architect,IT,Research & Development,Female,Asian,27,2021-11-19,99612,0.0,China,Shanghai,,0,2023-02-12,1.2320328542094456,25-34,2021,,0.0,99612.0,0-2,Under 35
+E02727,Emery Fernandez,Analyst,Accounting,Research & Development,Female,Latino,33,2019-03-27,56938,0.0,Brazil,Sao Paulo,,0,2023-02-12,3.8822724161533197,25-34,2019,,0.0,56938.0,3-5,Under 35
+E02728,Santiago f Brooks,Sr. Business Partner,Human Resources,Corporate,Male,Caucasian,46,2012-01-20,92247,0.0,United States,Miami,,0,2023-02-12,11.063655030800822,45-54,2012,,0.0,92247.0,11-15,45-54
+E02729,Aubrey Lin,Vice President,Human Resources,Corporate,Female,Asian,51,2005-10-17,193672,0.36,United States,Columbus,,0,2023-02-12,17.322381930184804,45-54,2005,,69721.92,263393.92,16+,45-54
+E02730,Jace Hsu,Systems Analyst,IT,Manufacturing,Male,Asian,31,2018-10-06,46098,0.0,China,Shanghai,,0,2023-02-12,4.353182751540041,25-34,2018,,0.0,46098.0,3-5,Under 35
+E02731,Nicholas Sanders,Vice President,Sales,Manufacturing,Male,Caucasian,45,2014-11-23,239980,0.31,United States,Austin,,0,2023-02-12,8.2217659137577,45-54,2014,,74393.8,314373.8,6-10,45-54
+E02732,Joshua Sun,Manager,Finance,Corporate,Male,Asian,38,2011-07-13,121546,0.1,China,Shanghai,,0,2023-02-12,11.586584531143053,35-44,2011,,12154.6,133700.6,11-15,35-44
+E02733,Riley Ayala,Manager,Accounting,Specialty Products,Female,Latino,42,2010-02-20,128714,0.07,Brazil,Sao Paulo,,0,2023-02-12,12.97741273100616,35-44,2010,,9009.980000000001,137723.98,11-15,35-44
+E02734,Isaac Santos,Development Engineer,Engineering,Manufacturing,Male,Latino,43,2018-09-13,91537,0.0,United States,Chicago,,0,2023-02-12,4.41615331964408,35-44,2018,,0.0,91537.0,3-5,35-44
+E02735,Logan Brooks,Director,IT,Corporate,Male,Caucasian,28,2020-05-07,178300,0.24,United States,Austin,2023-01-25,1,2023-01-25,2.7186858316221767,25-34,2020,2023.0,42792.0,221092.0,3-5,Under 35
+E02736,Leilani Hu,Analyst II,Finance,Research & Development,Female,Asian,57,2018-05-21,50260,0.0,China,Chengdu,,0,2023-02-12,4.731006160164271,55-65,2018,,0.0,50260.0,3-5,55+
+E02737,Jace Cho,Director,Engineering,Research & Development,Male,Asian,33,2016-08-06,161800,0.19,China,Chongqing,,0,2023-02-12,6.5188227241615335,25-34,2016,,30742.0,192542.0,6-10,Under 35
+E02738,Jaxson Fong,Sr. Manager,Finance,Corporate,Male,Asian,32,2020-10-09,157616,0.1,China,Shanghai,,0,2023-02-12,2.3436002737850785,25-34,2020,,15761.6,173377.6,3-5,Under 35
+E02739,Wyatt Ly,Quality Engineer,Engineering,Corporate,Male,Asian,45,2008-12-19,82697,0.0,China,Beijing,,0,2023-02-12,14.149212867898699,45-54,2008,,0.0,82697.0,11-15,45-54
+E02740,Mia Huang,Sr. Manager,IT,Corporate,Female,Asian,33,2018-09-21,124404,0.12,China,Chongqing,,0,2023-02-12,4.394250513347022,25-34,2018,,14928.48,139332.48,3-5,Under 35
+E02741,Levi Her,Sr. Manager,IT,Specialty Products,Male,Asian,43,2012-03-30,158750,0.12,China,Chongqing,,0,2023-02-12,10.872005475701574,35-44,2012,,19050.0,177800.0,11-15,35-44
+E02742,Everleigh Phillips,Analyst II,Sales,Manufacturing,Female,Caucasian,62,2015-11-08,69057,0.0,United States,Chicago,,0,2023-02-12,7.263518138261465,55-65,2015,,0.0,69057.0,6-10,55+
+E02743,Natalie Acosta,Sr. Manager,Marketing,Specialty Products,Female,Latino,36,2019-01-08,157976,0.1,Brazil,Rio de Janeiro,,0,2023-02-12,4.095824777549623,35-44,2019,,15797.6,173773.6,3-5,35-44
+E02744,Hadley Chavez,Analyst,Sales,Corporate,Female,Latino,36,2020-06-28,54355,0.0,United States,Phoenix,,0,2023-02-12,2.625598904859685,35-44,2020,,0.0,54355.0,3-5,35-44
+E02745,Hailey Liu,Field Engineer,Engineering,Manufacturing,Female,Asian,31,2022-07-09,72475,0.0,United States,Phoenix,,0,2023-02-12,0.5968514715947981,25-34,2022,,0.0,72475.0,0-2,Under 35
+E02746,Nicholas Jiang,Engineering Manager,Engineering,Manufacturing,Male,Asian,62,2003-12-13,80132,0.14,China,Chongqing,,0,2023-02-12,19.16769336071184,55-65,2003,,11218.480000000001,91350.48,16+,55+
+E02747,Gabriel Xu,Analyst,Accounting,Research & Development,Male,Asian,30,2018-10-13,52292,0.0,China,Chengdu,,0,2023-02-12,4.334017796030117,25-34,2018,,0.0,52292.0,3-5,Under 35
+E02748,Sophia Collins,Cloud Infrastructure Architect,IT,Specialty Products,Female,Caucasian,46,2022-01-08,69110,0.0,United States,Seattle,,0,2023-02-12,1.0951403148528405,45-54,2022,,0.0,69110.0,0-2,45-54
+E02749,Evelyn Vasquez,Technical Architect,IT,Manufacturing,Female,Latino,38,2013-02-24,68676,0.0,Brazil,Sao Paulo,,0,2023-02-12,9.96577686516085,35-44,2013,,0.0,68676.0,6-10,35-44
+E02750,Paisley Baker,Test Engineer,Engineering,Manufacturing,Female,Caucasian,58,2002-12-23,86094,0.0,United States,Columbus,,0,2023-02-12,20.139630390143736,55-65,2002,,0.0,86094.0,16+,55+
+E02751,Eloise Griffin,Enterprise Architect,IT,Specialty Products,Female,Caucasian,27,2022-05-06,77607,0.0,United States,Miami,,0,2023-02-12,0.7720739219712526,25-34,2022,,0.0,77607.0,0-2,Under 35
+E02752,Samuel Cruz,Sr. Manager,Human Resources,Specialty Products,Male,Latino,61,1993-04-30,157672,0.11,United States,Miami,,0,2023-02-12,29.78781656399726,55-65,1993,,17343.920000000002,175015.92,16+,55+
+E02753,Gabriel Cheung,Analyst,Finance,Specialty Products,Male,Asian,64,2016-11-29,43785,0.0,China,Chongqing,2018-06-26,1,2018-06-26,1.571526351813826,55-65,2016,2018.0,0.0,43785.0,0-2,55+
+E02754,Kai Green,System Administrator ,IT,Corporate,Male,Caucasian,65,2015-06-15,75439,0.0,United States,Seattle,,0,2023-02-12,7.663244353182751,55-65,2015,,0.0,75439.0,6-10,55+
+E02755,Julia Moore,Sr. Manager,IT,Manufacturing,Female,Caucasian,37,2021-11-18,139987,0.13,United States,Seattle,,0,2023-02-12,1.2347707049965777,35-44,2021,,18198.31,158185.31,0-2,35-44
+E02756,Roman Mendoza,Vice President,Accounting,Specialty Products,Male,Latino,54,1994-09-04,257489,0.34,Brazil,Rio de Janeiro,,0,2023-02-12,28.44079397672827,45-54,1994,,87546.26000000001,345035.26,16+,45-54
+E02757,Levi Rahman,System Administrator ,IT,Specialty Products,Male,Asian,54,2009-01-30,91639,0.0,United States,Seattle,,0,2023-02-12,14.03422313483915,45-54,2009,,0.0,91639.0,11-15,45-54
+E02758,Sadie Pham,Analyst II,Finance,Specialty Products,Female,Asian,26,2022-12-25,66563,0.0,China,Chengdu,2023-01-25,1,2023-01-25,0.08487337440109514,25-34,2022,2023.0,0.0,66563.0,0-2,Under 35
+E02759,Chloe Contreras,Vice President,Marketing,Corporate,Female,Latino,29,2021-02-10,235047,0.36,United States,Phoenix,,0,2023-02-12,2.004106776180698,25-34,2021,,84616.92,319663.92,3-5,Under 35
+E02760,Owen Ford,Vice President,Human Resources,Corporate,Male,Caucasian,37,2015-02-10,214782,0.32,United States,Chicago,,0,2023-02-12,8.005475701574264,35-44,2015,,68730.24,283512.24,6-10,35-44
+E02761,Audrey Powell,Director,Accounting,Research & Development,Female,Black,37,2011-05-01,180544,0.27,United States,Chicago,,0,2023-02-12,11.786447638603697,35-44,2011,,48746.880000000005,229290.88,11-15,35-44
+E02762,Greyson Munoz,Sr. Manager,Marketing,Research & Development,Male,Latino,62,2000-06-23,158614,0.14,Brazil,Rio de Janeiro,,0,2023-02-12,22.639288158795345,55-65,2000,,22205.960000000003,180819.96,16+,55+
+E02763,Isaiah Vang,Quality Engineer,Engineering,Corporate,Male,Asian,53,1998-11-30,63187,0.0,United States,Chicago,,0,2023-02-12,24.202600958247775,45-54,1998,,0.0,63187.0,16+,45-54
+E02764,Lincoln Alvarado,Sr. Analyst,Marketing,Manufacturing,Male,Latino,65,2004-12-08,93857,0.0,United States,Phoenix,,0,2023-02-12,18.17932922655715,55-65,2004,,0.0,93857.0,16+,55+
+E02765,Carter Sandoval,Vice President,IT,Manufacturing,Male,Latino,36,2021-03-11,253741,0.34,Brazil,Rio de Janeiro,,0,2023-02-12,1.9247091033538672,35-44,2021,,86271.94,340012.94,0-2,35-44
+E02766,Julia Jimenez,Sr. Analyst,Marketing,Specialty Products,Female,Latino,46,2010-11-17,92833,0.0,Brazil,Rio de Janeiro,,0,2023-02-12,12.238193018480493,45-54,2010,,0.0,92833.0,11-15,45-54
+E02767,Savannah Cortez,Service Desk Analyst,IT,Specialty Products,Female,Latino,55,2018-12-15,95400,0.0,Brazil,Manaus,,0,2023-02-12,4.161533196440794,55-65,2018,,0.0,95400.0,3-5,55+
+E02768,Everly Brown,Quality Engineer,Engineering,Specialty Products,Female,Black,63,2013-10-04,88230,0.0,United States,Miami,,0,2023-02-12,9.357973990417522,55-65,2013,,0.0,88230.0,6-10,55+
+E02769,Charlotte Pham,Field Engineer,Engineering,Research & Development,Female,Asian,54,2003-02-25,62179,0.0,China,Shanghai,,0,2023-02-12,19.964407939767284,45-54,2003,,0.0,62179.0,16+,45-54
+E02770,Iris Bailey,IT Coordinator,IT,Research & Development,Female,Caucasian,26,2020-02-18,42343,0.0,United States,Miami,2020-06-02,1,2020-06-02,0.2874743326488706,25-34,2020,2020.0,0.0,42343.0,0-2,Under 35
+E02771,Logan Daniels,Sr. Analyst,Accounting,Corporate,Male,Caucasian,26,2022-05-07,70275,0.0,United States,Columbus,,0,2023-02-12,0.7693360711841205,25-34,2022,,0.0,70275.0,0-2,Under 35
+E02772,Autumn Molina,Analyst II,Sales,Corporate,Female,Latino,34,2012-04-08,51448,0.0,Brazil,Manaus,,0,2023-02-12,10.847364818617386,25-34,2012,,0.0,51448.0,11-15,Under 35
+E02773,Emma Mehta,Vice President,Engineering,Manufacturing,Female,Asian,48,2009-04-09,185363,0.33,China,Shanghai,,0,2023-02-12,13.845311430527037,45-54,2009,,61169.79,246532.79,11-15,45-54
+E02774,Julian Joseph,Enterprise Architect,IT,Manufacturing,Male,Caucasian,52,2018-09-20,60784,0.0,United States,Austin,,0,2023-02-12,4.396988364134154,45-54,2018,,0.0,60784.0,3-5,45-54
+E02775,Eleanor Munoz,Analyst,Accounting,Specialty Products,Female,Latino,45,2004-04-07,45323,0.0,Brazil,Rio de Janeiro,,0,2023-02-12,18.850102669404517,45-54,2004,,0.0,45323.0,16+,45-54
+E02776,Caroline Sandoval,Manager,Finance,Specialty Products,Female,Latino,51,2012-09-10,129727,0.08,United States,Phoenix,2021-10-07,1,2021-10-07,9.073237508555783,45-54,2012,2021.0,10378.16,140105.16,6-10,45-54
+E02777,Eliza Zhu,Account Representative,Sales,Specialty Products,Female,Asian,43,2006-09-30,63229,0.0,United States,Miami,,0,2023-02-12,16.369609856262834,35-44,2006,,0.0,63229.0,16+,35-44
+E02778,Greyson Moore,Director,Accounting,Corporate,Male,Caucasian,54,2004-02-12,194221,0.16,United States,Austin,,0,2023-02-12,19.000684462696782,45-54,2004,,31075.36,225296.36,16+,45-54
+E02779,Lyla Clark,Sr. Analyst,Sales,Research & Development,Female,Caucasian,54,2018-12-12,78020,0.0,United States,Columbus,,0,2023-02-12,4.16974674880219,45-54,2018,,0.0,78020.0,3-5,45-54
+E02780,Samuel Patterson,Vice President,Accounting,Specialty Products,Male,Caucasian,25,2022-10-07,197331,0.33,United States,Seattle,,0,2023-02-12,0.35044490075290896,25-34,2022,,65119.23,262450.23,0-2,Under 35
+E02781,Robert Padilla,Analyst II,Accounting,Manufacturing,Male,Latino,65,1998-02-16,63346,0.0,Brazil,Rio de Janeiro,,0,2023-02-12,24.98836413415469,55-65,1998,,0.0,63346.0,16+,55+
+E02782,Landon Munoz,Controls Engineer,Engineering,Manufacturing,Male,Latino,40,2014-07-11,105574,0.0,United States,Miami,,0,2023-02-12,8.591375770020534,35-44,2014,,0.0,105574.0,6-10,35-44
+E02783,Josiah Yi,Operations Engineer,Engineering,Corporate,Male,Asian,31,2015-04-12,101941,0.0,China,Beijing,,0,2023-02-12,7.838466803559206,25-34,2015,,0.0,101941.0,6-10,Under 35
+E02784,Owen Scott,Solutions Architect,IT,Research & Development,Male,Black,45,2005-07-17,74777,0.0,United States,Austin,,0,2023-02-12,17.574264202600958,45-54,2005,,0.0,74777.0,16+,45-54
+E02785,Matthew Parker,Analyst,Sales,Research & Development,Male,Caucasian,40,2021-09-15,59447,0.0,United States,Austin,,0,2023-02-12,1.4099931553730323,35-44,2021,,0.0,59447.0,0-2,35-44
+E02786,Daniel Huynh,Manager,Marketing,Manufacturing,Male,Asian,25,2021-12-08,105072,0.06,China,Chengdu,,0,2023-02-12,1.1800136892539357,25-34,2021,,6304.32,111376.32,0-2,Under 35
+E02787,Matthew Vargas,Sr. Manager,IT,Research & Development,Male,Latino,53,1999-05-24,150893,0.13,United States,Chicago,,0,2023-02-12,23.72347707049966,45-54,1999,,19616.09,170509.09,16+,45-54
+E02788,Ella Herrera,Director,Marketing,Corporate,Female,Latino,49,2013-02-08,156276,0.22,United States,Austin,,0,2023-02-12,10.009582477754963,45-54,2013,,34380.72,190656.72,11-15,45-54
+E02789,Everly Hwang,Vice President,Accounting,Research & Development,Female,Asian,31,2022-10-27,191755,0.4,United States,Miami,,0,2023-02-12,0.29568788501026694,25-34,2022,,76702.0,268457.0,0-2,Under 35
+E02790,Hazel Mitchell,Network Engineer,IT,Specialty Products,Female,Caucasian,33,2020-11-04,81070,0.0,United States,Miami,,0,2023-02-12,2.272416153319644,25-34,2020,,0.0,81070.0,3-5,Under 35
+E02791,Ian Hernandez,Director,Accounting,Corporate,Male,Latino,40,2021-12-01,176533,0.25,United States,Austin,,0,2023-02-12,1.1991786447638604,35-44,2021,,44133.25,220666.25,0-2,35-44
+E02792,Charlotte Lam,Service Desk Analyst,IT,Manufacturing,Female,Asian,29,2020-08-26,60919,0.0,United States,Columbus,,0,2023-02-12,2.4640657084188913,25-34,2020,,0.0,60919.0,3-5,Under 35
+E02793,Jonathan Ali,Automation Engineer,Engineering,Specialty Products,Male,Asian,51,2004-07-20,88288,0.0,China,Chongqing,,0,2023-02-12,18.56536618754278,45-54,2004,,0.0,88288.0,16+,45-54
+E02794,Violet He,Analyst,Sales,Manufacturing,Female,Asian,31,2021-11-19,53638,0.0,United States,Chicago,,0,2023-02-12,1.2320328542094456,25-34,2021,,0.0,53638.0,0-2,Under 35
+E02795,Hannah Truong,Sr. Analyst,Accounting,Specialty Products,Female,Asian,44,2009-03-25,75362,0.0,United States,Chicago,,0,2023-02-12,13.886379192334017,35-44,2009,,0.0,75362.0,11-15,35-44
+E02796,Hannah Nelson,Account Representative,Sales,Manufacturing,Female,Caucasian,38,2022-05-24,60799,0.0,United States,Seattle,,0,2023-02-12,0.7227926078028748,35-44,2022,,0.0,60799.0,0-2,35-44
+E02797,Autumn Kaur,Manager,Accounting,Corporate,Female,Asian,29,2022-02-01,129172,0.08,China,Beijing,,0,2023-02-12,1.0294318959616702,25-34,2022,,10333.76,139505.76,0-2,Under 35
+E02798,Serenity Ngo,Analyst,Accounting,Corporate,Female,Asian,49,2021-02-11,50012,0.0,United States,Seattle,,0,2023-02-12,2.001368925393566,45-54,2021,,0.0,50012.0,3-5,45-54
+E02799,Raelynn Her,Sr. Manager,Sales,Research & Development,Female,Asian,44,2018-05-09,122441,0.15,United States,Columbus,,0,2023-02-12,4.763860369609857,35-44,2018,,18366.149999999998,140807.15,3-5,35-44
+E02800,Jameson Salazar,Controls Engineer,Engineering,Specialty Products,Male,Latino,45,2003-03-12,85822,0.0,United States,Phoenix,,0,2023-02-12,19.923340177960302,45-54,2003,,0.0,85822.0,16+,45-54
+E02801,Luke Luna,Analyst,Sales,Specialty Products,Male,Latino,58,2007-05-21,43803,0.0,United States,Miami,,0,2023-02-12,15.731690622861054,55-65,2007,,0.0,43803.0,16+,55+
+E02802,Hunter Moua,Sr. Analyst,Accounting,Specialty Products,Male,Asian,29,2019-11-29,72620,0.0,China,Chongqing,,0,2023-02-12,3.2060232717316905,25-34,2019,,0.0,72620.0,3-5,Under 35
+E02803,Athena Aguilar,Analyst II,Marketing,Corporate,Female,Latino,25,2021-08-24,71222,0.0,Brazil,Manaus,,0,2023-02-12,1.4702258726899384,25-34,2021,,0.0,71222.0,0-2,Under 35
+E02804,Ariana Sanders,Director,Engineering,Manufacturing,Female,Caucasian,62,1994-12-26,155332,0.2,United States,Austin,,0,2023-02-12,28.13141683778234,55-65,1994,,31066.4,186398.4,16+,55+
+E02805,Easton Cruz,Manager,Finance,Manufacturing,Male,Latino,33,2016-11-21,107202,0.06,United States,Columbus,,0,2023-02-12,6.225872689938399,25-34,2016,,6432.12,113634.12,6-10,Under 35
+E02806,Josiah Vega,Manager,Accounting,Manufacturing,Male,Latino,56,2015-12-26,121751,0.08,United States,Columbus,,0,2023-02-12,7.132101300479124,55-65,2015,,9740.08,131491.08,6-10,55+
+E02807,Isla Chavez,Manager,Finance,Corporate,Female,Latino,45,2010-09-29,115591,0.05,United States,Chicago,,0,2023-02-12,12.372347707049967,45-54,2010,,5779.55,121370.55,11-15,45-54
+E02808,Willow Estrada,Manager,Human Resources,Research & Development,Female,Latino,28,2021-03-11,108601,0.05,Brazil,Rio de Janeiro,,0,2023-02-12,1.9247091033538672,25-34,2021,,5430.05,114031.05,0-2,Under 35
+E02809,Nevaeh Ng,Sr. Manager,Human Resources,Manufacturing,Female,Asian,30,2019-03-18,159823,0.11,United States,Seattle,2022-08-29,1,2022-08-29,3.4496919917864477,25-34,2019,2022.0,17580.53,177403.53,3-5,Under 35
+E02810,Jade Hu,Analyst,Marketing,Research & Development,Female,Asian,45,2001-12-15,53526,0.0,United States,Seattle,,0,2023-02-12,21.16084873374401,45-54,2001,,0.0,53526.0,16+,45-54
+E02811,Henry Vazquez,IT Systems Architect,IT,Specialty Products,Male,Latino,33,2016-12-03,90084,0.0,United States,Columbus,,0,2023-02-12,6.193018480492813,25-34,2016,,0.0,90084.0,6-10,Under 35
+E02812,Nathan Jackson,Vice President,Accounting,Manufacturing,Male,Caucasian,41,2011-03-25,210085,0.39,United States,Chicago,,0,2023-02-12,11.887748117727584,35-44,2011,,81933.15000000001,292018.15,11-15,35-44
+E02813,Anthony Lam,Sr. Manager,Sales,Specialty Products,Male,Asian,33,2015-02-07,133908,0.15,United States,Chicago,,0,2023-02-12,8.013689253935661,25-34,2015,,20086.2,153994.2,6-10,Under 35
+E02814,Nevaeh Ali,Manager,Marketing,Manufacturing,Female,Asian,48,2013-03-22,100652,0.07,United States,Miami,,0,2023-02-12,9.894592744695414,45-54,2013,,7045.64,107697.64,6-10,45-54
+E02815,Mila Vasquez,Vice President,Human Resources,Corporate,Female,Latino,48,2013-07-26,225725,0.37,United States,Phoenix,,0,2023-02-12,9.54962354551677,45-54,2013,,83518.25,309243.25,6-10,45-54
+E02816,Madelyn Henry,Vice President,Human Resources,Specialty Products,Female,Caucasian,41,2007-05-10,224989,0.33,United States,Seattle,,0,2023-02-12,15.761806981519507,35-44,2007,,74246.37000000001,299235.37,16+,35-44
+E02817,Emilia Alexander,Operations Engineer,Engineering,Specialty Products,Female,Caucasian,37,2022-09-11,109680,0.0,United States,Seattle,,0,2023-02-12,0.4216290212183436,35-44,2022,,0.0,109680.0,0-2,35-44
+E02818,Christian Ayala,Sr. Account Representative,Sales,Research & Development,Male,Latino,55,2003-09-28,74216,0.0,Brazil,Manaus,,0,2023-02-12,19.37577002053388,55-65,2003,,0.0,74216.0,16+,55+
+E02819,Willow Xiong,Sr. Manager,Marketing,Corporate,Female,Asian,37,2021-05-04,151363,0.12,United States,Miami,,0,2023-02-12,1.7768651608487338,35-44,2021,,18163.559999999998,169526.56,0-2,35-44
+E02820,Avery Valdez,HRIS Analyst,Human Resources,Research & Development,Female,Latino,58,2000-01-29,62686,0.0,United States,Phoenix,,0,2023-02-12,23.039014373716633,55-65,2000,,0.0,62686.0,16+,55+
+E02821,Abigail Carter,Director,Human Resources,Research & Development,Female,Black,51,2015-01-12,178218,0.27,United States,Miami,,0,2023-02-12,8.084873374401095,45-54,2015,,48118.86,226336.86,6-10,45-54
+E02822,Madison Patel,Test Engineer,Engineering,Corporate,Female,Asian,37,2013-10-26,69125,0.0,United States,Austin,,0,2023-02-12,9.297741273100616,35-44,2013,,0.0,69125.0,6-10,35-44
+E02823,Paisley Hsu,Director,Finance,Specialty Products,Female,Asian,43,2006-01-07,161376,0.24,China,Beijing,,0,2023-02-12,17.097878165639973,35-44,2006,,38730.24,200106.24,16+,35-44
+E02824,Kinsley Hill,Account Representative,Sales,Research & Development,Female,Caucasian,26,2022-06-16,59436,0.0,United States,Columbus,,0,2023-02-12,0.6598220396988365,25-34,2022,,0.0,59436.0,0-2,Under 35
+E02825,Kai Barnes,Account Representative,Sales,Research & Development,Male,Caucasian,35,2016-08-24,58733,0.0,United States,Miami,,0,2023-02-12,6.469541409993155,35-44,2016,,0.0,58733.0,6-10,35-44
+E02826,Lincoln Cheng,Sr. Analyst,Accounting,Corporate,Male,Asian,61,1997-10-14,88681,0.0,China,Shanghai,,0,2023-02-12,25.3305954825462,55-65,1997,,0.0,88681.0,16+,55+
+E02827,Noah Sharma,Director,Finance,Specialty Products,Male,Asian,59,2008-02-09,186854,0.3,United States,Phoenix,,0,2023-02-12,15.008898015058179,55-65,2008,,56056.2,242910.2,16+,55+
+E02828,Nevaeh Jiang,Sr. Analyst,Finance,Manufacturing,Female,Asian,65,1997-07-10,96897,0.0,China,Chengdu,,0,2023-02-12,25.593429158110883,55-65,1997,,0.0,96897.0,16+,55+
+E02829,Ariana Hall,Manager,Human Resources,Corporate,Female,Caucasian,55,2005-01-17,128954,0.05,United States,Phoenix,,0,2023-02-12,18.069815195071868,55-65,2005,,6447.700000000001,135401.7,16+,55+
+E02830,Samuel Cao,Account Representative,Sales,Specialty Products,Male,Asian,51,1999-05-22,67418,0.0,China,Shanghai,,0,2023-02-12,23.72895277207392,45-54,1999,,0.0,67418.0,16+,45-54
+E02831,Brooks Mitchell,Manager,Accounting,Specialty Products,Male,Caucasian,53,2014-08-10,125545,0.06,United States,Austin,,0,2023-02-12,8.509240246406572,45-54,2014,,7532.7,133077.7,6-10,45-54
+E02832,Kinsley Gonzalez,Manager,IT,Research & Development,Female,Latino,47,2000-01-27,125641,0.05,United States,Seattle,,0,2023-02-12,23.044490075290895,45-54,2000,,6282.05,131923.05,16+,45-54
+E02833,Dominic Tang,Manager,Accounting,Corporate,Male,Asian,53,1993-12-08,100666,0.1,China,Beijing,,0,2023-02-12,29.180013689253936,45-54,1993,,10066.6,110732.6,16+,45-54
+E02834,Colton Le,HRIS Analyst,Human Resources,Specialty Products,Male,Asian,38,2010-01-12,71235,0.0,China,Chongqing,,0,2023-02-12,13.084188911704311,35-44,2010,,0.0,71235.0,11-15,35-44
+E02835,Kai Huang,Sr. Business Partner,Human Resources,Corporate,Male,Asian,28,2021-01-15,83235,0.0,United States,Austin,,0,2023-02-12,2.0752908966461328,25-34,2021,,0.0,83235.0,3-5,Under 35
+E02836,Addison Cruz,Analyst,Sales,Corporate,Female,Latino,32,2014-09-08,42075,0.0,Brazil,Rio de Janeiro,,0,2023-02-12,8.429842573579739,25-34,2014,,0.0,42075.0,6-10,Under 35
+E02837,Natalie Thao,Systems Analyst,IT,Specialty Products,Female,Asian,52,2022-10-23,55020,0.0,China,Chongqing,,0,2023-02-12,0.3066392881587953,45-54,2022,,0.0,55020.0,0-2,45-54
+E02838,Maria Barnes,Sr. Analyst,Marketing,Corporate,Female,Caucasian,64,2003-05-13,76506,0.0,United States,Austin,,0,2023-02-12,19.753593429158112,55-65,2003,,0.0,76506.0,16+,55+
+E02839,Everett Le,Manager,Accounting,Manufacturing,Male,Asian,55,2007-03-03,100051,0.07,China,Chengdu,,0,2023-02-12,15.94798083504449,55-65,2007,,7003.570000000001,107054.57,16+,55+
+E02840,Mia Vang,Vice President,Finance,Corporate,Female,Asian,38,2014-04-19,256509,0.39,China,Shanghai,2019-08-28,1,2019-08-28,5.3579739904175225,35-44,2014,2019.0,100038.51000000001,356547.51,6-10,35-44
+E02841,Zoey Mendoza,Operations Engineer,Engineering,Specialty Products,Female,Latino,30,2020-02-16,76904,0.0,Brazil,Rio de Janeiro,,0,2023-02-12,2.9897330595482545,25-34,2020,,0.0,76904.0,3-5,Under 35
+E02842,Parker Desai,Sr. Analyst,Sales,Research & Development,Male,Asian,43,2018-11-08,87914,0.0,China,Shanghai,,0,2023-02-12,4.262833675564682,35-44,2018,,0.0,87914.0,3-5,35-44
+E02843,Alexander Liang,Vice President,Finance,Manufacturing,Male,Asian,40,2010-03-05,235994,0.33,China,Beijing,,0,2023-02-12,12.941820670773442,35-44,2010,,77878.02,313872.02,11-15,35-44
+E02844,Adam Jordan,Automation Engineer,Engineering,Corporate,Male,Caucasian,55,2015-03-12,79620,0.0,United States,Chicago,,0,2023-02-12,7.923340177960301,55-65,2015,,0.0,79620.0,6-10,55+
+E02845,Leah Stewart,Cloud Infrastructure Architect,IT,Research & Development,Female,Caucasian,36,2010-06-04,62450,0.0,United States,Austin,,0,2023-02-12,12.692676249144421,35-44,2010,,0.0,62450.0,11-15,35-44
+E02846,Robert Santos,Sr. Manager,Human Resources,Research & Development,Male,Latino,47,2000-12-29,134612,0.12,United States,Austin,2015-10-26,1,2015-10-26,14.822724161533197,45-54,2000,2015.0,16153.439999999999,150765.44,11-15,45-54
+E02847,Addison Ma,Systems Analyst,IT,Research & Development,Female,Asian,59,2008-05-21,46151,0.0,United States,Phoenix,,0,2023-02-12,14.729637234770705,55-65,2008,,0.0,46151.0,11-15,55+
+E02848,Clara Collins,Network Engineer,IT,Manufacturing,Female,Caucasian,40,2008-03-03,63889,0.0,United States,Seattle,2022-10-17,1,2022-10-17,14.622861054072553,35-44,2008,2022.0,0.0,63889.0,11-15,35-44
+E02849,Stella Castro,Test Engineer,Engineering,Corporate,Female,Latino,53,2009-04-17,75060,0.0,United States,Columbus,,0,2023-02-12,13.82340862422998,45-54,2009,,0.0,75060.0,11-15,45-54
+E02850,Lucy Chin,Director,IT,Manufacturing,Female,Asian,50,2011-04-22,175033,0.2,China,Beijing,,0,2023-02-12,11.811088295687885,45-54,2011,,35006.6,210039.6,11-15,45-54
+E02851,Piper Evans,Computer Systems Manager,IT,Specialty Products,Female,Caucasian,52,2014-01-28,89379,0.1,United States,Seattle,2022-06-11,1,2022-06-11,8.366872005475702,45-54,2014,2022.0,8937.9,98316.9,6-10,45-54
+E02852,Cora Coleman,Controls Engineer,Engineering,Corporate,Female,Black,40,2011-04-09,98594,0.0,United States,Phoenix,,0,2023-02-12,11.846680355920602,35-44,2011,,0.0,98594.0,11-15,35-44
+E02853,Cora Holmes,Vice President,Marketing,Research & Development,Female,Caucasian,39,2021-10-05,224435,0.33,United States,Seattle,,0,2023-02-12,1.3552361396303902,35-44,2021,,74063.55,298498.55,0-2,35-44
+E02854,Leo Figueroa,Technical Architect,IT,Corporate,Male,Latino,31,2015-01-21,63644,0.0,Brazil,Manaus,,0,2023-02-12,8.060232717316905,25-34,2015,,0.0,63644.0,6-10,Under 35
+E02855,Allison Wang,Manager,Accounting,Manufacturing,Female,Asian,30,2018-12-16,121234,0.05,United States,Austin,,0,2023-02-12,4.158795345653662,25-34,2018,,6061.700000000001,127295.7,3-5,Under 35
+E02856,Levi Cruz,Sr. Analyst,Accounting,Research & Development,Male,Latino,47,2007-09-22,83793,0.0,United States,Miami,,0,2023-02-12,15.392197125256674,45-54,2007,,0.0,83793.0,16+,45-54
+E02857,Iris Phillips,Test Engineer,Engineering,Research & Development,Female,Caucasian,46,2019-11-28,99586,0.0,United States,Miami,,0,2023-02-12,3.2087611225188226,45-54,2019,,0.0,99586.0,3-5,45-54
+E02858,Madelyn Chavez,Business Partner,Human Resources,Corporate,Female,Latino,43,2006-09-11,59514,0.0,Brazil,Rio de Janeiro,,0,2023-02-12,16.421629021218344,35-44,2006,,0.0,59514.0,16+,35-44
+E02859,Caroline Smith,Manager,Marketing,Corporate,Female,Caucasian,28,2020-04-27,106043,0.1,United States,Columbus,,0,2023-02-12,2.7953456536618755,25-34,2020,,10604.300000000001,116647.3,3-5,Under 35
+E02860,Grayson Lai,Solutions Architect,IT,Specialty Products,Male,Asian,47,2005-09-12,78985,0.0,China,Beijing,,0,2023-02-12,17.418206707734427,45-54,2005,,0.0,78985.0,16+,45-54
+E02861,Anna Guerrero,Vice President,IT,Research & Development,Female,Latino,43,2012-11-24,226122,0.32,Brazil,Manaus,,0,2023-02-12,10.217659137577002,35-44,2012,,72359.04000000001,298481.04000000004,11-15,35-44
+E02862,Paisley Bell,Manager,Finance,Manufacturing,Female,Black,42,2012-01-10,110720,0.09,United States,Miami,,0,2023-02-12,11.091033538672143,35-44,2012,,9964.8,120684.8,11-15,35-44
+E02863,Jose Park,Director,IT,Research & Development,Male,Asian,45,2009-10-11,152519,0.3,China,Chongqing,,0,2023-02-12,13.338809034907598,45-54,2009,,45755.7,198274.7,11-15,45-54
+E02864,Eliza Parker,Development Engineer,Engineering,Corporate,Female,Caucasian,37,2010-03-24,80015,0.0,United States,Chicago,,0,2023-02-12,12.889801505817934,35-44,2010,,0.0,80015.0,11-15,35-44
+E02865,Harper Castillo,Vice President,IT,Corporate,Female,Latino,46,2020-09-02,192286,0.32,Brazil,Rio de Janeiro,2022-08-25,1,2022-08-25,1.9767282683093772,45-54,2020,2022.0,61531.520000000004,253817.52000000002,0-2,45-54
+E02866,Melody Yoon,Business Partner,Human Resources,Specialty Products,Female,Asian,49,2014-10-15,40352,0.0,China,Beijing,,0,2023-02-12,8.328542094455852,45-54,2014,,0.0,40352.0,6-10,45-54
+E02867,Avery Smith,Sr. Manager,Human Resources,Corporate,Female,Caucasian,53,2008-06-27,147813,0.13,United States,Chicago,,0,2023-02-12,14.628336755646817,45-54,2008,,19215.690000000002,167028.69,11-15,45-54
+E02868,Madeline Vu,System Administrator ,IT,Manufacturing,Female,Asian,61,2010-06-05,96404,0.0,China,Chengdu,,0,2023-02-12,12.68993839835729,55-65,2010,,0.0,96404.0,11-15,55+
+E02869,Aubrey Cheng,Analyst II,Accounting,Manufacturing,Female,Asian,46,2001-06-17,64882,0.0,United States,Chicago,,0,2023-02-12,21.65639972621492,45-54,2001,,0.0,64882.0,16+,45-54
+E02870,Clara Henderson,Vice President,Sales,Manufacturing,Female,Caucasian,58,2016-10-23,203739,0.3,United States,Miami,,0,2023-02-12,6.30527036276523,55-65,2016,,61121.7,264860.7,6-10,55+
+E02871,Jace Henderson,Director,Engineering,Research & Development,Male,Caucasian,34,2022-03-16,197849,0.19,United States,Phoenix,,0,2023-02-12,0.9117043121149897,25-34,2022,,37591.31,235440.31,0-2,Under 35
+E02872,Caroline Martin,Computer Systems Manager,IT,Manufacturing,Female,Black,54,2000-10-15,60116,0.05,United States,Chicago,,0,2023-02-12,22.327173169062284,45-54,2000,,3005.8,63121.8,16+,45-54
+E02873,Asher Bui,Sr. Account Representative,Sales,Specialty Products,Male,Asian,41,2009-01-27,90881,0.0,China,Shanghai,,0,2023-02-12,14.042436687200547,35-44,2009,,0.0,90881.0,11-15,35-44
+E02874,Samantha Chau,Network Architect,IT,Specialty Products,Female,Asian,28,2021-11-10,83965,0.0,China,Chengdu,,0,2023-02-12,1.2566735112936345,25-34,2021,,0.0,83965.0,0-2,Under 35
+E02875,Charles Robinson,Development Engineer,Engineering,Corporate,Male,Black,62,2006-06-30,73500,0.0,United States,Phoenix,,0,2023-02-12,16.621492128678987,55-65,2006,,0.0,73500.0,16+,55+
+E02876,Jonathan Nelson,Director,Human Resources,Manufacturing,Male,Caucasian,59,2022-07-02,175137,0.26,United States,Chicago,2023-01-04,1,2023-01-04,0.5092402464065708,55-65,2022,2023.0,45535.62,220672.62,0-2,55+
+E02877,Liliana Simmons,Director,Marketing,Manufacturing,Female,Caucasian,35,2012-06-07,161453,0.27,United States,Phoenix,,0,2023-02-12,10.683093771389458,35-44,2012,,43592.310000000005,205045.31,11-15,35-44
+E02878,Logan Ortega,Analyst II,Marketing,Manufacturing,Male,Latino,31,2020-05-19,64234,0.0,United States,Seattle,2021-11-11,1,2021-11-11,1.4811772758384667,25-34,2020,2021.0,0.0,64234.0,0-2,Under 35
+E02879,Isaac Jung,Manager,IT,Specialty Products,Male,Asian,55,1994-07-12,103726,0.08,China,Shanghai,,0,2023-02-12,28.588637919233403,55-65,1994,,8298.08,112024.08,16+,55+
+E02880,Christopher Desai,Automation Engineer,Engineering,Research & Development,Male,Asian,46,2000-12-29,114260,0.0,China,Chengdu,,0,2023-02-12,22.12183436002738,45-54,2000,,0.0,114260.0,16+,45-54
+E02881,Levi Gonzalez,Controls Engineer,Engineering,Corporate,Male,Latino,36,2012-04-27,116168,0.0,United States,Austin,,0,2023-02-12,10.795345653661876,35-44,2012,,0.0,116168.0,11-15,35-44
+E02882,Santiago f Wang,Sr. Manager,Sales,Research & Development,Male,Asian,27,2021-08-09,133267,0.12,United States,Phoenix,,0,2023-02-12,1.51129363449692,25-34,2021,,15992.039999999999,149259.04,0-2,Under 35
+E02883,Julia Kim,Account Representative,Sales,Specialty Products,Female,Asian,50,2016-12-04,50038,0.0,China,Chongqing,,0,2023-02-12,6.190280629705681,45-54,2016,,0.0,50038.0,6-10,45-54
+E02884,Noah Allen,Analyst,Accounting,Corporate,Male,Caucasian,27,2022-01-06,52058,0.0,United States,Columbus,,0,2023-02-12,1.1006160164271048,25-34,2022,,0.0,52058.0,0-2,Under 35
+E02885,Colton Adams,Manager,Marketing,Specialty Products,Male,Caucasian,25,2022-11-19,112646,0.08,United States,Columbus,,0,2023-02-12,0.2327173169062286,25-34,2022,,9011.68,121657.68,0-2,Under 35
+E02886,Colton Mehta,Analyst,Accounting,Manufacturing,Male,Asian,42,2014-12-07,53829,0.0,China,Beijing,,0,2023-02-12,8.183436002737851,35-44,2014,,0.0,53829.0,6-10,35-44
+E02887,Caroline Gomez,Sr. Account Representative,Sales,Specialty Products,Female,Latino,65,1997-11-19,90737,0.0,Brazil,Sao Paulo,,0,2023-02-12,25.232032854209447,55-65,1997,,0.0,90737.0,16+,55+
+E02888,Kayden Tang,Sr. Manager,Human Resources,Specialty Products,Male,Asian,57,2012-03-11,136723,0.11,United States,Austin,,0,2023-02-12,10.924024640657084,55-65,2012,,15039.53,151762.53,11-15,55+
+E02889,Hadley Parker,Manager,Accounting,Manufacturing,Female,Caucasian,44,2010-01-09,129099,0.06,United States,Austin,,0,2023-02-12,13.092402464065708,35-44,2010,,7745.94,136844.94,11-15,35-44
+E02890,Elizabeth Estrada,IT Coordinator,IT,Corporate,Female,Latino,37,2016-12-20,59376,0.0,United States,Miami,,0,2023-02-12,6.146475017111568,35-44,2016,,0.0,59376.0,6-10,35-44
+E02891,Sofia Yee,System Administrator ,IT,Research & Development,Female,Asian,52,2018-12-25,98060,0.0,United States,Miami,,0,2023-02-12,4.134154688569473,45-54,2018,,0.0,98060.0,3-5,45-54
+E02892,Asher Mendoza,Sr. Manager,Human Resources,Corporate,Male,Latino,49,2014-02-21,152911,0.1,Brazil,Rio de Janeiro,,0,2023-02-12,8.974674880219029,45-54,2014,,15291.1,168202.1,6-10,45-54
+E02893,Jordan Hernandez,Systems Analyst,IT,Research & Development,Male,Latino,47,2003-12-15,42994,0.0,Brazil,Sao Paulo,,0,2023-02-12,19.16221765913758,45-54,2003,,0.0,42994.0,16+,45-54
+E02894,Everleigh Tan,Analyst,Accounting,Manufacturing,Female,Asian,42,2019-03-28,59853,0.0,China,Chengdu,,0,2023-02-12,3.8795345653661877,35-44,2019,,0.0,59853.0,3-5,35-44
+E02895,Joshua Hall,Systems Analyst,IT,Manufacturing,Male,Black,61,2011-12-07,41220,0.0,United States,Chicago,,0,2023-02-12,11.184120465434633,55-65,2011,,0.0,41220.0,11-15,55+
+E02896,Stella Gupta,Sr. Analyst,Accounting,Corporate,Female,Asian,33,2020-02-18,97261,0.0,China,Beijing,,0,2023-02-12,2.9842573579739904,25-34,2020,,0.0,97261.0,3-5,Under 35
+E02897,Levi White,Manager,Human Resources,Manufacturing,Male,Black,45,2018-07-19,127363,0.09,United States,Columbus,,0,2023-02-12,4.569472963723477,45-54,2018,,11462.67,138825.67,3-5,45-54
+E02898,Matthew Jackson,Manager,Marketing,Specialty Products,Male,Caucasian,30,2019-10-13,111274,0.06,United States,Seattle,,0,2023-02-12,3.3347022587268995,25-34,2019,,6676.44,117950.44,3-5,Under 35
+E02899,Dominic Martinez,Computer Systems Manager,IT,Corporate,Male,Latino,53,2018-04-17,90554,0.07,Brazil,Rio de Janeiro,,0,2023-02-12,4.824093086926762,45-54,2018,,6338.780000000001,96892.78,3-5,45-54
+E02900,Aiden Aguilar,Manager,Finance,Research & Development,Male,Latino,62,1997-12-12,100226,0.1,United States,Seattle,,0,2023-02-12,25.169062286105408,55-65,1997,,10022.6,110248.6,16+,55+
+E02901,Victoria Hu,Field Engineer,Engineering,Manufacturing,Female,Asian,37,2017-04-21,93348,0.0,China,Chongqing,,0,2023-02-12,5.812457221081451,35-44,2017,,0.0,93348.0,6-10,35-44
+E02902,Eloise Campos,Network Engineer,IT,Research & Development,Female,Latino,62,1993-06-25,78059,0.0,United States,Phoenix,2008-07-29,1,2008-07-29,15.093771389459274,55-65,1993,2008.0,0.0,78059.0,16+,55+
+E02903,Emilia Alvarado,Business Partner,Human Resources,Research & Development,Female,Latino,63,2001-06-29,58480,0.0,Brazil,Manaus,,0,2023-02-12,21.623545516769337,55-65,2001,,0.0,58480.0,16+,55+
+E02904,Lydia Ahmed,Vice President,Finance,Corporate,Female,Asian,39,2017-04-24,218052,0.39,China,Chengdu,,0,2023-02-12,5.804243668720055,35-44,2017,,85040.28,303092.28,6-10,35-44
+E02905,Dylan Simmons,Manager,Accounting,Manufacturing,Male,Black,52,2002-05-23,129231,0.09,United States,Miami,,0,2023-02-12,20.725530458590008,45-54,2002,,11630.789999999999,140861.79,16+,45-54
+E02906,Jaxson Chu,Director,Marketing,Specialty Products,Male,Asian,54,2010-10-10,161878,0.22,China,Chongqing,,0,2023-02-12,12.342231348391513,45-54,2010,,35613.16,197491.16,11-15,45-54
+E02907,Ariana Griffin,Vice President,Marketing,Corporate,Female,Caucasian,32,2015-03-04,241722,0.38,United States,Chicago,,0,2023-02-12,7.945242984257358,25-34,2015,,91854.36,333576.36,6-10,Under 35
+E02908,Hudson Bailey,Solutions Architect,IT,Corporate,Male,Caucasian,56,2018-03-12,91835,0.0,United States,Seattle,,0,2023-02-12,4.922655715263518,55-65,2018,,0.0,91835.0,3-5,55+
+E02909,Colton Grant,Sr. Analyst,Sales,Manufacturing,Male,Caucasian,47,2011-01-07,93910,0.0,United States,Miami,2017-05-31,1,2017-05-31,6.395619438740589,45-54,2011,2017.0,0.0,93910.0,6-10,45-54
+E02910,Emery Flores,Sr. Analyst,Sales,Research & Development,Female,Latino,45,2005-11-18,86303,0.0,United States,Phoenix,,0,2023-02-12,17.234770704996578,45-54,2005,,0.0,86303.0,16+,45-54
+E02911,Gabriella Wong,Sr. Manager,Finance,Corporate,Female,Asian,56,1995-05-01,122731,0.13,United States,Seattle,,0,2023-02-12,27.786447638603697,55-65,1995,,15955.03,138686.03,16+,55+
+E02912,Ian Gonzales,Sr. Manager,Finance,Corporate,Male,Latino,38,2018-12-29,147867,0.12,United States,Miami,,0,2023-02-12,4.123203285420945,35-44,2018,,17744.04,165611.04,3-5,35-44
+E02913,Jaxon Wright,Manager,Human Resources,Research & Development,Male,Caucasian,47,2004-08-30,123790,0.05,United States,Austin,,0,2023-02-12,18.45311430527036,45-54,2004,,6189.5,129979.5,16+,45-54
+E02914,Ethan Cruz,Sr. Business Partner,Human Resources,Specialty Products,Male,Latino,51,2000-04-28,77153,0.0,United States,Miami,,0,2023-02-12,22.792607802874745,45-54,2000,,0.0,77153.0,16+,45-54
+E02915,Adrian James,Enterprise Architect,IT,Research & Development,Male,Caucasian,52,1994-08-15,73779,0.0,United States,Chicago,,0,2023-02-12,28.49555099247091,45-54,1994,,0.0,73779.0,16+,45-54
+E02916,Isabella Mejia,Vice President,Accounting,Corporate,Female,Latino,56,2018-10-07,231699,0.32,Brazil,Manaus,,0,2023-02-12,4.350444900752909,55-65,2018,,74143.68000000001,305842.68,3-5,55+
+E02917,Christopher Miller,Vice President,Finance,Corporate,Male,Black,37,2009-05-16,199512,0.35,United States,Austin,,0,2023-02-12,13.744010951403148,35-44,2009,,69829.2,269341.2,11-15,35-44
+E02918,Samuel Watson,Network Architect,IT,Corporate,Male,Caucasian,29,2022-04-09,77557,0.0,United States,Miami,2022-09-12,1,2022-09-12,0.4271047227926078,25-34,2022,2022.0,0.0,77557.0,0-2,Under 35
+E02919,Lucy Phan,Sr. Analyst,Sales,Research & Development,Female,Asian,59,2021-02-18,99760,0.0,China,Chongqing,,0,2023-02-12,1.9822039698836413,55-65,2021,,0.0,99760.0,0-2,55+
+E02920,Dominic Thao,Sr. Analyst,Marketing,Specialty Products,Male,Asian,50,1996-09-08,96297,0.0,United States,Miami,,0,2023-02-12,26.428473648186174,45-54,1996,,0.0,96297.0,16+,45-54
+E02921,Jaxon Shin,IT Coordinator,IT,Specialty Products,Male,Asian,48,2010-12-27,53593,0.0,China,Chengdu,,0,2023-02-12,12.128678986995208,45-54,2010,,0.0,53593.0,11-15,45-54
+E02922,Nevaeh Diaz,Director,Marketing,Manufacturing,Female,Latino,44,2018-03-03,167660,0.29,Brazil,Sao Paulo,,0,2023-02-12,4.947296372347707,35-44,2018,,48621.399999999994,216281.4,3-5,35-44
+E02923,Isaac Jenkins,Analyst,Sales,Specialty Products,Male,Caucasian,29,2021-07-18,43084,0.0,United States,Seattle,,0,2023-02-12,1.571526351813826,25-34,2021,,0.0,43084.0,0-2,Under 35
+E02924,Jace Barnes,Sr. Manager,IT,Manufacturing,Male,Caucasian,60,1996-07-09,154707,0.13,United States,Austin,,0,2023-02-12,26.595482546201232,55-65,1996,,20111.91,174818.91,16+,55+
+E02925,Carson Liu,Vice President,IT,Research & Development,Male,Asian,56,2011-03-11,184780,0.38,United States,Austin,,0,2023-02-12,11.926078028747433,55-65,2011,,70216.4,254996.4,11-15,55+
+E02926,Sofia Gutierrez,Manager,Marketing,Manufacturing,Female,Latino,31,2015-10-19,109925,0.07,Brazil,Manaus,,0,2023-02-12,7.318275154004107,25-34,2015,,7694.750000000001,117619.75,6-10,Under 35
+E02927,Jeremiah Chang,Sr. Manager,Finance,Corporate,Male,Asian,53,2015-03-09,151706,0.11,China,Chengdu,,0,2023-02-12,7.931553730321697,45-54,2015,,16687.66,168393.66,6-10,45-54
+E02928,Connor Ruiz,Manager,Accounting,Manufacturing,Male,Latino,26,2022-12-19,102066,0.1,United States,Austin,,0,2023-02-12,0.15058179329226556,25-34,2022,,10206.6,112272.6,0-2,Under 35
+E02929,Easton Truong,Vice President,Marketing,Research & Development,Male,Asian,31,2021-05-13,234203,0.36,United States,Seattle,,0,2023-02-12,1.7522245037645447,25-34,2021,,84313.08,318516.08,0-2,Under 35
+E02930,Sebastian Vargas,Sr. Manager,Marketing,Corporate,Male,Latino,48,2019-07-12,121884,0.12,United States,Austin,,0,2023-02-12,3.589322381930185,45-54,2019,,14626.08,136510.08,3-5,45-54
+E02931,Joseph Dang,Vice President,Marketing,Research & Development,Male,Asian,61,2014-04-20,209680,0.34,China,Shanghai,,0,2023-02-12,8.815879534565367,55-65,2014,,71291.20000000001,280971.2,6-10,55+
+E02932,Madison White,Vice President,IT,Research & Development,Female,Caucasian,42,2011-07-09,240940,0.34,United States,Phoenix,2016-05-03,1,2016-05-03,4.818617385352498,35-44,2011,2016.0,81919.6,322859.6,3-5,35-44
+E02933,Valentina Nelson,Network Administrator,IT,Manufacturing,Female,Caucasian,50,2013-12-16,63884,0.0,United States,Miami,,0,2023-02-12,9.158110882956878,45-54,2013,,0.0,63884.0,6-10,45-54
+E02934,Everleigh Coleman,Cloud Infrastructure Architect,IT,Specialty Products,Female,Caucasian,46,2012-03-20,74026,0.0,United States,Phoenix,,0,2023-02-12,10.899383983572895,45-54,2012,,0.0,74026.0,11-15,45-54
+E02935,Everleigh Castillo,Service Desk Analyst,IT,Specialty Products,Female,Latino,50,2007-11-12,67756,0.0,United States,Chicago,,0,2023-02-12,15.252566735112936,45-54,2007,,0.0,67756.0,16+,45-54
+E02936,Valentina Fernandez,Director,Sales,Corporate,Female,Latino,62,2012-01-23,180256,0.2,United States,Phoenix,,0,2023-02-12,11.055441478439425,55-65,2012,,36051.200000000004,216307.2,11-15,55+
+E02937,Serenity Richardson,Director,Engineering,Specialty Products,Female,Caucasian,45,2019-03-14,183165,0.18,United States,Miami,,0,2023-02-12,3.917864476386037,45-54,2019,,32969.7,216134.7,3-5,45-54
+E02938,Cooper Ramirez,Director,Accounting,Specialty Products,Male,Latino,34,2012-02-07,195194,0.23,United States,Chicago,,0,2023-02-12,11.014373716632443,25-34,2012,,44894.62,240088.62,11-15,Under 35
+E02939,Penelope Avila,Analyst,Marketing,Corporate,Female,Latino,35,2012-05-22,46569,0.0,United States,Austin,,0,2023-02-12,10.726899383983573,35-44,2012,,0.0,46569.0,11-15,35-44
+E02940,David Barnes,IT Systems Architect,IT,Corporate,Male,Caucasian,41,2006-08-19,70566,0.0,United States,Miami,,0,2023-02-12,16.484599589322382,35-44,2006,,0.0,70566.0,16+,35-44
+E02941,Ivy Luong,Cloud Infrastructure Architect,IT,Corporate,Female,Asian,56,1993-07-05,75435,0.0,United States,Austin,,0,2023-02-12,29.607118412046542,55-65,1993,,0.0,75435.0,16+,55+
+E02942,Aurora Bailey,Development Engineer,Engineering,Research & Development,Female,Caucasian,31,2020-05-23,69108,0.0,United States,Miami,,0,2023-02-12,2.724161533196441,25-34,2020,,0.0,69108.0,3-5,Under 35
+E02943,Valentina Valdez,Sr. Manager,Finance,Research & Development,Female,Latino,40,2008-05-01,140589,0.14,Brazil,Manaus,,0,2023-02-12,14.784394250513348,35-44,2008,,19682.460000000003,160271.46,11-15,35-44
+E02944,Parker Dinh,Vice President,Accounting,Specialty Products,Male,Asian,51,2006-06-28,206423,0.36,China,Beijing,,0,2023-02-12,16.62696783025325,45-54,2006,,74312.28,280735.28,16+,45-54
+E02945,Eliana Hsu,Operations Engineer,Engineering,Specialty Products,Female,Asian,49,2021-06-09,123738,0.0,United States,Phoenix,,0,2023-02-12,1.678302532511978,45-54,2021,,0.0,123738.0,0-2,45-54
+E02946,Logan Parker,HRIS Analyst,Human Resources,Research & Development,Male,Caucasian,34,2019-01-13,58120,0.0,United States,Austin,,0,2023-02-12,4.082135523613963,25-34,2019,,0.0,58120.0,3-5,Under 35
+E02947,Liliana Green,Network Administrator,IT,Corporate,Female,Caucasian,48,2000-05-19,62672,0.0,United States,Chicago,,0,2023-02-12,22.73511293634497,45-54,2000,,0.0,62672.0,16+,45-54
+E02948,Victoria Vazquez,Test Engineer,Engineering,Research & Development,Female,Latino,45,2007-05-08,92037,0.0,United States,Phoenix,,0,2023-02-12,15.767282683093772,45-54,2007,,0.0,92037.0,16+,45-54
+E02949,Kinsley Huynh,Vice President,Human Resources,Specialty Products,Female,Asian,53,2009-04-22,258722,0.36,United States,Phoenix,,0,2023-02-12,13.809719370294319,45-54,2009,,93139.92,351861.92,11-15,45-54
+E02950,Anna Carrillo,Development Engineer,Engineering,Corporate,Female,Latino,55,2003-02-21,64809,0.0,Brazil,Rio de Janeiro,2016-08-22,1,2016-08-22,13.500342231348391,55-65,2003,2016.0,0.0,64809.0,11-15,55+
+E02951,Isla Singh,Quality Engineer,Engineering,Corporate,Female,Asian,56,2022-01-01,95577,0.0,China,Shanghai,,0,2023-02-12,1.1143052703627652,55-65,2022,,0.0,95577.0,0-2,55+
+E02952,Emma Yu,Development Engineer,Engineering,Research & Development,Female,Asian,41,2005-08-13,73059,0.0,China,Shanghai,,0,2023-02-12,17.50034223134839,35-44,2005,,0.0,73059.0,16+,35-44
+E02953,Jonathan Dominguez,Analyst,Sales,Specialty Products,Male,Latino,55,2002-07-14,54641,0.0,Brazil,Sao Paulo,,0,2023-02-12,20.583162217659137,55-65,2002,,0.0,54641.0,16+,55+
+E02954,Caleb Mehta,Quality Engineer,Engineering,Specialty Products,Male,Asian,42,2015-05-14,93851,0.0,United States,Miami,,0,2023-02-12,7.750855578370979,35-44,2015,,0.0,93851.0,6-10,35-44
+E02955,Connor Simmons,Sr. Analyst,Sales,Research & Development,Male,Black,30,2022-01-17,96010,0.0,United States,Chicago,,0,2023-02-12,1.0704996577686516,25-34,2022,,0.0,96010.0,0-2,Under 35
+E02956,Jaxon Lai,Network Administrator,IT,Research & Development,Male,Asian,44,2004-03-08,73386,0.0,China,Chongqing,,0,2023-02-12,18.93223819301848,35-44,2004,,0.0,73386.0,16+,35-44
+E02957,Madelyn Yee,Sr. Analyst,Accounting,Research & Development,Female,Asian,49,1999-10-15,95033,0.0,United States,Austin,2018-02-28,1,2018-02-28,18.373716632443532,45-54,1999,2018.0,0.0,95033.0,16+,45-54
+E02958,Elena Jimenez,Vice President,Engineering,Specialty Products,Female,Latino,43,2011-11-11,185211,0.39,Brazil,Sao Paulo,,0,2023-02-12,11.255304585900069,35-44,2011,,72232.29000000001,257443.29,11-15,35-44
+E02959,Sadie Ali,Manager,Marketing,Specialty Products,Female,Asian,53,2014-04-05,125099,0.08,China,Chengdu,,0,2023-02-12,8.856947296372347,45-54,2014,,10007.92,135106.92,6-10,45-54
+E02960,Lucas Sandoval,Sr. Analyst,Sales,Manufacturing,Male,Latino,41,2011-05-19,84627,0.0,Brazil,Manaus,,0,2023-02-12,11.737166324435318,35-44,2011,,0.0,84627.0,11-15,35-44
+E02961,Brooks Ngo,Vice President,Engineering,Corporate,Male,Asian,26,2020-03-02,211114,0.3,United States,Miami,,0,2023-02-12,2.948665297741273,25-34,2020,,63334.2,274448.2,3-5,Under 35
+E02962,Piper Oh,Sr. Analyst,Marketing,Research & Development,Female,Asian,57,1996-01-23,73117,0.0,United States,Columbus,,0,2023-02-12,27.055441478439427,55-65,1996,,0.0,73117.0,16+,55+
+E02963,Hunter Molina,Analyst,Marketing,Specialty Products,Male,Latino,41,2018-02-20,55330,0.0,United States,Austin,,0,2023-02-12,4.97741273100616,35-44,2018,,0.0,55330.0,3-5,35-44
+E02964,Michael Hoang,Director,IT,Specialty Products,Male,Asian,59,2017-05-04,190570,0.17,China,Beijing,,0,2023-02-12,5.776865160848733,55-65,2017,,32396.9,222966.9,6-10,55+
+E02965,Eloise Sun,Director,IT,Specialty Products,Female,Asian,59,2005-06-01,198745,0.25,United States,Phoenix,,0,2023-02-12,17.700205338809035,55-65,2005,,49686.25,248431.25,16+,55+
+E02966,Gianna Jimenez,Business Partner,Human Resources,Manufacturing,Female,Latino,54,2015-11-26,52901,0.0,Brazil,Sao Paulo,,0,2023-02-12,7.214236824093087,45-54,2015,,0.0,52901.0,6-10,45-54
+E02967,Ava Chan,Sr. Manager,Human Resources,Corporate,Female,Asian,44,2022-10-12,137426,0.14,China,Chongqing,,0,2023-02-12,0.33675564681724846,35-44,2022,,19239.640000000003,156665.64,0-2,35-44
+E02968,Leilani Navarro,Manager,Marketing,Specialty Products,Female,Latino,55,2022-07-08,117912,0.05,Brazil,Rio de Janeiro,,0,2023-02-12,0.5995893223819302,55-65,2022,,5895.6,123807.6,0-2,55+
+E02969,Lydia Chu,Director,IT,Research & Development,Female,Asian,30,2021-10-03,154475,0.15,China,Chongqing,,0,2023-02-12,1.3607118412046544,25-34,2021,,23171.25,177646.25,0-2,Under 35
+E02970,Liam Salazar,Account Representative,Sales,Specialty Products,Male,Latino,44,2020-10-25,62184,0.0,Brazil,Sao Paulo,,0,2023-02-12,2.299794661190965,35-44,2020,,0.0,62184.0,3-5,35-44
+E02971,Hailey Henderson,Analyst,Marketing,Specialty Products,Female,Caucasian,57,2008-08-13,51415,0.0,United States,Columbus,,0,2023-02-12,14.499657768651609,55-65,2008,,0.0,51415.0,11-15,55+
+E02972,Austin Espinoza,Operations Engineer,Engineering,Corporate,Male,Latino,58,2006-03-17,77441,0.0,United States,Seattle,,0,2023-02-12,16.908966461327857,55-65,2006,,0.0,77441.0,16+,55+
+E02973,Delilah Ng,Operations Engineer,Engineering,Manufacturing,Female,Asian,59,2008-08-20,98794,0.0,United States,Chicago,,0,2023-02-12,14.480492813141684,55-65,2008,,0.0,98794.0,11-15,55+
+E02974,Gabriella Han,System Administrator ,IT,Manufacturing,Female,Asian,60,2000-01-22,77843,0.0,United States,Columbus,,0,2023-02-12,23.058179329226558,55-65,2000,,0.0,77843.0,16+,55+
+E02975,Aria Miller,Network Administrator,IT,Research & Development,Female,Black,32,2019-06-07,65666,0.0,United States,Columbus,,0,2023-02-12,3.685147159479808,25-34,2019,,0.0,65666.0,3-5,Under 35
+E02976,Sofia Dixon,Automation Engineer,Engineering,Manufacturing,Female,Caucasian,41,2011-09-13,95598,0.0,United States,Columbus,,0,2023-02-12,11.416837782340862,35-44,2011,,0.0,95598.0,11-15,35-44
+E02977,Ethan Xiong,Network Engineer,IT,Specialty Products,Male,Asian,39,2012-05-05,91144,0.0,United States,Columbus,,0,2023-02-12,10.77344284736482,35-44,2012,,0.0,91144.0,11-15,35-44
+E02978,Gabriella Cruz,Sr. Analyst,Marketing,Specialty Products,Female,Latino,39,2020-08-13,76759,0.0,United States,Miami,,0,2023-02-12,2.4996577686516086,35-44,2020,,0.0,76759.0,3-5,35-44
+E02979,Christopher Kang,Engineering Manager,Engineering,Research & Development,Male,Asian,31,2016-09-07,118644,0.13,United States,Phoenix,,0,2023-02-12,6.431211498973306,25-34,2016,,15423.720000000001,134067.72,6-10,Under 35
+E02980,Ariana Pham,Sr. Analyst,Sales,Research & Development,Female,Asian,32,2015-10-17,79773,0.0,China,Beijing,,0,2023-02-12,7.323750855578371,25-34,2015,,0.0,79773.0,6-10,Under 35
+E02981,Colton Bui,Sr. Manager,Accounting,Research & Development,Male,Asian,46,2018-12-20,128845,0.13,China,Shanghai,,0,2023-02-12,4.147843942505133,45-54,2018,,16749.850000000002,145594.85,3-5,45-54
+E02982,Caroline Cortez,Manager,IT,Specialty Products,Female,Latino,64,2014-10-04,120704,0.08,United States,Miami,,0,2023-02-12,8.358658453114305,55-65,2014,,9656.32,130360.32,6-10,55+
+E02983,Nora Richardson,Director,Human Resources,Specialty Products,Female,Caucasian,53,1999-01-08,173624,0.17,United States,Miami,,0,2023-02-12,24.095824777549623,45-54,1999,,29516.08,203140.08000000002,16+,45-54
+E02984,Alexander Sanchez,Sr. Analyst,Sales,Manufacturing,Male,Latino,34,2018-11-06,80772,0.0,United States,Miami,,0,2023-02-12,4.268309377138946,25-34,2018,,0.0,80772.0,3-5,Under 35
+E02985,Logan Rahman,Manager,Human Resources,Specialty Products,Male,Asian,39,2008-07-27,126350,0.05,United States,Austin,,0,2023-02-12,14.546201232032855,35-44,2008,,6317.5,132667.5,11-15,35-44
+E02986,Henry Rogers,Sr. Account Representative,Sales,Corporate,Male,Caucasian,25,2021-05-05,72693,0.0,United States,Seattle,,0,2023-02-12,1.7741273100616017,25-34,2021,,0.0,72693.0,0-2,Under 35
+E02987,Delilah Cheng,Solutions Architect,IT,Specialty Products,Female,Asian,45,2015-03-15,92820,0.0,China,Chongqing,,0,2023-02-12,7.915126625598905,45-54,2015,,0.0,92820.0,6-10,45-54
+E02988,Caroline Rodriguez,Sr. Manager,Finance,Corporate,Female,Latino,61,1997-04-17,135561,0.13,Brazil,Manaus,,0,2023-02-12,25.82340862422998,55-65,1997,,17622.93,153183.93,16+,55+
+E02989,Jack Chin,Sr. Manager,Accounting,Corporate,Male,Asian,44,2007-08-24,121788,0.13,United States,Phoenix,,0,2023-02-12,15.471594798083505,35-44,2007,,15832.44,137620.44,16+,35-44
+E02990,Luna Collins,Cloud Infrastructure Architect,IT,Manufacturing,Female,Black,59,1993-11-19,92216,0.0,United States,Chicago,,0,2023-02-12,29.232032854209447,55-65,1993,,0.0,92216.0,16+,55+
+E02991,John Campos,Operations Engineer,Engineering,Manufacturing,Male,Latino,34,2021-02-25,104586,0.0,Brazil,Sao Paulo,,0,2023-02-12,1.9630390143737166,25-34,2021,,0.0,104586.0,0-2,Under 35
+E02992,Charlotte Banks,Account Representative,Sales,Corporate,Female,Black,45,2002-12-23,70439,0.0,United States,Phoenix,,0,2023-02-12,20.139630390143736,45-54,2002,,0.0,70439.0,16+,45-54
+E02993,Miles Liu,Analyst,Sales,Research & Development,Male,Asian,35,2021-05-25,52232,0.0,United States,Columbus,,0,2023-02-12,1.7193702943189597,35-44,2021,,0.0,52232.0,0-2,35-44
+E02994,Violet Duong,Vice President,Marketing,Specialty Products,Female,Asian,42,2014-09-22,226646,0.31,United States,Austin,,0,2023-02-12,8.39151266255989,35-44,2014,,70260.26,296906.26,6-10,35-44
+E02995,Isaac Xiong,Sr. Manager,Finance,Specialty Products,Male,Asian,38,2012-10-28,152253,0.12,United States,Seattle,,0,2023-02-12,10.291581108829568,35-44,2012,,18270.36,170523.36,11-15,35-44
+E02996,Ian Le,Vice President,Engineering,Specialty Products,Male,Asian,46,2007-08-28,195471,0.36,United States,Phoenix,,0,2023-02-12,15.460643394934976,45-54,2007,,70369.56,265840.56,16+,45-54
+E02997,Melody Delgado,Network Architect,IT,Specialty Products,Female,Latino,48,2012-11-28,71632,0.0,Brazil,Rio de Janeiro,,0,2023-02-12,10.206707734428473,45-54,2012,,0.0,71632.0,11-15,45-54
+E02998,Eliza Bui,Analyst,Finance,Corporate,Female,Asian,63,2010-06-13,45337,0.0,United States,Seattle,,0,2023-02-12,12.668035592060233,55-65,2010,,0.0,45337.0,11-15,55+
+E02999,Layla Wu,Sr. Account Representative,Sales,Research & Development,Female,Asian,31,2018-08-27,89573,0.0,United States,Miami,,0,2023-02-12,4.462696783025325,25-34,2018,,0.0,89573.0,3-5,Under 35
+E03000,Thomas Lam,Controls Engineer,Engineering,Manufacturing,Male,Asian,52,2022-11-18,75775,0.0,United States,Seattle,,0,2023-02-12,0.23545516769336072,45-54,2022,,0.0,75775.0,0-2,45-54
+E03001,Willow Taylor,Account Representative,Sales,Corporate,Female,Black,27,2021-02-08,51321,0.0,United States,Seattle,,0,2023-02-12,2.0095824777549622,25-34,2021,,0.0,51321.0,3-5,Under 35
