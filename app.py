@@ -2,10 +2,73 @@ import streamlit as st
 import pandas as pd
 
 st.set_page_config(
-    page_title="NovaTech HR Analytics Dashboard",
+    page_title="NovaTech HR Analytics",
     page_icon="📊",
-    layout="wide"
+    layout="wide",
+    initial_sidebar_state="expanded"
 )
+
+st.markdown("""
+<style>
+.main {
+    padding-top: 1rem;
+}
+
+.dashboard-title {
+    font-size: 2.4rem;
+    font-weight: 700;
+    margin-bottom: 0.2rem;
+}
+
+.dashboard-subtitle {
+    font-size: 1.05rem;
+    color: #5f6b7a;
+    margin-bottom: 1.5rem;
+}
+
+div[data-testid="stMetric"] {
+    background-color: #f8fafc;
+    border: 1px solid #e2e8f0;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+div[data-testid="stMetric"] label {
+    color: #475569 !important;
+}
+
+div[data-testid="stMetricValue"] {
+    color: #0f172a !important;
+}
+
+div[data-testid="stMetricDelta"] {
+    color: #475569 !important;
+}
+
+section[data-testid="stSidebar"] {
+    border-right: 1px solid #e2e8f0;
+}
+</style>
+""", unsafe_allow_html=True)
+
+st.markdown(
+    '<div class="dashboard-title">NovaTech Industries</div>',
+    unsafe_allow_html=True
+)
+
+st.markdown(
+    '<div class="dashboard-subtitle">'
+    'HR Analytics & Workforce Intelligence Dashboard'
+    '</div>',
+    unsafe_allow_html=True
+)
+
+st.caption(
+    "Workforce, turnover, compensation and succession insights "
+    "across the United States, China and Brazil."
+)
+
+st.divider()
 
 st.title("NovaTech Industries — HR Analytics Dashboard")
 
@@ -29,7 +92,11 @@ df["Tenure Group"] = pd.cut(
     include_lowest=True
 )
 
-st.sidebar.header("Filters")
+st.sidebar.title("Dashboard Filters")
+
+st.sidebar.caption(
+    "Use the filters below to explore workforce metrics."
+)
 country = st.sidebar.selectbox(
     "Select Country",
     ["All"] + sorted(df["Country"].unique().tolist())
@@ -53,6 +120,12 @@ if department != "All":
 if gender != "All":
     filtered_df = filtered_df[filtered_df["Gender"] == gender]
 
+    st.sidebar.divider()
+
+st.sidebar.caption(
+    "NovaTech Industries • HR Analytics"
+)
+
 # st.write("Bonus values:")
 # st.write(filtered_df["Bonus %"].head())
 
@@ -67,322 +140,750 @@ if gender != "All":
 # st.bar_chart(bonus_by_department)
 
 # st.write(df)
-st.dataframe(filtered_df)
-st.download_button(
-    label="Download Filtered Employee Data",
-    data=filtered_df.to_csv(index=False).encode("utf-8"),
-    file_name="novatech_filtered_hr_data.csv",
-    mime="text/csv"
-)
+with st.expander("📋 View Filtered Employee Data"):
+
+    st.dataframe(
+        filtered_df,
+        use_container_width=True,
+        hide_index=True
+    )
+
+    st.download_button(
+        label="⬇️ Download Filtered Employee Data",
+        data=filtered_df.to_csv(index=False).encode("utf-8"),
+        file_name="novatech_filtered_hr_data.csv",
+        mime="text/csv"
+    )
 
 turnover_rate = filtered_df["Turnover"].mean() * 100
 average_salary = filtered_df["Annual Salary"].mean()
 average_age = filtered_df["Age"].mean()
 average_tenure = filtered_df["Tenure Years"].mean()
-
-st.subheader("Key HR Metrics")
-
-col1, col2, col3, col4, col5 = st.columns(5)
-
-col1.metric("Employees", f"{len(filtered_df):,}")
-col2.metric("Turnover Rate", f"{turnover_rate:.1f}%")
-col3.metric("Average Salary", f"${average_salary:,.0f}")
-col4.metric("Average Age", f"{average_age:.1f}")
-col5.metric("Average Tenure", f"{average_tenure:.1f} years")
-
-department_counts = df["Department"].value_counts()
-
-st.subheader("Employees by Department")
-st.bar_chart(department_counts)
-
-st.subheader("Turnover Analysis")
-turnover_by_department = (
-    filtered_df.groupby("Department")["Turnover"]
-    .mean()
-    .mul(100)
-    .sort_values(ascending=False)
-)
-st.bar_chart(turnover_by_department)
-
-turnover_by_gender = (
-    filtered_df.groupby("Gender")["Turnover"]
-    .mean()
-    .mul(100)
-    .sort_values(ascending=False)
-)
-
-st.subheader("Turnover by Gender")
-st.bar_chart(turnover_by_gender)
-
-turnover_by_country = (
-    filtered_df.groupby("Country")["Turnover"]
-    .mean()
-    .mul(100)
-    .sort_values(ascending=False)
-)
-
-st.subheader("Turnover by Country")
-st.bar_chart(turnover_by_country)
-
-turnover_by_tenure = (
-    filtered_df.groupby("Tenure Group", observed=True)["Turnover"] 
-    .mean()
-    .mul(100)
-)
-
-st.subheader("Turnover by Tenure Group")
-st.bar_chart(turnover_by_tenure)
-
-hiring = filtered_df.groupby("Hire Year").size()
-
-exits = (
-    filtered_df.dropna(subset=["Exit Year"])
-    .groupby("Exit Year")
-    .size()
-)
-
-hiring_vs_exit = pd.concat(
-    [hiring, exits],
-    axis=1
-).fillna(0)
-
-hiring_vs_exit.columns = ["Hires", "Exits"]
-hiring_vs_exit.index = hiring_vs_exit.index.astype(int)
-st.subheader("Hiring vs Exit Trends")
-
-st.line_chart(hiring_vs_exit)
-
-hiring_vs_exit["Net Change"] = (
-    hiring_vs_exit["Hires"] - hiring_vs_exit["Exits"]
-)
-
-
-st.subheader("Annual Net Workforce Change")
-
-st.line_chart(hiring_vs_exit["Net Change"])
-
-st.subheader("Compensation & Pay Equity")
-
-salary_by_department = (
-    filtered_df.groupby("Department")["Annual Salary"]
-    .mean()
-    .sort_values(ascending=False)
-)
-
-st.bar_chart(salary_by_department)
-# st.write("TEST: Compensation section reached")
-
-salary_by_gender = (
-    filtered_df.groupby("Gender")["Annual Salary"]
-    .mean()
-    .sort_values(ascending=False)
-)
-
-st.subheader("Average Salary by Gender")
-st.bar_chart(salary_by_gender)
-
-salary_by_country = (
-    filtered_df.groupby("Country")["Annual Salary"]
-    .mean()
-    .sort_values(ascending=False)
-)
-
-st.subheader("Average Salary by Country")
-st.bar_chart(salary_by_country)
-
-bonus_by_department = (
-    filtered_df.groupby("Department")["Bonus %"]
-    .mean()
-    .mul(100)
-    .sort_values(ascending=False)
-)
-
-st.subheader("Average Bonus % by Department")
-st.bar_chart(bonus_by_department)
-
-bonus_by_gender = (
-    filtered_df.groupby("Gender")["Bonus %"]
-    .mean()
-    .mul(100)
-    .sort_values(ascending=False)
-)
-
-st.subheader("Average Bonus % by Gender")
-st.bar_chart(bonus_by_gender)
-
-bonus_by_country = (
-    filtered_df.groupby("Country")["Bonus %"]
-    .mean()
-    .mul(100)
-    .sort_values(ascending=False)
-)
-
-st.subheader("Average Bonus % by Country")
-st.bar_chart(bonus_by_country)
-
-st.subheader("Workforce Aging & Succession Planning")
-
-age_group_counts = (
-    filtered_df["Age Group"]
-    .value_counts()
-    .sort_index()
-)
-
-st.subheader("Employees by Age Group")
-st.bar_chart(age_group_counts)
-
-employees_55_plus = (
-    filtered_df[filtered_df["Age"] >= 55]
-    .groupby("Department")
-    .size()
-    .sort_values(ascending=False)
-)
-
-st.subheader("Employees Aged 55+ by Department")
-st.bar_chart(employees_55_plus)
-
-age_55_pct = (
-    filtered_df.groupby("Department")["Age"]
-    .apply(lambda x: (x >= 55).mean() * 100)
-    .sort_values(ascending=False)
-)
-
-st.subheader("Percentage of Employees Aged 55+ by Department")
-st.bar_chart(age_55_pct)
-
-# Senior and experienced employees by department
-senior_experienced = (
-    filtered_df[
-        (filtered_df["Age"] >= 45) &
-        (filtered_df["Tenure Years"] >= 11)
-    ]
-    .groupby("Department")
-    .size()
-    .sort_values(ascending=False)
-)
-
-st.subheader("Employees Aged 45+ with 11+ Years of Tenure")
-st.bar_chart(senior_experienced)
-
-
-# Average age by department
-average_age_by_department = (
-    filtered_df.groupby("Department")["Age"]
-    .mean()
-    .sort_values(ascending=False)
-)
-
-st.subheader("Average Age by Department")
-st.bar_chart(average_age_by_department)
-
-
-# Average age by country
-average_age_by_country = (
-    filtered_df.groupby("Country")["Age"]
-    .mean()
-    .sort_values(ascending=False)
-)
-
-st.subheader("Average Age by Country")
-st.bar_chart(average_age_by_country)
-
-st.subheader("Salary ANOVA Results — Full Dataset")
+st.header("Executive Overview")
 
 st.caption(
-    "These ANOVA results are calculated using the complete 1,000-employee "
-    "dataset and do not change with the dashboard filters."
+    "High-level workforce indicators based on the selected filters."
 )
+# =========================================================
+# DASHBOARD TABS
+# =========================================================
 
-anova_results = pd.DataFrame({
-    "Grouping Variable": [
-        "Department",
-        "Gender",
-        "Country"
-    ],
-    "F-statistic": [
-        11.1188,
-        4.7685,
-        0.2829
-    ],
-    "p-value": [
-        0.00000000002065,
-        0.0292,
-        0.7536
-    ],
-    "Significant": [
-        "Yes",
-        "Yes",
-        "No"
+tab1, tab2, tab3, tab4, tab5, tab6, tab7 = st.tabs([
+    "📊 Overview",
+    "👥 Turnover",
+    "📈 Workforce Trends",
+    "💰 Compensation",
+    "👴 Workforce Aging",
+    "🔬 Statistical Analysis",
+    "💡 Recommendations"
+])
+
+
+# =========================================================
+# TAB 1 — OVERVIEW
+# =========================================================
+
+with tab1:
+
+    # KPI CARDS
+    col1, col2, col3, col4, col5 = st.columns(5)
+
+    col1.metric(
+        "Employees",
+        f"{len(filtered_df):,}"
+    )
+
+    col2.metric(
+        "Turnover Rate",
+        f"{turnover_rate:.1f}%"
+    )
+
+    col3.metric(
+        "Average Salary",
+        f"${average_salary:,.0f}"
+    )
+
+    col4.metric(
+        "Average Age",
+        f"{average_age:.1f}"
+    )
+
+    col5.metric(
+        "Average Tenure",
+        f"{average_tenure:.1f} years"
+    )
+
+    st.divider()
+
+    # EXECUTIVE SNAPSHOT
+    st.subheader("Executive Snapshot")
+
+    snapshot_col1, snapshot_col2, snapshot_col3 = st.columns(3)
+
+    with snapshot_col1:
+
+        st.markdown("### 👥 Workforce")
+
+        st.write(
+            f"NovaTech has **{len(filtered_df):,} employees** "
+            f"within the selected filters, with an average age of "
+            f"**{average_age:.1f} years**."
+        )
+
+    with snapshot_col2:
+
+        st.markdown("### 🔄 Retention")
+
+        st.write(
+            f"The current turnover rate is **{turnover_rate:.1f}%**. "
+            f"Turnover patterns can be explored in the Turnover tab."
+        )
+
+    with snapshot_col3:
+
+        st.markdown("### 💰 Compensation")
+
+        st.write(
+            f"Average annual salary is **${average_salary:,.0f}**. "
+            f"Detailed salary and bonus patterns are available "
+            f"in the Compensation tab."
+        )
+
+    st.divider()
+
+    # DEPARTMENT WORKFORCE
+    st.subheader("Workforce Distribution")
+
+    department_counts = (
+        filtered_df["Department"]
+        .value_counts()
+        .sort_values(ascending=False)
+    )
+
+    st.bar_chart(department_counts)
+
+    st.caption(
+        "Number of employees within each department based on the selected filters."
+    )
+
+
+# =========================================================
+# TAB 2 — TURNOVER
+# =========================================================
+
+with tab2:
+
+    st.subheader("Employee Turnover Analysis")
+
+    st.caption(
+        "Explore turnover patterns across departments, gender, "
+        "countries and employee tenure."
+    )
+
+    # Department and Gender
+    col1, col2 = st.columns(2)
+
+    with col1:
+
+        turnover_by_department = (
+            filtered_df.groupby("Department")["Turnover"]
+            .mean()
+            .mul(100)
+            .sort_values(ascending=False)
+        )
+
+        st.markdown("### Turnover by Department")
+
+        st.bar_chart(turnover_by_department)
+
+        st.caption(
+            "Percentage of employees who exited within each department."
+        )
+
+    with col2:
+
+        turnover_by_gender = (
+            filtered_df.groupby("Gender")["Turnover"]
+            .mean()
+            .mul(100)
+            .sort_values(ascending=False)
+        )
+
+        st.markdown("### Turnover by Gender")
+
+        st.bar_chart(turnover_by_gender)
+
+        st.caption(
+            "Percentage of employees who exited within each gender group."
+        )
+
+    st.divider()
+
+    # Country and Tenure
+    col3, col4 = st.columns(2)
+
+    with col3:
+
+        turnover_by_country = (
+            filtered_df.groupby("Country")["Turnover"]
+            .mean()
+            .mul(100)
+            .sort_values(ascending=False)
+        )
+
+        st.markdown("### Turnover by Country")
+
+        st.bar_chart(turnover_by_country)
+
+        st.caption(
+            "Percentage of employees who exited within each country."
+        )
+
+    with col4:
+
+        turnover_by_tenure = (
+            filtered_df.groupby(
+                "Tenure Group",
+                observed=True
+            )["Turnover"]
+            .mean()
+            .mul(100)
+        )
+
+        st.markdown("### Turnover by Tenure")
+
+        st.bar_chart(turnover_by_tenure)
+
+        st.caption(
+            "Percentage of employees who exited within each tenure group."
+        )
+
+    st.divider()
+
+    st.info(
+        "Analytical note: turnover patterns identify associations "
+        "within the dataset and do not establish causal relationships."
+    )
+
+
+# =========================================================
+# TAB 3 — WORKFORCE TRENDS
+# =========================================================
+
+with tab3:
+
+    st.subheader("Hiring & Exit Trends")
+
+    st.caption(
+        "Annual hiring and employee exit activity based on recorded "
+        "hire and exit dates."
+    )
+
+    hiring = (
+        filtered_df
+        .groupby("Hire Year")
+        .size()
+    )
+
+    exits = (
+        filtered_df
+        .dropna(subset=["Exit Year"])
+        .groupby("Exit Year")
+        .size()
+    )
+
+    hiring_vs_exit = pd.concat(
+        [hiring, exits],
+        axis=1
+    ).fillna(0)
+
+    hiring_vs_exit.columns = [
+        "Hires",
+        "Exits"
     ]
-})
 
-st.dataframe(anova_results, hide_index=True)
+    hiring_vs_exit.index = (
+        hiring_vs_exit.index
+        .astype(int)
+    )
 
-st.subheader("Key Findings")
+    st.line_chart(hiring_vs_exit)
 
-st.markdown("""
-**1. Employee Turnover**
-- Overall turnover rate is **10.3%**.
-- Employees with **0–2 years of tenure have the highest turnover rate (20.9%)**.
-- Human Resources, IT, and Finance have turnover rates above the company-wide rate.
+    st.caption(
+        "Recorded hires and exits by year."
+    )
 
-**2. Compensation & Pay Equity**
-- Salary differences are more pronounced across departments than across countries.
-- Welch's ANOVA found significant salary differences by department (**p < 0.001**).
-- A significant overall salary difference was also observed by gender (**p = 0.029**).
-- Country-level salary differences were not statistically significant (**p = 0.754**).
+    st.divider()
 
-**3. Workforce Aging**
-- The average employee age is **44.4 years**.
-- **52.1% of employees are aged 45 or older**.
-- Employees aged 55+ are concentrated in several departments, creating a need for proactive succession and knowledge-transfer planning.
-""")
+    hiring_vs_exit["Net Change"] = (
+        hiring_vs_exit["Hires"]
+        - hiring_vs_exit["Exits"]
+    )
 
-st.subheader("HR Recommendations")
+    st.subheader("Annual Net Workforce Change")
 
-st.markdown("""
-**1. Strengthen Early-Tenure Retention**
-Focus onboarding, employee engagement, mentoring, and early-career development initiatives on employees within their first two years, where turnover is highest.
+    st.line_chart(
+        hiring_vs_exit["Net Change"]
+    )
 
-**2. Review Departmental Compensation Structures**
-Conduct a structured review of salary bands, job levels, comparable roles, and bonus allocation across departments. Gender differences should be investigated using role- and seniority-adjusted comparisons rather than relying only on overall averages.
+    st.caption(
+        "Annual hires minus recorded exits. This represents "
+        "recorded workforce activity and should not be interpreted "
+        "as exact annual headcount growth."
+    )
 
-**3. Establish Succession and Knowledge-Transfer Plans**
-Identify critical roles with experienced and long-tenured employees, introduce mentoring and cross-training, and document critical institutional knowledge to support workforce continuity.
-""")
+
+# =========================================================
+# TAB 4 — COMPENSATION
+# =========================================================
+
+with tab4:
+
+    st.subheader("Compensation & Pay Equity")
+
+    st.caption(
+        "Explore salary and bonus differences across departments, "
+        "gender groups and countries."
+    )
+
+    # Salary analysis
+    st.markdown("### Salary Analysis")
+
+    col1, col2 = st.columns(2)
+
+    with col1:
+
+        salary_by_department = (
+            filtered_df
+            .groupby("Department")["Annual Salary"]
+            .mean()
+            .sort_values(ascending=False)
+        )
+
+        st.markdown("#### Average Salary by Department")
+
+        st.bar_chart(
+            salary_by_department
+        )
+
+    with col2:
+
+        salary_by_gender = (
+            filtered_df
+            .groupby("Gender")["Annual Salary"]
+            .mean()
+            .sort_values(ascending=False)
+        )
+
+        st.markdown("#### Average Salary by Gender")
+
+        st.bar_chart(
+            salary_by_gender
+        )
+
+    salary_by_country = (
+        filtered_df
+        .groupby("Country")["Annual Salary"]
+        .mean()
+        .sort_values(ascending=False)
+    )
+
+    st.markdown("#### Average Salary by Country")
+
+    st.bar_chart(
+        salary_by_country
+    )
+
+    st.divider()
+
+    # Bonus analysis
+    st.markdown("### Bonus Analysis")
+
+    col3, col4 = st.columns(2)
+
+    with col3:
+
+        bonus_by_department = (
+            filtered_df
+            .groupby("Department")["Bonus %"]
+            .mean()
+            .mul(100)
+            .sort_values(ascending=False)
+        )
+
+        st.markdown("#### Average Bonus by Department")
+
+        st.bar_chart(
+            bonus_by_department
+        )
+
+    with col4:
+
+        bonus_by_gender = (
+            filtered_df
+            .groupby("Gender")["Bonus %"]
+            .mean()
+            .mul(100)
+            .sort_values(ascending=False)
+        )
+
+        st.markdown("#### Average Bonus by Gender")
+
+        st.bar_chart(
+            bonus_by_gender
+        )
+
+    bonus_by_country = (
+        filtered_df
+        .groupby("Country")["Bonus %"]
+        .mean()
+        .mul(100)
+        .sort_values(ascending=False)
+    )
+
+    st.markdown("#### Average Bonus by Country")
+
+    st.bar_chart(
+        bonus_by_country
+    )
+
+    st.info(
+        "Analytical note: differences in average compensation do not "
+        "by themselves establish pay discrimination. Role, seniority, "
+        "tenure and department should be considered when evaluating pay equity."
+    )
+
+
+# =========================================================
+# TAB 5 — WORKFORCE AGING
+# =========================================================
+
+with tab5:
+
+    st.subheader("Workforce Aging & Succession Planning")
+
+    st.caption(
+        "Assess workforce age structure and identify areas requiring "
+        "succession and knowledge-transfer planning."
+    )
+
+    # Age distribution
+    st.markdown("### Age Distribution")
+
+    age_group_counts = (
+        filtered_df["Age Group"]
+        .value_counts()
+        .sort_index()
+    )
+
+    st.bar_chart(
+        age_group_counts
+    )
+
+    st.divider()
+
+    # 55+ analysis
+    col1, col2 = st.columns(2)
+
+    with col1:
+
+        employees_55_plus = (
+            filtered_df[
+                filtered_df["Age"] >= 55
+            ]
+            .groupby("Department")
+            .size()
+            .sort_values(ascending=False)
+        )
+
+        st.markdown("### Employees Aged 55+ by Department")
+
+        st.bar_chart(
+            employees_55_plus
+        )
+
+    with col2:
+
+        age_55_pct = (
+            filtered_df
+            .groupby("Department")["Age"]
+            .apply(
+                lambda x:
+                (x >= 55).mean() * 100
+            )
+            .sort_values(ascending=False)
+        )
+
+        st.markdown("### Percentage Aged 55+")
+
+        st.bar_chart(
+            age_55_pct
+        )
+
+    st.divider()
+
+    # Experienced workforce
+    senior_experienced = (
+        filtered_df[
+            (filtered_df["Age"] >= 45) &
+            (filtered_df["Tenure Years"] >= 11)
+        ]
+        .groupby("Department")
+        .size()
+        .sort_values(ascending=False)
+    )
+
+    st.markdown(
+        "### Employees Aged 45+ with 11+ Years of Tenure"
+    )
+
+    st.bar_chart(
+        senior_experienced
+    )
+
+    st.caption(
+        "This group represents employees with both substantial "
+        "organizational experience and longer tenure."
+    )
+
+    st.divider()
+
+    # Average age
+    col3, col4 = st.columns(2)
+
+    with col3:
+
+        average_age_by_department = (
+            filtered_df
+            .groupby("Department")["Age"]
+            .mean()
+            .sort_values(ascending=False)
+        )
+
+        st.markdown("### Average Age by Department")
+
+        st.bar_chart(
+            average_age_by_department
+        )
+
+    with col4:
+
+        average_age_by_country = (
+            filtered_df
+            .groupby("Country")["Age"]
+            .mean()
+            .sort_values(ascending=False)
+        )
+
+        st.markdown("### Average Age by Country")
+
+        st.bar_chart(
+            average_age_by_country
+        )
+
+
+# =========================================================
+# TAB 6 — STATISTICAL ANALYSIS
+# =========================================================
+
+with tab6:
+
+    st.subheader("Salary Statistical Analysis")
+
+    st.caption(
+        "Statistical tests are based on the complete 1,000-employee "
+        "dataset and are independent of the dashboard filters."
+    )
+
+    anova_results = pd.DataFrame({
+        "Grouping Variable": [
+            "Department",
+            "Gender",
+            "Country"
+        ],
+        "F-statistic": [
+            11.1188,
+            4.7685,
+            0.2829
+        ],
+        "p-value": [
+            0.00000000002065,
+            0.0292,
+            0.7536
+        ],
+        "Significant": [
+            "Yes",
+            "Yes",
+            "No"
+        ]
+    })
+
+    st.dataframe(
+        anova_results,
+        hide_index=True,
+        use_container_width=True
+    )
+
+    st.divider()
+
+    st.markdown("### Interpretation")
+
+    st.markdown("""
+    **Department:** Salary differences across departments are statistically
+    significant (Welch's ANOVA, p < 0.001).
+
+    **Gender:** The overall salary difference between gender groups is
+    statistically significant (Welch's ANOVA, p = 0.029).
+
+    **Country:** Salary differences across countries are not statistically
+    significant (ANOVA, p = 0.754).
+    """)
+
+    st.divider()
+
+    with st.expander("📚 Statistical Methodology"):
+
+        st.write(
+            "Welch's ANOVA was used for department and gender comparisons "
+            "because Levene's test indicated unequal salary variances. "
+            "Standard one-way ANOVA was retained for country because there "
+            "was no evidence of unequal variances."
+        )
+
+        st.write(
+            "Statistical significance does not establish causation. "
+            "Observed salary differences should be investigated further "
+            "using factors such as job role, seniority and tenure."
+        )
+
+
+# =========================================================
+# TAB 7 — RECOMMENDATIONS
+# =========================================================
+
+with tab7:
+
+    st.subheader("Key Findings & HR Recommendations")
+
+    # Key findings
+    st.markdown("### Key Findings")
+
+    finding_col1, finding_col2, finding_col3 = st.columns(3)
+
+    with finding_col1:
+
+        st.markdown("#### 🔄 Turnover")
+
+        st.write(
+            "Overall turnover is 10.3%, with employees in the "
+            "0–2 year tenure group recording the highest turnover "
+            "rate at 20.90%."
+        )
+
+    with finding_col2:
+
+        st.markdown("#### 💰 Compensation")
+
+        st.write(
+            "Salary variation is more pronounced across departments "
+            "than across countries. Department and gender differences "
+            "were statistically significant."
+        )
+
+    with finding_col3:
+
+        st.markdown("#### 👴 Workforce Aging")
+
+        st.write(
+            "52.1% of employees are aged 45 or older, creating a need "
+            "for proactive succession and knowledge-transfer planning."
+        )
+
+    st.divider()
+
+    # Recommendations
+    st.markdown("### HR Recommendations")
+
+    st.markdown("""
+    **1. Strengthen Early-Tenure Retention**
+
+    Focus onboarding, mentoring, employee engagement and early-career
+    development initiatives on employees within their first two years,
+    where turnover is highest.
+
+    **2. Review Departmental Compensation Structures**
+
+    Conduct a structured review of salary bands, job levels, comparable
+    roles and bonus allocation across departments. Gender differences
+    should be investigated using role- and seniority-adjusted comparisons.
+
+    **3. Establish Succession and Knowledge-Transfer Plans**
+
+    Identify critical roles with experienced and long-tenured employees.
+    Introduce mentoring, cross-training and knowledge documentation to
+    support workforce continuity.
+    """)
+
+    st.divider()
+
+    # Business decision
+    st.markdown("### Business Decision")
+
+    st.success(
+        "NovaTech should prioritize three interconnected HR strategies: "
+        "reducing early-tenure turnover, strengthening compensation "
+        "governance and preparing for workforce succession."
+    )
+
+    st.write(
+        "The analysis suggests that turnover should not be treated as a "
+        "single company-wide problem. HR should target early-tenure "
+        "retention while simultaneously addressing departmental "
+        "compensation structures and long-term workforce continuity."
+    )
+
+    st.divider()
+
+    # Methodology
+    with st.expander("📚 Dashboard Methodology"):
+
+        st.write(
+            "The dashboard is based on 1,000 employee records covering "
+            "the United States, China and Brazil."
+        )
+
+        st.write(
+            "Turnover rate is calculated as the percentage of employees "
+            "with a Turnover indicator of 1."
+        )
+
+        st.write(
+            "Salary and bonus analyses use employee-level compensation "
+            "data. Workforce aging analysis uses employee age and tenure."
+        )
+
+        st.write(
+            "Statistical analysis uses ANOVA, Welch's ANOVA and post-hoc "
+            "testing where appropriate."
+        )
+
+        st.write(
+            "Findings represent associations within the dataset and "
+            "should not automatically be interpreted as causal effects."
+        )
+
+
+# =========================================================
+# FOOTER
+# =========================================================
 
 st.divider()
 
-st.subheader("Business Decision")
+st.caption(
+    "NovaTech Industries • HR Analytics & Workforce Intelligence Dashboard"
+)
 
-st.markdown("""
-Based on the analysis, NovaTech Industries should focus its HR strategy
-on three interconnected priorities:
-
-**1. Reduce early-tenure turnover**
-
-Employees with 0–2 years of tenure recorded the highest turnover rate
-at 20.90%. HR should therefore strengthen onboarding, mentoring,
-employee engagement, and early-career development programs.
-
-**2. Review compensation structures**
-
-Salary differences are more pronounced across departments than across
-countries. HR should review departmental salary bands, job levels,
-comparable roles, and bonus allocation. The observed gender difference
-should also be investigated using role, seniority, tenure, and
-department-adjusted comparisons.
-
-**3. Prepare for workforce succession**
-
-More than half of the workforce is aged 45 or older. NovaTech should
-strengthen succession planning, knowledge transfer, mentoring,
-cross-training, and leadership development, particularly in departments
-with larger concentrations of experienced employees.
-
-### Overall Business Direction
-
-NovaTech should adopt a proactive HR strategy that combines **retention,
-compensation governance, and succession planning** rather than addressing
-turnover as a single company-wide issue.
-""")
+st.caption(
+    "Prepared for HR leadership | Data-driven workforce insights "
+    "across the United States, China and Brazil"
+)
